@@ -8,5 +8,5 @@ autocorrect==2.6.1
 fuzzywuzzy==0.18.0
 python-Levenshtein
 Flask==2.2.3
-Flask-CORS==3.1.1
+Flask-CORS
 googletrans==4.0.0-rc1
