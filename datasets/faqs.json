@@ -1,0 +1,301 @@
+{
+    "intents": [
+      {
+        "intent": "Remote Pilot License",
+        "user_input_variations": [
+          "What is Remote Pilot License?",
+          "Can you explain what a remote pilot license is?",
+          "Tell me about the remote pilot license."
+        ],
+        "responses": [
+          "A remote pilot license is equivalent to a driver's license but is used for drones. This license grants you permission to fly a drone for commercial purposes in India."
+        ]
+      },
+      {
+        "intent": "Drone Flying Training",
+        "user_input_variations": [
+          "Why do I need Drone Flying Training?",
+          "What is the importance of drone flying training?",
+          "Do I need training to fly a drone?"
+        ],
+        "responses": [
+          "Drone pilot training helps you acquire the necessary drone flying skills and it is also a mandatory requirement to get a remote pilot license."
+        ]
+      },
+      {
+        "intent": "Type of Drone Remote Pilot License",
+        "user_input_variations": [
+          "What type of Drone Remote Pilot License do we use?",
+          "Can you tell me about the type of remote pilot license?",
+          "What is the category of the drone remote pilot license?"
+        ],
+        "responses": [
+          "CAT1 (VLOS). Which enables you to fly any DGCA-approved drone."
+        ]
+      },
+      {
+        "intent": "License Validity",
+        "user_input_variations": [
+          "How long will my drone license be valid?",
+          "What is the validity period of the remote pilot license?",
+          "When does my drone license expire?"
+        ],
+        "responses": [
+          "10 years from the day of receiving your certificate. After that, you can reapply again for a new certificate."
+        ]
+      },
+      {
+        "intent": "Eligibility Criteria for Remote Pilot License",
+        "user_input_variations": [
+          "What are the eligibility criteria to apply for a remote pilot license?",
+          "Who can apply for a remote pilot license?",
+          "What do I need to qualify for a remote pilot license?"
+        ],
+        "responses": [
+          "You should be 18+ in age, completed your 10th-grade education, and own a valid passport."
+        ]
+      },
+      {
+        "intent": "DGCA Certification",
+        "user_input_variations": [
+          "Are we DGCA Certified?",
+          "Is Garuda Aerospace certified by DGCA?",
+          "What is the DGCA certification status of Garuda Aerospace?"
+        ],
+        "responses": [
+          "Yes. We are India's first dual DGCA Certified company for both Pilot training and drone manufacturing."
+        ]
+      },
+      {
+        "intent": "Training Program Duration",
+        "user_input_variations": [
+          "How many days is the training program?",
+          "What is the duration of the drone training program?",
+          "How long does the drone training take?"
+        ],
+        "responses": [
+          "The program is for 9 full days and will take place in our Headquarters, Agni College, Chennai."
+        ]
+      },
+      {
+        "intent": "Application Process",
+        "user_input_variations": [
+          "How do I apply?",
+          "What is the application process for the training program?",
+          "Can you guide me on how to apply?"
+        ],
+        "responses": [
+          "Here's the application form for you to apply: Application Form. We will reach out to you once you have filled this out and addressed any queries before you go ahead with your payment."
+        ]
+      },
+      {
+        "intent": "Cost of the Program",
+        "user_input_variations": [
+          "What is the cost of the program?",
+          "How much does the drone training program cost?",
+          "Can you tell me the price of the training program?"
+        ],
+        "responses": [
+          "The current cost of the program is 24,999/-. This only includes training & certification costs. This does not cover any stay, food, and transport costs."
+        ]
+      },
+      {
+        "intent": "Training Location",
+        "user_input_variations": [
+          "Where does the training take place?",
+          "What is the location of the drone training?",
+          "Where can I attend the drone training program?"
+        ],
+        "responses": [
+          "Agni College of Technology, Old Mahabalipuram Road, Thalambur Rd, Chennai, Tamil Nadu - 600130."
+        ]
+      },
+      {
+        "intent": "Online Training Availability",
+        "user_input_variations": [
+          "Is there an online version of the program?",
+          "Can I take the drone training online?",
+          "Is the training program available online?"
+        ],
+        "responses": [
+          "No. Due to the nature of the training, the courses need to be conducted at a verified physical location only."
+        ]
+      },
+      {
+        "intent": "Certificate Criteria",
+        "user_input_variations": [
+          "Criteria for receiving my certificate?",
+          "What do I need to do to get my drone training certificate?",
+          "How can I obtain my certificate after training?"
+        ],
+        "responses": [
+          "Finish the 9 Days drone training course & pass the physical/theory exam."
+        ]
+      },
+      {
+        "intent": "Overview of Garuda Aerospace",
+        "user_input_variations": [
+          "What is Garuda Aerospace?",
+          "Can you provide an overview of Garuda Aerospace?",
+          "Tell me about Garuda Aerospace."
+        ],
+        "responses": [
+          "Garuda Aerospace is a leading manufacturer and training organization specializing in drones and unmanned aerial vehicles (UAVs). We provide a wide range of services, including drone manufacturing, training programs, consulting, and aerial solutions for various industries."
+        ]
+      },
+      {
+        "intent": "Products Offered by Garuda Aerospace",
+        "user_input_variations": [
+          "What products does Garuda Aerospace offer?",
+          "Can you list the products provided by Garuda Aerospace?",
+          "Tell me about the drones offered by Garuda Aerospace."
+        ],
+        "responses": [
+          "We offer a diverse range of high-quality drones and UAVs designed for various applications, including aerial photography and videography, surveillance, mapping, agriculture, and industrial inspections. Our products are known for their reliability, performance, and advanced features."
+        ]
+      },
+      {
+        "intent": "Training Programs Offered",
+        "user_input_variations": [
+          "What types of training programs does Garuda Aerospace provide?",
+          "Can you tell me about the training courses offered by Garuda Aerospace?",
+          "What training options are available at Garuda Aerospace?"
+        ],
+        "responses": [
+          "Garuda Aerospace offers comprehensive training programs for both beginners and experienced drone operators. Our courses cover various aspects of drone operation, including flight training, regulations and safety guidelines, aerial photography and videography techniques, mapping and surveying, and advanced UAV operations for commercial purposes."
+        ]
+      },
+      {
+        "intent": "Beginner Suitability of Training Programs",
+        "user_input_variations": [
+          "Are Garuda Aerospace training programs suitable for beginners?",
+          "Can beginners enroll in Garuda Aerospace training courses?",
+          "Is the training program appropriate for someone with no experience?"
+        ],
+        "responses": [
+          "Yes, our training programs cater to individuals with varying levels of experience, including beginners who have never flown a drone before. We provide step-by-step guidance and hands-on training to ensure that participants acquire the necessary skills and knowledge to operate drones safely and effectively."
+        ]
+      },
+      {
+        "intent": "Prior Experience Requirement",
+        "user_input_variations": [
+          "Do I need any prior experience to enroll in Garuda Aerospace training courses?",
+          "Is previous drone flying experience necessary for the training?",
+          "Can I join the training program without any experience?"
+        ],
+        "responses": [
+          "No prior experience is required to enroll in our training programs. Whether you are a novice or an experienced drone operator looking to enhance your skills, we offer courses suitable for all levels."
+        ]
+      },
+      {
+        "intent": "Certification of Training Courses",
+        "user_input_variations": [
+          "Are Garuda Aerospace training courses certified?",
+          "Do participants receive a certificate after completing the training?",
+          "Is the training program recognized?"
+        ],
+        "responses": [
+          "Yes, our training courses are conducted by certified instructors and comply with industry standards and regulations. Upon successful completion of the course, participants receive a certificate of completion, which may be required for obtaining commercial drone licenses or permits."
+        ]
+      },
+      {
+        "intent": "Industries Benefiting from Drone Solutions",
+        "user_input_variations": [
+          "What industries can benefit from Garuda Aerospace's drone solutions?",
+          "Which sectors utilize Garuda Aerospace drones?",
+          "How do different industries use Garuda Aerospace drones?"
+        ],
+        "responses": [
+          "Our drone solutions cater to a wide range of industries, including agriculture, construction, real estate, environmental monitoring, infrastructure inspection, public safety, and filmmaking. Drones offer cost-effective and efficient solutions for various applications in these sectors."
+        ]
+      },
+      {
+        "intent": "Benefits of Drones in Agriculture",
+        "user_input_variations": [
+          "How can drones benefit agriculture and farming operations?",
+          "What advantages do drones offer to farmers?",
+          "In what ways do drones improve agricultural practices?"
+        ],
+        "responses": [
+          "Drones have revolutionized agriculture by enabling farmers to monitor crops, assess plant health, detect pests and diseases, and optimize irrigation and fertilizer applications. Our agricultural drone solutions help farmers increase crop yields, reduce input costs, and make informed decisions to improve overall farm productivity."
+        ]
+      },
+      {
+        "intent": "Support Services Offered",
+        "user_input_variations": [
+          "What support services does Garuda Aerospace offer to its customers?",
+          "Can you explain the customer support provided by Garuda Aerospace?",
+          "What kind of assistance can I expect from Garuda Aerospace?"
+        ],
+        "responses": [
+          "Garuda Aerospace provides comprehensive support services to its customers, including technical support, maintenance and repair services, software updates, and ongoing training and education. Our team is committed to ensuring that our customers get the most out of their drone investments."
+        ]
+      },
+      {
+        "intent": "Purchasing Drones and Training Enrollment",
+        "user_input_variations": [
+          "How can I purchase Garuda Aerospace drones or enroll in training programs?",
+          "What is the process to buy drones or sign up for training?",
+          "Can you guide me on how to acquire drones or training from Garuda Aerospace?"
+        ],
+        "responses": [
+          "To purchase our drones or inquire about our training programs, you can visit our website or contact our sales and customer service team. We also have authorized dealers and training centers located in various regions to serve our customers more efficiently."
+        ]
+      },
+      {
+        "intent": "Customized Drone Solutions",
+        "user_input_variations": [
+          "Does Garuda Aerospace offer customized drone solutions for specific applications?",
+          "Can I get a tailored drone solution from Garuda Aerospace?",
+          "What options are available for custom drone solutions?"
+        ],
+        "responses": [
+          "Yes, we specialize in providing customized drone solutions tailored to meet the unique needs and requirements of our customers. Whether you need a specialized payload, software integration, or custom-built UAVs, our team can work with you to develop the perfect solution for your application."
+        ]
+      },
+      {
+        "intent": "Regulatory Compliance and Safety Standards",
+        "user_input_variations": [
+          "How does Garuda Aerospace ensure compliance with regulations and safety standards?",
+          "What measures are in place for regulatory compliance at Garuda Aerospace?",
+          "How does Garuda Aerospace maintain safety standards?"
+        ],
+        "responses": [
+          "Garuda Aerospace is committed to upholding the highest standards of safety and regulatory compliance in all our operations. We closely monitor regulatory developments and industry best practices to ensure that our products and services meet or exceed all applicable standards and requirements."
+        ]
+      },
+      {
+        "intent": "Drone Rental Services",
+        "user_input_variations": [
+          "Can I rent drones from Garuda Aerospace for short-term projects or events?",
+          "Does Garuda Aerospace offer drone rental services?",
+          "How can I rent a drone from Garuda Aerospace?"
+        ],
+        "responses": [
+          "Yes, we offer drone rental services for short-term projects, events, and special occasions. Whether you need aerial footage for a film shoot, event coverage, or industrial inspection, our rental fleet includes a variety of drones equipped with the latest technology and features."
+        ]
+      },
+      {
+        "intent": "Ongoing Training and Development",
+        "user_input_variations": [
+          "Does Garuda Aerospace offer ongoing training and professional development opportunities?",
+          "What kind of advanced training does Garuda Aerospace provide?",
+          "Can I continue my education with Garuda Aerospace after initial training?"
+        ],
+        "responses": [
+          "Yes, we provide ongoing training and professional development opportunities to our customers through advanced courses, workshops, seminars, and online resources. Our goal is to empower individuals and organizations to stay updated with the latest trends and advancements in the drone industry."
+        ]
+      },
+      {
+        "intent": "Staying Updated with Garuda Aerospace",
+        "user_input_variations": [
+          "How can I stay updated with the latest news and developments from Garuda Aerospace?",
+          "What are the ways to follow Garuda Aerospace's updates?",
+          "How do I get news from Garuda Aerospace?"
+        ],
+        "responses": [
+          "You can stay updated with the latest news, product releases, and developments from Garuda Aerospace by subscribing to our newsletter, following us on social media platforms, or visiting our website regularly. We also host webinars, events, and conferences to engage with our community and share valuable insights and expertise."
+        ]
+      }
+    ]
+  }

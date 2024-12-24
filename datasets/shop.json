@@ -1,0 +1,160 @@
+{
+    "intents": [
+      {
+        "intent": "Flow Sensor",
+        "user_input_variations": [
+          "What is the price of the Flow Sensor?",
+          "Tell me about the Flow Sensor.",
+          "What material is the Flow Sensor made of?"
+        ],
+        "responses": [
+          "The Flow Sensor is priced at ₹4,448.60 inc GST. It is made of plastic and is connected to the motor pump and tubes to measure the flow rate.",
+          "The Flow Sensor is a plastic device used to measure the flow rate when connected to a motor pump."
+        ]
+      },
+      {
+        "intent": "Hexagonal Tube Holder",
+        "user_input_variations": [
+          "What is the Hexagonal Tube Holder used for?",
+          "How much does the Hexagonal Tube Holder cost?",
+          "What material is the Hexagonal Tube Holder made of?"
+        ],
+        "responses": [
+          "The Hexagonal Tube Holder costs ₹236.00 inc GST and is made of plastic. It is designed to hold tubes and is lightweight with a high strength-to-weight ratio.",
+          "This holder is made from shock-resistant plastic and is used to securely hold tubes."
+        ]
+      },
+      {
+        "intent": "12x8mm Water Tube",
+        "user_input_variations": [
+          "What is the price of the 12x8mm Water Tube?",
+          "Tell me about the 12x8mm Water Tube.",
+          "What material is the 12x8mm Water Tube made of?"
+        ],
+        "responses": [
+          "The 12x8mm Water Tube is priced at ₹141.00 inc GST. It is made of polyethylene and is lightweight with a high strength-to-weight ratio.",
+          "This tube is thermally and electrically insulating, making it suitable for various applications."
+        ]
+      },
+      {
+        "intent": "3x8mm Allen Screw",
+        "user_input_variations": [
+          "What is the price of the 3x8mm Allen Screw?",
+          "What is the usage of the 3x8mm Allen Screw?",
+          "What material is the 3x8mm Allen Screw made of?"
+        ],
+        "responses": [
+          "The 3x8mm Allen Screw costs ₹9.44 inc GST and is made of stainless steel. It is used in applications with insufficient clearance for a fastener with an external hexagon head.",
+          "This screw is ideal for tight spaces where traditional screws cannot be used."
+        ]
+      },
+      {
+        "intent": "Pixhawk Cube Flight Controller",
+        "user_input_variations": [
+          "What is the price of the Pixhawk Cube Flight Controller?",
+          "Tell me about the Pixhawk Cube Flight Controller.",
+          "What are the specifications of the Pixhawk Cube Flight Controller?"
+        ],
+        "responses": [
+          "The Pixhawk Cube Flight Controller is priced at ₹41,476.50 inc GST. It features three redundant IMUs and two redundant MS5611 barometers.",
+          "This controller receives user commands and controls the motors, allowing the drone to stay airborne."
+        ]
+      },
+      {
+        "intent": "Power Distribution Board",
+        "user_input_variations": [
+          "What is the price of the Power Distribution Board?",
+          "What is the function of the Power Distribution Board?",
+          "Tell me about the Power Distribution Board."
+        ],
+        "responses": [
+          "The Power Distribution Board costs ₹10,738.00 inc GST. It transfers power from the battery to ESCs and motors, generating power supply for the autopilot and other peripherals.",
+          "This board also provides functionality for battery voltage and current measurements."
+        ]
+      },
+      {
+        "intent": "Motor CCW",
+        "user_input_variations": [
+          "What is the price of the Motor CCW?",
+          "Tell me about the Motor CCW.",
+          "What are the specifications of the Motor CCW?"
+        ],
+        "responses": [
+          "The Motor CCW is priced at ₹19,942.00 inc GST. It is made of aluminum alloy and has a kv rating of 180KV with a maximum power of 770W.",
+          "This motor is used to provide the power necessary to lift the drone."
+        ]
+      },
+      {
+        "intent": "Charger",
+        "user_input_variations": [
+          "What is the price of the Charger?",
+          "Tell me about the Charger.",
+          "What is the function of the Charger?"
+        ],
+        "responses": [
+          "The Charger costs ₹32,981.00 inc GST and is a dual-channel 6S LiPo charger for industrial application drones.",
+          "It provides balance charging for two packs of 6 cell batteries simultaneously."
+        ]
+      },
+      {
+        "intent": "6s Battery",
+        "user_input_vari ations": [
+          "What is the price of the 6s Battery?",
+          "Tell me about the 6s Battery.",
+          "What are the specifications of the 6s Battery?"
+        ],
+        "responses": [
+          "The 6s Battery is priced at ₹32,214.00 inc GST. It has a capacity of 16,000 mAh (6S) and a voltage of 44.4 V.",
+          "This lithium polymer battery features an XT 90 connector and has a charging time of 30 to 40 minutes."
+        ]
+      },
+      {
+        "intent": "10L Tank",
+        "user_input_variations": [
+          "What is the price of the 10L Tank?",
+          "Tell me about the 10L Tank.",
+          "What material is the 10L Tank made of?"
+        ],
+        "responses": [
+          "The 10L Tank costs ₹17,641.00 inc GST and is made of ABS plastic. It is designed to carry liquids such as pesticides.",
+          "This tank is lightweight and has a high strength-to-weight ratio, along with shock resistance and thermal insulation."
+        ]
+      },
+      {
+        "intent": "Single Nozzle",
+        "user_input_variations": [
+          "What is the price of the Single Nozzle?",
+          "Tell me about the Single Nozzle.",
+          "What is the usage of the Single Nozzle?"
+        ],
+        "responses": [
+          "The Single Nozzle is priced at ₹1,840.80 inc GST. It has a maximum spray speed of 1L/min and a spray width of up to 8 acres per hour.",
+          "This nozzle is used for efficient liquid spraying applications."
+        ]
+      },
+      {
+        "intent": "23 inch Propeller CW",
+        "user_input_variations": [
+          "What is the price of the 23 inch Propeller CW?",
+          "Tell me about the 23 inch Propeller CW.",
+          "What material is the 23 inch Propeller CW made of?"
+        ],
+        "responses": [
+          "The 23 inch Propeller CW costs ₹2,454.40 inc GST and is made of composite carbon fiber. It is designed to be attached to the motors to lift the drone.",
+          "This propeller is essential for providing the necessary lift during flight."
+        ]
+      },
+      {
+        "intent": "Arm Rod",
+        "user_input_variations": [
+          "What is the price of the Arm Rod?",
+          "Tell me about the Arm Rod.",
+          "What material is the Arm Rod made of?"
+        ],
+        "responses": [
+          "The Arm Rod is priced at ₹11,505.00 inc GST and is made of aluminum. It has a tensile strength of 210 MPa.",
+          "This rod is used to connect the motor arm to the center frame, providing structural support."
+        ]
+      }
+    ]
+  }

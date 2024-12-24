@@ -1,0 +1,232 @@
+{
+    "intents": [
+      {
+        "intent": "Industrial Services",
+        "user_input_variations": [
+          "What industrial services does Garuda Aerospace offer?",
+          "Tell me about the industrial services provided by Garuda Aerospace.",
+          "What features are included in the industrial services?"
+        ],
+        "responses": [
+          "Garuda Aerospace offers a comprehensive suite of industrial services, including drone-based thermal imaging, ultrasonic thickness testing, and inventory management, tailored for Industry 4.0 upgrades.",
+          "The industrial services include features such as expedited approvals from DGCA and MOCA, and collaborations with IIT Kanpur and MIT."
+        ]
+      },
+      {
+        "intent": "Agriculture Services",
+        "user_input_variations": [
+          "What agricultural services does Garuda Aerospace provide?",
+          "Tell me about the benefits of agricultural drones.",
+          "What technology is used in agricultural services?"
+        ],
+        "responses": [
+          "Garuda Aerospace provides agricultural drones equipped with advanced technology for field soil analysis, crop scouting, and precision farming solutions, enhancing crop yields and informed decision-making.",
+          "The agricultural services include benefits like crop health assessment and irrigation management, utilizing precision farming solutions and digital imaging capabilities."
+        ]
+      },
+      {
+        "intent": "Disaster Management Services",
+        "user_input_variations": [
+          "How does Garuda Aerospace assist in disaster management?",
+          "What features do disaster management drones have?",
+          "Tell me about the applications of disaster management drones."
+        ],
+        "responses": [
+          "Garuda Aerospace's disaster management drones assist in emergency response operations with features like rapid deployment, aerial surveillance, and payload delivery to hard-to-reach areas.",
+          "These drones are used for damage assessment, search and rescue operations, and situational awareness during emergencies."
+        ]
+      },
+      {
+        "intent": "Anti-Drone System",
+        "user_input_variations": [
+          "What is the anti-drone system offered by Garuda Aerospace?",
+          "How does the anti-drone system work?",
+          "What detection methods are used in the anti-drone system?"
+        ],
+        "responses": [
+          "Garuda Aerospace's anti-drone systems are designed to detect, track, and mitigate unauthorized drones using methods like radar systems and radio frequency detection.",
+          "The system includes countermeasures such as RF jamming and GPS spoofing, ensuring compliance with local regulations."
+        ]
+      },
+      {
+        "intent": "Delivery Load Carrying Services",
+        "user_input_variations": [
+          "What are the advantages of load-carrying UAVs?",
+          "How does Garuda Aerospace use drones for delivery?",
+          "Tell me about the delivery load carrying services."
+        ],
+        "responses": [
+          "Garuda Aerospace deploys load-carrying UAVs for emergency supply and disaster relief, minimizing transportation time and reducing traffic congestion.",
+          "These drones enhance safety and lower greenhouse gas emissions during delivery operations."
+        ]
+      },
+      {
+        "intent": "Warehouse Management Services",
+        "user_input_variations": [
+          "How does Garuda Aerospace manage warehouse inventory?",
+          "What are the advantages of drone-based inventory management?",
+          "Tell me about the warehouse management services."
+        ],
+        "responses": [
+          "Garuda Aerospace offers drone-based inventory counts using advanced software, providing faster inventory management and 24/7 stock level monitoring.",
+          "The services reduce errors and ensure precision even in GPS-denied conditions."
+        ]
+      },
+      {
+        "intent": "Project Management and Structural Inspection",
+        "user_input_variations": [
+          "How does Garuda Aerospace use drones for project management?",
+          "What are the benefits of drone-based structural inspections?",
+          "Tell me about the project management services."
+        ],
+        "responses": [
+          "Garuda Aerospace uses drone footage for real-time project updates and structural inspections, providing visual updates to stakeholders and efficient team management.",
+          "These services are cost-effective and allow for accurate progress checks."
+        ]
+      },
+      {
+        "intent": "Highway Traffic Monitoring",
+        "user_input_variations": [
+          "How does Garuda Aerospace monitor highway traffic?",
+          "What are the benefits of using drones for traffic monitoring?",
+          "Tell me about the highway traffic monitoring services."
+        ],
+        "responses": [
+          "Garuda Aerospace utilizes drones for highway and traffic monitoring, providing real-time traffic data and efficient bridge inspections.",
+          "These services improve traffic management strategies."
+        ]
+      },
+      {
+        "intent": "Mapping Services",
+        "user_input_variations": [
+          "What mapping services does Garuda Aerospace offer?",
+          "How are drones used for mapping damage?",
+          "Tell me about the benefits of mapping services."
+        ],
+        "responses": [
+          "Garuda Aerospace provides drones for mapping damage and conducting topographical surveys, offering cost savings and faster response times.",
+   "These services enable real-time data transmission, enhancing the efficiency of mapping operations."
+        ]
+      },
+      {
+        "intent": "Internal Boiler Inspection",
+        "user_input_variations": [
+          "What are the benefits of internal boiler inspection services?",
+          "How does Garuda Aerospace conduct boiler inspections?",
+          "Tell me about the internal boiler inspection services."
+        ],
+        "responses": [
+          "Garuda Aerospace offers boiler inspection services to prevent failures and ensure safety, focusing on erosion monitoring and defect detection.",
+          "These services help in risk mitigation and maintaining operational efficiency."
+        ]
+      },
+      {
+        "intent": "Chimney Stack Inspection",
+        "user_input_variations": [
+          "What is the chimney stack inspection service?",
+          "How does Garuda Aerospace perform chimney inspections?",
+          "Tell me about the benefits of drone-based chimney inspections."
+        ],
+        "responses": [
+          "Garuda Aerospace provides drone-based chimney and stack inspection services using visual, thermal, and ultrasonic thickness inspection methods.",
+          "These services ensure zero risk for technicians, high data accuracy, and reduced maintenance downtime."
+        ]
+      },
+      {
+        "intent": "Solar Panel Inspection and Cleaning",
+        "user_input_variations": [
+          "What is the Surya Drone for solar panel cleaning?",
+          "How does Garuda Aerospace inspect solar panels?",
+          "Tell me about the benefits of solar panel inspection and cleaning services."
+        ],
+        "responses": [
+          "The Surya Drone is designed for solar panel cleaning using a waterless technique, reducing water usage and environmental impact.",
+          "These services are cost-effective and ensure low maintenance costs for solar installations."
+        ]
+      },
+      {
+        "intent": "Structural Damage Assessment",
+        "user_input_variations": [
+          "What are the advantages of structural damage assessment services?",
+          "How does Garuda Aerospace conduct damage assessments?",
+          "Tell me about the structural damage assessment services."
+        ],
+        "responses": [
+          "Garuda Aerospace offers affordable structural damage assessments that enhance safety and provide quick damage evaluations using high-resolution imaging.",
+          "These services are crucial for safety audits and risk management."
+        ]
+      },
+      {
+        "intent": "Thermography Drone Services",
+        "user_input_variations": [
+          "What is thermography drone service?",
+          "How does Garuda Aerospace use thermal imaging drones?",
+          "Tell me about the benefits of thermography drone services."
+        ],
+        "responses": [
+          "Garuda Aerospace provides thermal imaging drone services for real-time structural analysis, offering cost-effective solutions for low-light inspections.",
+          "These services enable quick identification of issues, enhancing maintenance strategies."
+        ]
+      },
+      {
+        "intent": "LiDAR Analysis",
+        "user_input_variations": [
+          "What is LiDAR analysis?",
+          "How does Garuda Aerospace use LiDAR drones?",
+          "Tell me about the applications of LiDAR analysis."
+        ],
+        "responses": [
+          "Garuda Aerospace utilizes LiDAR drones for creating detailed 3D models and data collection, applicable in forestry, urban planning, and construction.",
+          "These services provide precise data for informed decision-making."
+        ]
+      },
+      {
+        "intent": "Wind Turbine Inspection",
+        "user_input_variations": [
+          "What are the benefits of wind turbine inspection services?",
+          "How does Garuda Aerospace inspect wind turbines?",
+          "Tell me about the wind turbine inspection services."
+        ],
+        "responses": [
+          "Garuda Aerospace offers drone inspections for wind turbines, focusing on precise defect detection and providing up-close views for real-time data.",
+          "These services help reduce maintenance costs and enhance operational efficiency."
+        ]
+      },
+      {
+        "intent": "Mining Site Inspection",
+        "user_input_variations": [
+          "What are the benefits of mining site inspection services?",
+          "How does Garuda Aerospace conduct mining inspections?",
+          "Tell me about the mining site inspection services."
+        ],
+        "responses": [
+          "Garuda Aerospace provides drones for mining site inspections, enhancing safety and enabling precise planning for operations.",
+          "These services allow access to hard-to-reach areas, improving data collection."
+        ]
+      },
+      {
+        "intent": "Powerline Inspection and Stringing",
+        "user_input_variations": [
+          "What are the benefits of powerline inspection services?",
+          "How does Garuda Aerospace inspect powerlines?",
+          "Tell me about the powerline inspection and stringing services."
+        ],
+        "responses": [
+          "Garuda Aerospace offers drones for powerline inspection and stringing, reducing personnel risks and ensuring efficient task completion.",
+          "These services provide real-time data processing for better maintenance strategies."
+        ]
+      },
+      {
+        "intent": "Environmental Impact Assessment",
+        "user_input_variations": [
+          "What is environmental impact assessment?",
+          "How does Garuda Aerospace conduct environmental assessments?",
+          "Tell me about the advantages of using drones for environmental impact assessments."
+        ],
+        "responses": [
+          "Garuda Aerospace utilizes drones for environmental assessments related to climate change, water quality, and habitat analysis, employing various sensors for data collection.",
+          "These services offer cost-effective data collection, real-time data processing, and access to hard-to-reach areas, enhancing the overall assessment process."
+        ]
+      }
+    ]
+  }

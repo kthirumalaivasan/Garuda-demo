@@ -1,0 +1,148 @@
+{
+    "intents": [
+      {
+        "intent": "Kisan Drone / Agri Drone",
+        "user_input_variations": [
+          "What is the Kisan Drone?",
+          "Tell me about the Agri Drone.",
+          "What are the features of the Kisan Drone?"
+        ],
+        "responses": [
+          "The Kisan Drone, also known as an Agri Drone, is an unmanned aerial vehicle specifically designed for agricultural applications. It is equipped with various sensors and cameras to collect data and perform tasks related to farming and crop management.",
+          "An Agri Drone is designed for agricultural use, featuring advanced technologies that enable it to assist in crop management and data collection."
+        ]
+      },
+      {
+        "intent": "Surveillance Drone",
+        "user_input_variations": [
+          "What is a Surveillance Drone?",
+          "Tell me about the features of the Surveillance Drone.",
+          "What are the uses of Surveillance Drones?"
+        ],
+        "responses": [
+          "A Surveillance Drone is designed for monitoring and reconnaissance, equipped with advanced technologies for real-time visual and data intelligence. It is used in security, border surveillance, and environmental monitoring.",
+          "Surveillance Drones feature high-resolution cameras, real-time video transmission, and intelligent tracking capabilities, making them suitable for various monitoring applications."
+        ]
+      },
+      {
+        "intent": "Mapping & Survey Drone",
+        "user_input_variations": [
+          "What is a Mapping & Survey Drone?",
+          "Tell me about the uses of Mapping & Survey Drones.",
+          "What features do Mapping & Survey Drones have?"
+        ],
+        "responses": [
+          "A Mapping & Survey Drone is specifically designed for conducting mapping and surveying tasks, equipped with advanced sensors for accurate geospatial data collection.",
+          "These drones are used for aerial mapping, surveying, and infrastructure inspection, featuring high-resolution imaging and autonomous flight capabilities."
+        ]
+      },
+      {
+        "intent": "Surya Solar Panel Cleaning Drone",
+        "user_input_variations": [
+          "What is the Surya Solar Panel Cleaning Drone?",
+          "Tell me about the features of the Solar Panel Cleaning Drone.",
+          "How does the Solar Panel Cleaning Drone work?"
+        ],
+        "responses": [
+          "The Surya Solar Panel Cleaning Drone is designed for cleaning solar panels efficiently. It features a water spraying mechanism and soft bristle brushes for effective cleaning.",
+          "This drone is used in solar power plants and residential buildings, equipped with intelligent sensors for precision navigation."
+        ]
+      },
+      {
+        "intent": "Vriksh Vahaan - Seed Dropping Drone",
+        "user_input_variations": [
+          "What is the Vriksh Vahaan Seed Dropping Drone?",
+          "Tell me about the features of the Seed Dropping Drone.",
+          "How does the Seed Dropping Drone work?"
+        ],
+        "responses": [
+          "The Vriksh Vahaan is a Seed Dropping Drone designed for sowing seeds in agricultural fields. It features a seed hopper and precision navigation for efficient seed distribution.",
+          "This drone is used in agriculture and reforestation, equipped with variable seed rate control and data collection capabilities."
+        ]
+      },
+      {
+        "intent": "Loudspeaker Drone",
+        "user_input_variations": [
+          "What is a Loudspeaker Drone?",
+          "Tell me about the uses of Loudspeaker Drones.",
+          "How are Loudspeaker Drones used in India?"
+        ],
+        "responses": [
+          "The Loudspeaker Drone is equipped with loudspeaker systems for community announcements, particularly used by law enforcement during the COVID-19 pandemic to remind people of social distancing.",
+          "These drones feature waterproof cameras and high-quality audio systems for effective communication."
+        ]
+      },
+      {
+        "intent": "UGV (Unmanned Ground Vehicle)",
+        "user_input_variations": [
+          "What is a UGV?",
+          "Tell me about the uses of Unmanned Ground Vehicles.",
+          "What features do UGVs have?"
+        ],
+        "responses": [
+          "UGVs serve multiple civilian roles, including urban search and rescue and agricultural spraying. They operate autonomously and can be teleoperated for complex tasks.",
+          "These vehicles feature autonomous navigation and versatile applications, making them suitable for various operational environments."
+        ]
+      },
+      {
+        "intent": "Boat",
+        "user_input_variations": [
+          "What is the water-cleaning boat project?",
+          "Tell me about the features of the cleaning boat.",
+          "How does the cleaning boat work?"
+        ],
+        "responses": [
+          "The water-cleaning boat is designed for remote navigation to clean ponds and coastal areas, equipped with a motor-driven propeller and mesh for debris collection.",
+          "This boat operates efficiently to gather pollutants and debris from water bodies."
+        ]
+      },
+      {
+        "intent": " Submarine",
+        "user_input_variations": [
+          "What is the submarine drone?",
+          "Tell me about the features of the submarine drone.",
+          "How is the submarine drone used?"
+        ],
+        "responses": [
+          "The submarine drone is designed for exploration and environmental monitoring, featuring a rotatable wireless camera for remote navigation.",
+          "This drone is utilized in marine research and environmental monitoring, equipped with advanced capabilities for underwater exploration."
+        ]
+      },
+      {
+        "intent": "Fixed Wing VTOL",
+        "user_input_variations": [
+          "What is a Fixed Wing VTOL drone?",
+          "Tell me about the uses of Fixed Wing VTOL drones.",
+          "What features do Fixed Wing VTOL drones have?"
+        ],
+        "responses": [
+          "Fixed Wing VTOL drones combine vertical takeoff and landing with horizontal flight capabilities, making them suitable for long-range operations.",
+          "These drones are used for aerial mapping, infrastructure inspection, and emergency response, featuring hybrid flight modes and efficient forward flight."
+        ]
+      },
+      {
+        "intent": "Industry 4.0 Drones",
+        "user_input_variations": [
+          "What are Industry 4.0 Drones?",
+          "Tell me about the features of Industry 4.0 Drones.",
+          "How are Industry 4.0 Drones used in manufacturing?"
+        ],
+        "responses": [
+          "Industry 4.0 Drones are integrated into smart manufacturing, featuring connectivity, sensor integration, and autonomous operation for data exchange.",
+          "These drones are used for inventory management, quality control, and supply chain optimization, leveraging AI and big data analytics."
+        ]
+      },
+      {
+        "intent": "Stringing Drone",
+        "user_input_variations": [
+          "What is a Stringing Drone?",
+          "Tell me about the uses of Stringing Drones.",
+          "What features do Stringing Drones have?"
+        ],
+        "responses": [
+          "Stringing Drones are designed for the installation and maintenance of power transmission lines, equipped with heavy payload capacity and autonomous flight.",
+          "These drones are used for power line installation and maintenance, featuring cable management systems and real-time monitoring capabilities."
+        ]
+      }
+    ]
+  }

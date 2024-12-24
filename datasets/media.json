@@ -1,0 +1,88 @@
+{
+    "intents": [
+      {
+        "intent": "Garuda Aerospace Partnerships",
+        "user_input_variations": [
+          "What partnerships has Garuda Aerospace formed recently?",
+          "Tell me about Garuda Aerospace's new partnerships.",
+          "Who are Garuda Aerospace's partners in the drone market?"
+        ],
+        "responses": [
+          "Garuda Aerospace has partnered with manufacturers in the US, Canada, Israel, and Europe, including Titan Innovations, Easy Aerial, Azur Drones, Aero Sentinel, and Securiton, to expand its distribution across security, infrastructure, and defense applications.",
+          "Recently, Garuda Aerospace announced partnerships with several international companies to enhance the growth of India's drone market, especially after the ban on DJI drones."
+        ]
+      },
+      {
+        "intent": "ISRO Contract",
+        "user_input_variations": [
+          "What contract did Garuda Aerospace secure from ISRO?",
+          "Tell me about Garuda Aerospace's order from ISRO.",
+          "What drones is Garuda Aerospace supplying to ISRO?"
+        ],
+        "responses": [
+          "Garuda Aerospace has secured its first contract from the Indian Space Research Organisation (ISRO) for the supply of advanced quadcopter drones equipped with Machine Learning and Artificial Intelligence capabilities.",
+          "The contract with ISRO marks a significant achievement for Garuda Aerospace, showcasing their commitment to excellence in drone technology."
+        ]
+      },
+      {
+        "intent": "Border Patrol Drone Launch",
+        "user_input_variations": [
+          "What is the Trishul drone launched by Garuda Aerospace?",
+          "Tell me about the border patrol surveillance drone by Garuda Aerospace.",
+          "What features does the Trishul drone have?"
+        ],
+        "responses": [
+          "Garuda Aerospace has launched the Trishul, a border patrol surveillance drone designed for monitoring people movement, natural calamities, and traffic. It is equipped with high-definition cameras, infra-red, and radar.",
+          "The Trishul drone exemplifies Garuda Aerospace's commitment to building a sustainable drone ecosystem, providing critical real-time information for decision-making."
+        ]
+      },
+      {
+        "intent": "Kisan Drones Distribution",
+        "user_input_variations": [
+          "What event involved the distribution of Kisan drones?",
+          "Tell me about PM Modi's involvement with Garuda Aerospace's drones.",
+          "How many Kisan drones were distributed by Garuda Aerospace?"
+        ],
+        "responses": [
+          "Prime Minister Narendra Modi distributed 1,000 Kisan drones to women self-help groups during the Sashakt Nari – Viksit Bharat programme, highlighting the role of drones in empowering women in agriculture.",
+          "The distribution of Kisan drones by PM Modi marks a historic event, showcasing the potential of drone technology in enhancing agricultural practices."
+        ]
+      },
+      {
+        "intent": "Training Rural Women",
+        "user_input_variations": [
+          "How many rural women has Garuda Aerospace trained?",
+          "Tell me about the training programs for women by Garuda Aerospace.",
+          "What initiatives does Garuda Aerospace have for women's empowerment?"
+        ],
+        "responses": [
+          "Garuda Aerospace has trained over 500 rural women on drone technology and delivered 446 drones to women self-help groups across 20 states, promoting gender equality and economic empowerment.",
+          "Through the 'Namo Drone Didi Yojana', Garuda Aerospace is actively working to empower women in rural communities by providing training in drone technology."
+        ]
+      },
+      {
+        "intent": "Drone Scheme for Women SHGs",
+        "user_input_variations": [
+          "What is the new drone scheme for women SHGs?",
+          "How will the drone scheme benefit women in agriculture?",
+          "What funding has been allocated for the drone scheme?"
+        ],
+        "responses": [
+          "The government has approved an outlay of Rs 1,261 crore for a new drone scheme aimed at providing drones to 15,000 women's self-help groups, enhancing opportunities in the agriculture sector.",
+          "This scheme is expected to significantly boost the drone industry and create rental service opportunities for women self-help groups in agriculture."
+        ]
+      },
+      {
+        "intent": "Disaster Relief Efforts",
+        "user_input_variations": [
+          "How is Garuda Aerospace involved in disaster relief?",
+          "What role do Garuda drones play in emergency situations?",
+          "Tell me about Garuda Aerospace's support during floods."
+        ],
+        "responses": [
+          "Garuda Aerospace has deployed its logistics and delivery drones to assist the National Disaster Response Force (NDRF) in delivering food, water, and medicines during heavy rains and floods in northern India.",
+          "The drones are playing a crucial role in supporting rescue efforts and delivering essential supplies to affected areas."
+        ]
+      }
+    ]
+  }

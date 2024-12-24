@@ -1,0 +1,1273 @@
+{
+    "intents": [
+        {
+            "intent": "Introduction to Garuda Aerospace",
+            "user_input_variations": [
+                "Tell me about Garuda Aerospace.",
+                "What is Garuda Aerospace?",
+                "Can you give me an overview of Garuda Aerospace?"
+            ],
+            "responses": [
+                "Garuda Aerospace is a pioneer in Precision Agri Tech and Industry 4.0, established in 2015. We started with just five members and have grown to over 200 employees, operating a fleet of more than 400 drones across 84 cities.",
+                "Founded in 2015, Garuda Aerospace specializes in transformative advancements in Precision Agri Tech and Industry 4.0. We now have over 200 employees and a fleet of 400+ drones.",
+                "Garuda Aerospace, established in 2015, has evolved from a small team of five to over 200 employees, with a fleet of 400+ drones and 500+ pilots serving 84 cities."
+            ]
+        },
+        {
+            "intent": "Offerings of Garuda Aerospace",
+            "user_input_variations": [
+                "What services does Garuda Aerospace offer?",
+                "Can you list the offerings of Garuda Aerospace?",
+                "Tell me about the drones and services provided by Garuda Aerospace."
+            ],
+            "responses": [
+                "We offer 30 different types of drones and 50 unique services, with a fleet of 400 ready-to-fly drones and 500 trained pilots.",
+                "Garuda Aerospace provides a range of 30 drones and 50 services, with over 400 drones ready for operation and 500 skilled pilots.",
+                "Our offerings include 30 drone models and 50 services, supported by a fleet of 400 operational drones and 500 certified pilots."
+            ]
+        },
+        {
+            "intent": "Clients and Partners",
+            "user_input_variations": [
+                "Who are Garuda Aerospace's clients and partners?",
+                "Can you list some of the clients and partners of Garuda Aerospace?",
+                "Tell me about the companies Garuda Aerospace collaborates with."
+            ],
+            "responses": [
+                "Garuda Aerospace collaborates with several prominent clients and partners, including TATA, Godrej, Adani, Reliance, Swiggy, Flipkart, and many more.",
+                "Our esteemed clients and partners include major companies like TATA, Godrej, Adani, Reliance, Swiggy, and Flipkart, among others.",
+                "We have partnered with various organizations such as TATA, Godrej, Adani, Reliance, Swiggy, and many others to enhance our impact."
+            ]
+        },
+        {
+            "intent": "Focus Areas",
+            "user_input_variations": [
+                "What are the focus areas of Garuda Aerospace?",
+                "Can you tell me about the main areas Garuda Aerospace focuses on?",
+                "What sectors does Garuda Aerospace specialize in?"
+            ],
+            "responses": [
+                "Garuda Aerospace focuses on Precision Agri Tech, Industry 4.0, Defense, and Aerospace.",
+                "Our main areas of focus include Precision Agri Tech, Industry 4.0, Defense, and Aerospace.",
+                "We specialize in several sectors, including Precision Agri Tech, Industry 4.0, Defense, and Aerospace."
+            ]
+        },
+        {
+            "intent": "Vision of Garuda Aerospace",
+            "user_input_variations": [
+                "What is the vision of Garuda Aerospace?",
+                "Can you share the vision statement of Garuda Aerospace?",
+                "What does Garuda Aerospace aim to achieve?"
+            ],
+            "responses": [
+                "Our vision is to make India the drone capital of the world by accelerating industries through cost-effective and strategic drone solutions, combatting climate change with personalized afforestation plans, and fostering business growth for all industries.",
+                "Garuda Aerospace envisions making India the drone capital of the world by providing strategic drone solutions and promoting sustainable practices.",
+                "We aim to establish India as the drone capital globally by leveraging cost-effective drone solutions and addressing climate change."
+            ]
+        },
+        {
+            "intent": "Mission of Garuda Aerospace",
+            "user_input_variations": [
+                "What is the mission of Garuda Aerospace?",
+                "Can you tell me about the mission statement of Garuda Aerospace?",
+                "What goals does Garuda Aerospace strive to achieve?"
+            ],
+            "responses": [
+                "Our mission is to design cost-effective, human-centric drone solutions that cater to emergencies, promote data-driven growth, and expand drone capabilities to help industries and India flourish.",
+                "Garuda Aerospace's mission is to create affordable and user-friendly drone solutions that support emergency responses and drive growth across various sectors.",
+                "We are committed to developing cost-effective drone solutions that enhance data-driven growth and support the flourishing of industries in India."
+            ]
+        },
+        {
+            "intent": "Leadership at Garuda Aerospace",
+            "user_input_variations": [
+                "Who leads Garuda Aerospace?",
+                "Can you tell me about the leadership team at Garuda Aerospace?",
+                "Who are the key leaders in Garuda Aerospace?"
+            ],
+            "responses": [
+                "Garuda Aerospace is led by Agnishwar Jayaprakash, the Founder & CEO, and Rithika Mohan, the Co-Founder & CIO, both of whom bring unique expertise and vision to the company.",
+                "The leadership team at Garuda Aerospace includes Agnishwar Jayaprakash, our Founder & CEO, and Rithika Mohan, our Co-Founder & CIO, who are dedicated to driving innovation and growth.",
+                "Our leadership comprises Agnishwar Jayaprakash, the Founder & CEO, and Rithika Mohan, the Co-Founder & CIO, both of whom are committed to advancing our mission and vision."
+            ]
+        },
+        {
+            "intent": "Government Support for Drones",
+            "user_input_variations": [
+                "What government support does Garuda Aerospace receive?",
+                "Can you explain the government initiatives for drones?",
+                "How does the government support drone startups like Garuda Aerospace?"
+            ],
+            "responses": [
+                "The government has liberalized drone rules in 2021 and launched initiatives like Drone Shakti to support startups in drone-based applications.",
+                "Garuda Aerospace benefits from government support through liberalized drone regulations and initiatives such as Drone Shakti, aimed at fostering innovation in the drone sector.",
+                "Government initiatives, including the liberalization of drone rules and the Drone Shakti program, provide significant support to startups like Garuda Aerospace."
+            ]
+        },
+        {
+            "intent": "Collaborations and Partnerships",
+            "user_input_variations": [
+                "What collaborations does Garuda Aerospace have?",
+                "Can you tell me about Garuda Aerospace's partnerships?",
+                "Who does Garuda Aerospace collaborate with?"
+            ],
+            "responses": [
+                "Garuda Aerospace collaborates with various organizations, including Chennai Super Kings, to showcase the benefits of our drones for farmers, forces, and citizens.",
+                "We have partnerships with several entities, including Chennai Super Kings, to demonstrate the advantages of Garuda Drones in various sectors.",
+                "Our collaborations include working with Chennai Super Kings, highlighting the impact of Garuda Drones on agriculture and community welfare."
+            ]
+        },
+        {
+            "intent": "Contact Information",
+            "user_input_variations": [
+                "What is the contact information for Garuda Aerospace?",
+                "Can you provide the address and contact details for Garuda Aerospace?",
+                "How can I contact Garuda Aerospace?"
+            ],
+            "responses": [
+                "You can contact Garuda Aerospace at the following address: 24/46, KB Dasan Rd, Seetammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu \u00e2\u20ac\u201c 600018. You can also reach us via email at info@garudaaerospace.com or service@garudaaerospace.com, and by phone at +91-78248-33884 or +91-77888-68884.",
+                "Garuda Aerospace is located at 24/46, KB Dasan Rd, Seetammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu \u00e2\u20ac\u201c 600018. You can email us at info@garudaaerospace.com or service@garudaaerospace.com, and call us at +91-78248-33884 or +91-77888-68884.",
+                "To contact Garuda Aerospace, you can visit us at 24/46, KB Dasan Rd, Seetammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu \u00e2\u20ac\u201c 600018. For inquiries, email us at info@garudaaerospace.com or service@garudaaerospace.com, or call +91-78248-33884 or +91-77888-68884."
+            ]
+        },
+        {
+            "intent": "Help Options",
+            "user_input_variations": [
+                "I need help with something specific.",
+                "How can I get assistance from Garuda Aerospace?",
+                "What help options are available?"
+            ],
+            "responses": [
+                "If you need help with something specific, please choose a department and fill in your details. Our concerned team will contact you shortly. You can find the options on our contact page: https://www.garudaaerospace.com/contact/",
+                "For specific assistance, please select a department and provide your details. Our team will reach out to you shortly. Visit our contact page for more information: https://www.garudaaerospace.com/contact/",
+                "Need help with something specific? Choose a department and fill in your details, and our team will get back to you shortly. You can access the help options here: https://www.garudaaerospace.com/contact/"
+            ]
+        },
+        {
+            "intent": "Departments for Help",
+            "user_input_variations": [
+                "What departments can I choose for help?",
+                "Can you list the help departments available?",
+                "What options do I have for assistance?"
+            ],
+            "responses": [
+                "You can choose from the following departments for assistance: Drone Enquiry, Claim Your Subsidy, Loan for Agri Drone, Partner With Us, Dealership & Distributor, and Jobs / Hiring.",
+                "The available departments for help include: Drone Enquiry, Claim Your Subsidy, Loan for Agri Drone, Partner With Us, Dealership & Distributor, and Jobs / Hiring.",
+                "For assistance, you can select from these departments: Drone Enquiry, Claim Your Subsidy, Loan for Agri Drone, Partner With Us, Dealership & Distributor, and Jobs / Hiring."
+            ]
+        },
+        {
+            "intent": "Remote Pilot License",
+            "user_input_variations": [
+                "What is Remote Pilot License?",
+                "Can you explain what a remote pilot license is?",
+                "Tell me about the remote pilot license."
+            ],
+            "responses": [
+                "A remote pilot license is equivalent to a driver's license but is used for drones. This license grants you permission to fly a drone for commercial purposes in India."
+            ]
+        },
+        {
+            "intent": "Drone Flying Training",
+            "user_input_variations": [
+                "Why do I need Drone Flying Training?",
+                "What is the importance of drone flying training?",
+                "Do I need training to fly a drone?"
+            ],
+            "responses": [
+                "Drone pilot training helps you acquire the necessary drone flying skills and it is also a mandatory requirement to get a remote pilot license."
+            ]
+        },
+        {
+            "intent": "Type of Drone Remote Pilot License",
+            "user_input_variations": [
+                "What type of Drone Remote Pilot License do we use?",
+                "Can you tell me about the type of remote pilot license?",
+                "What is the category of the drone remote pilot license?"
+            ],
+            "responses": [
+                "CAT1 (VLOS). Which enables you to fly any DGCA-approved drone."
+            ]
+        },
+        {
+            "intent": "License Validity",
+            "user_input_variations": [
+                "How long will my drone license be valid?",
+                "What is the validity period of the remote pilot license?",
+                "When does my drone license expire?"
+            ],
+            "responses": [
+                "10 years from the day of receiving your certificate. After that, you can reapply again for a new certificate."
+            ]
+        },
+        {
+            "intent": "Eligibility Criteria for Remote Pilot License",
+            "user_input_variations": [
+                "What are the eligibility criteria to apply for a remote pilot license?",
+                "Who can apply for a remote pilot license?",
+                "What do I need to qualify for a remote pilot license?"
+            ],
+            "responses": [
+                "You should be 18+ in age, completed your 10th-grade education, and own a valid passport."
+            ]
+        },
+        {
+            "intent": "DGCA Certification",
+            "user_input_variations": [
+                "Are we DGCA Certified?",
+                "Is Garuda Aerospace certified by DGCA?",
+                "What is the DGCA certification status of Garuda Aerospace?"
+            ],
+            "responses": [
+                "Yes. We are India's first dual DGCA Certified company for both Pilot training and drone manufacturing."
+            ]
+        },
+        {
+            "intent": "Training Program Duration",
+            "user_input_variations": [
+                "How many days is the training program?",
+                "What is the duration of the drone training program?",
+                "How long does the drone training take?"
+            ],
+            "responses": [
+                "The program is for 9 full days and will take place in our Headquarters, Agni College, Chennai."
+            ]
+        },
+        {
+            "intent": "Application Process",
+            "user_input_variations": [
+                "How do I apply?",
+                "What is the application process for the training program?",
+                "Can you guide me on how to apply?"
+            ],
+            "responses": [
+                "Here's the application form for you to apply: Application Form. We will reach out to you once you have filled this out and addressed any queries before you go ahead with your payment."
+            ]
+        },
+        {
+            "intent": "Cost of the Program",
+            "user_input_variations": [
+                "What is the cost of the program?",
+                "How much does the drone training program cost?",
+                "Can you tell me the price of the training program?"
+            ],
+            "responses": [
+                "The current cost of the program is 24,999/-. This only includes training & certification costs. This does not cover any stay, food, and transport costs."
+            ]
+        },
+        {
+            "intent": "Training Location",
+            "user_input_variations": [
+                "Where does the training take place?",
+                "What is the location of the drone training?",
+                "Where can I attend the drone training program?"
+            ],
+            "responses": [
+                "Agni College of Technology, Old Mahabalipuram Road, Thalambur Rd, Chennai, Tamil Nadu - 600130."
+            ]
+        },
+        {
+            "intent": "Online Training Availability",
+            "user_input_variations": [
+                "Is there an online version of the program?",
+                "Can I take the drone training online?",
+                "Is the training program available online?"
+            ],
+            "responses": [
+                "No. Due to the nature of the training, the courses need to be conducted at a verified physical location only."
+            ]
+        },
+        {
+            "intent": "Certificate Criteria",
+            "user_input_variations": [
+                "Criteria for receiving my certificate?",
+                "What do I need to do to get my drone training certificate?",
+                "How can I obtain my certificate after training?"
+            ],
+            "responses": [
+                "Finish the 9 Days drone training course & pass the physical/theory exam."
+            ]
+        },
+        {
+            "intent": "Overview of Garuda Aerospace",
+            "user_input_variations": [
+                "What is Garuda Aerospace?",
+                "Can you provide an overview of Garuda Aerospace?",
+                "Tell me about Garuda Aerospace."
+            ],
+            "responses": [
+                "Garuda Aerospace is a leading manufacturer and training organization specializing in drones and unmanned aerial vehicles (UAVs). We provide a wide range of services, including drone manufacturing, training programs, consulting, and aerial solutions for various industries."
+            ]
+        },
+        {
+            "intent": "Products Offered by Garuda Aerospace",
+            "user_input_variations": [
+                "What products does Garuda Aerospace offer?",
+                "Can you list the products provided by Garuda Aerospace?",
+                "Tell me about the drones offered by Garuda Aerospace."
+            ],
+            "responses": [
+                "We offer a diverse range of high-quality drones and UAVs designed for various applications, including aerial photography and videography, surveillance, mapping, agriculture, and industrial inspections. Our products are known for their reliability, performance, and advanced features."
+            ]
+        },
+        {
+            "intent": "Training Programs Offered",
+            "user_input_variations": [
+                "What types of training programs does Garuda Aerospace provide?",
+                "Can you tell me about the training courses offered by Garuda Aerospace?",
+                "What training options are available at Garuda Aerospace?"
+            ],
+            "responses": [
+                "Garuda Aerospace offers comprehensive training programs for both beginners and experienced drone operators. Our courses cover various aspects of drone operation, including flight training, regulations and safety guidelines, aerial photography and videography techniques, mapping and surveying, and advanced UAV operations for commercial purposes."
+            ]
+        },
+        {
+            "intent": "Beginner Suitability of Training Programs",
+            "user_input_variations": [
+                "Are Garuda Aerospace training programs suitable for beginners?",
+                "Can beginners enroll in Garuda Aerospace training courses?",
+                "Is the training program appropriate for someone with no experience?"
+            ],
+            "responses": [
+                "Yes, our training programs cater to individuals with varying levels of experience, including beginners who have never flown a drone before. We provide step-by-step guidance and hands-on training to ensure that participants acquire the necessary skills and knowledge to operate drones safely and effectively."
+            ]
+        },
+        {
+            "intent": "Prior Experience Requirement",
+            "user_input_variations": [
+                "Do I need any prior experience to enroll in Garuda Aerospace training courses?",
+                "Is previous drone flying experience necessary for the training?",
+                "Can I join the training program without any experience?"
+            ],
+            "responses": [
+                "No prior experience is required to enroll in our training programs. Whether you are a novice or an experienced drone operator looking to enhance your skills, we offer courses suitable for all levels."
+            ]
+        },
+        {
+            "intent": "Certification of Training Courses",
+            "user_input_variations": [
+                "Are Garuda Aerospace training courses certified?",
+                "Do participants receive a certificate after completing the training?",
+                "Is the training program recognized?"
+            ],
+            "responses": [
+                "Yes, our training courses are conducted by certified instructors and comply with industry standards and regulations. Upon successful completion of the course, participants receive a certificate of completion, which may be required for obtaining commercial drone licenses or permits."
+            ]
+        },
+        {
+            "intent": "Industries Benefiting from Drone Solutions",
+            "user_input_variations": [
+                "What industries can benefit from Garuda Aerospace's drone solutions?",
+                "Which sectors utilize Garuda Aerospace drones?",
+                "How do different industries use Garuda Aerospace drones?"
+            ],
+            "responses": [
+                "Our drone solutions cater to a wide range of industries, including agriculture, construction, real estate, environmental monitoring, infrastructure inspection, public safety, and filmmaking. Drones offer cost-effective and efficient solutions for various applications in these sectors."
+            ]
+        },
+        {
+            "intent": "Benefits of Drones in Agriculture",
+            "user_input_variations": [
+                "How can drones benefit agriculture and farming operations?",
+                "What advantages do drones offer to farmers?",
+                "In what ways do drones improve agricultural practices?"
+            ],
+            "responses": [
+                "Drones have revolutionized agriculture by enabling farmers to monitor crops, assess plant health, detect pests and diseases, and optimize irrigation and fertilizer applications. Our agricultural drone solutions help farmers increase crop yields, reduce input costs, and make informed decisions to improve overall farm productivity."
+            ]
+        },
+        {
+            "intent": "Support Services Offered",
+            "user_input_variations": [
+                "What support services does Garuda Aerospace offer to its customers?",
+                "Can you explain the customer support provided by Garuda Aerospace?",
+                "What kind of assistance can I expect from Garuda Aerospace?"
+            ],
+            "responses": [
+                "Garuda Aerospace provides comprehensive support services to its customers, including technical support, maintenance and repair services, software updates, and ongoing training and education. Our team is committed to ensuring that our customers get the most out of their drone investments."
+            ]
+        },
+        {
+            "intent": "Purchasing Drones and Training Enrollment",
+            "user_input_variations": [
+                "How can I purchase Garuda Aerospace drones or enroll in training programs?",
+                "What is the process to buy drones or sign up for training?",
+                "Can you guide me on how to acquire drones or training from Garuda Aerospace?"
+            ],
+            "responses": [
+                "To purchase our drones or inquire about our training programs, you can visit our website or contact our sales and customer service team. We also have authorized dealers and training centers located in various regions to serve our customers more efficiently."
+            ]
+        },
+        {
+            "intent": "Customized Drone Solutions",
+            "user_input_variations": [
+                "Does Garuda Aerospace offer customized drone solutions for specific applications?",
+                "Can I get a tailored drone solution from Garuda Aerospace?",
+                "What options are available for custom drone solutions?"
+            ],
+            "responses": [
+                "Yes, we specialize in providing customized drone solutions tailored to meet the unique needs and requirements of our customers. Whether you need a specialized payload, software integration, or custom-built UAVs, our team can work with you to develop the perfect solution for your application."
+            ]
+        },
+        {
+            "intent": "Regulatory Compliance and Safety Standards",
+            "user_input_variations": [
+                "How does Garuda Aerospace ensure compliance with regulations and safety standards?",
+                "What measures are in place for regulatory compliance at Garuda Aerospace?",
+                "How does Garuda Aerospace maintain safety standards?"
+            ],
+            "responses": [
+                "Garuda Aerospace is committed to upholding the highest standards of safety and regulatory compliance in all our operations. We closely monitor regulatory developments and industry best practices to ensure that our products and services meet or exceed all applicable standards and requirements."
+            ]
+        },
+        {
+            "intent": "Drone Rental Services",
+            "user_input_variations": [
+                "Can I rent drones from Garuda Aerospace for short-term projects or events?",
+                "Does Garuda Aerospace offer drone rental services?",
+                "How can I rent a drone from Garuda Aerospace?"
+            ],
+            "responses": [
+                "Yes, we offer drone rental services for short-term projects, events, and special occasions. Whether you need aerial footage for a film shoot, event coverage, or industrial inspection, our rental fleet includes a variety of drones equipped with the latest technology and features."
+            ]
+        },
+        {
+            "intent": "Ongoing Training and Development",
+            "user_input_variations": [
+                "Does Garuda Aerospace offer ongoing training and professional development opportunities?",
+                "What kind of advanced training does Garuda Aerospace provide?",
+                "Can I continue my education with Garuda Aerospace after initial training?"
+            ],
+            "responses": [
+                "Yes, we provide ongoing training and professional development opportunities to our customers through advanced courses, workshops, seminars, and online resources. Our goal is to empower individuals and organizations to stay updated with the latest trends and advancements in the drone industry."
+            ]
+        },
+        {
+            "intent": "Staying Updated with Garuda Aerospace",
+            "user_input_variations": [
+                "How can I stay updated with the latest news and developments from Garuda Aerospace?",
+                "What are the ways to follow Garuda Aerospace's updates?",
+                "How do I get news from Garuda Aerospace?"
+            ],
+            "responses": [
+                "You can stay updated with the latest news, product releases, and developments from Garuda Aerospace by subscribing to our newsletter, following us on social media platforms, or visiting our website regularly. We also host webinars, events, and conferences to engage with our community and share valuable insights and expertise."
+            ]
+        },
+        {
+            "intent": "Brand Ambassador",
+            "user_input_variations": [
+                "Who is the brand ambassador for Garuda Aerospace?",
+                "Tell me about Garuda Aerospace's brand ambassador.",
+                "What does M.S. Dhoni say about Garuda Aerospace?"
+            ],
+            "responses": [
+                "M.S. Dhoni is the brand ambassador for Garuda Aerospace. He stated, 'I\u00e2\u20ac\u2122m happy to be a part of Garuda Aerospace & look forward to witnessing their growth story with the unique drone solutions they have to offer.'",
+                "The brand ambassador for Garuda Aerospace is M.S. Dhoni, who expressed his excitement about being part of the company's journey."
+            ]
+        },
+        {
+            "intent": "Kisan Agri Drone",
+            "user_input_variations": [
+                "What is the Kisan Agri Drone?",
+                "Tell me about the Kisan Agri Drone offered by Garuda Aerospace.",
+                "What are the advantages of the Kisan Agri Drone?"
+            ],
+            "responses": [
+                "The Kisan Agri Drone is a Made In India solution designed to empower youth and farmers with affordable precision agriculture technology. It can cover 200 acres in just 30 minutes, provides timely and accurate data, and helps smallholder farmers act before economic damages occur.",
+                "Garuda Aerospace's Kisan Agri Drone empowers farmers with affordable precision agriculture technology, covering 200 acres in 30 minutes and providing crucial data to prevent economic losses."
+            ]
+        },
+        {
+            "intent": "Subsidy Information",
+            "user_input_variations": [
+                "What subsidy is available for the Kisan Agri Drone?",
+                "Can you explain the subsidy details for farmers using Garuda's drones?",
+                "Who provides the subsidy for the Kisan Agri Drone?"
+            ],
+            "responses": [
+                "The subsidy for the Kisan Agri Drone is provided by the Minister of Agriculture & Farmers Welfare, offering 40-50% off for different farmer groups across India.",
+                "Farmers can receive a 40-50% subsidy on the Kisan Agri Drone, supported by the Minister of Agriculture & Farmers Welfare."
+            ]
+        },
+        {
+            "intent": "Impact of Garuda Aerospace",
+            "user_input_variations": [
+                "What is the impact of Garuda Aerospace?",
+                "Can you provide statistics on Garuda Aerospace's impact?",
+                "How many projects has Garuda Aerospace completed?"
+            ],
+            "responses": [
+                "Garuda Aerospace has traveled 1.08 Cr kilometers, completed 350 projects, covered over 478 districts, and trained or created jobs for over 100,000 rural youth.",
+                "The impact of Garuda Aerospace includes 1.08 Cr kilometers traveled, 350 projects completed, and 6,398 drones distributed across 62 centers of excellence."
+            ]
+        },
+        {
+            "intent": "Vision of Garuda Aerospace",
+            "user_input_variations": [
+                "What is the vision of Garuda Aerospace?",
+                "Can you share the vision statement of Garuda Aerospace?",
+                "What initiatives does Garuda Aerospace have for its vision?"
+            ],
+            "responses": [
+                "Garuda Aerospace's vision is to catalyze the goal of making India 'The Drone Hub' through initiatives like the Kisan Drone Yatra, which was flagged off by Hon'ble P.M. Shri Narendra Modi.",
+                "The tagline for Garuda Aerospace's vision is 'Catalyzing the Vision of Making India 'The Drone Hub', with initiatives such as the Kisan Drone Yatra."
+            ]
+        },
+        {
+            "intent": "CEO Message",
+            "user_input_variations": [
+                "What does the CEO of Garuda Aerospace say?",
+                "Can you share a message from Agnishwar Jayaprakash?",
+                "What are the goals of Garuda Aerospace according to the CEO?"
+            ],
+            "responses": [
+                "Agnishwar Jayaprakash, the Founder & CEO of Garuda Aerospace, stated, 'Garuda Aerospace has set a target of manufacturing two lakh drones in the next two years for our farmers, which will support the Indian economy and enhance agricultural productivity.'",
+                "The CEO of Garuda Aerospace, Agnishwar Jayaprakash, emphasizes the goal of manufacturing two lakh drones in two years to support farmers and boost their income."
+            ]
+        },
+        {
+            "intent": "Women Empowerment Initiative",
+            "user_input_variations": [
+                "What is the women empowerment initiative by Garuda Aerospace?",
+                "Can you tell me about the NAMO DRONE DIDIs program?",
+                "How does Garuda Aerospace empower women in agriculture?"
+            ],
+            "responses": [
+                "The NAMO DRONE DIDIs program is a pioneering initiative aimed at women-led development in Indian agriculture, connecting 15,000 self-help groups and training women to become drone pilots for crop monitoring, fertiliser spraying, and seed sowing.",
+                "Garuda Aerospace's women empowerment initiative, NAMO DRONE DIDIs, trains women to use drones in agriculture, providing additional income opportunities and promoting gender equality in the sector."
+            ]
+        },
+        {
+            "intent": "Impact Book",
+            "user_input_variations": [
+                "What is the impact book of Garuda Aerospace?",
+                "Can you describe the 2023 impact book?",
+                "What initiatives are showcased in Garuda Aerospace's impact book?"
+            ],
+            "responses": [
+                "The 2023 impact book showcases transformative initiatives, inspiring collaborations, and impactful strides toward a sustainable future.",
+                "Garuda Aerospace's impact book for 2023 highlights various initiatives and collaborations aimed at promoting sustainability and innovation."
+            ]
+        },
+        {
+            "intent": "Innovations",
+            "user_input_variations": [
+                "What innovations does Garuda Aerospace focus on?",
+                "Can you list the applications of Garuda Aerospace's technology?",
+                "How is Garuda Aerospace building a tech-led nation?"
+            ],
+            "responses": [
+                "Garuda Aerospace focuses on innovations that build a secure, progressive, tech-led nation, with applications in agriculture, defense, surveillance & monitoring, and emergency services.",
+                "The innovations by Garuda Aerospace include applications in various sectors such as agriculture, defense, and emergency services, contributing to a tech-led nation."
+            ]
+        },
+        {
+            "intent": "Garuda Aerospace Partnerships",
+            "user_input_variations": [
+                "What partnerships has Garuda Aerospace formed recently?",
+                "Tell me about Garuda Aerospace's new partnerships.",
+                "Who are Garuda Aerospace's partners in the drone market?"
+            ],
+            "responses": [
+                "Garuda Aerospace has partnered with manufacturers in the US, Canada, Israel, and Europe, including Titan Innovations, Easy Aerial, Azur Drones, Aero Sentinel, and Securiton, to expand its distribution across security, infrastructure, and defense applications.",
+                "Recently, Garuda Aerospace announced partnerships with several international companies to enhance the growth of India's drone market, especially after the ban on DJI drones."
+            ]
+        },
+        {
+            "intent": "ISRO Contract",
+            "user_input_variations": [
+                "What contract did Garuda Aerospace secure from ISRO?",
+                "Tell me about Garuda Aerospace's order from ISRO.",
+                "What drones is Garuda Aerospace supplying to ISRO?"
+            ],
+            "responses": [
+                "Garuda Aerospace has secured its first contract from the Indian Space Research Organisation (ISRO) for the supply of advanced quadcopter drones equipped with Machine Learning and Artificial Intelligence capabilities.",
+                "The contract with ISRO marks a significant achievement for Garuda Aerospace, showcasing their commitment to excellence in drone technology."
+            ]
+        },
+        {
+            "intent": "Border Patrol Drone Launch",
+            "user_input_variations": [
+                "What is the Trishul drone launched by Garuda Aerospace?",
+                "Tell me about the border patrol surveillance drone by Garuda Aerospace.",
+                "What features does the Trishul drone have?"
+            ],
+            "responses": [
+                "Garuda Aerospace has launched the Trishul, a border patrol surveillance drone designed for monitoring people movement, natural calamities, and traffic. It is equipped with high-definition cameras, infra-red, and radar.",
+                "The Trishul drone exemplifies Garuda Aerospace's commitment to building a sustainable drone ecosystem, providing critical real-time information for decision-making."
+            ]
+        },
+        {
+            "intent": "Kisan Drones Distribution",
+            "user_input_variations": [
+                "What event involved the distribution of Kisan drones?",
+                "Tell me about PM Modi's involvement with Garuda Aerospace's drones.",
+                "How many Kisan drones were distributed by Garuda Aerospace?"
+            ],
+            "responses": [
+                "Prime Minister Narendra Modi distributed 1,000 Kisan drones to women self-help groups during the Sashakt Nari \u00e2\u20ac\u201c Viksit Bharat programme, highlighting the role of drones in empowering women in agriculture.",
+                "The distribution of Kisan drones by PM Modi marks a historic event, showcasing the potential of drone technology in enhancing agricultural practices."
+            ]
+        },
+        {
+            "intent": "Training Rural Women",
+            "user_input_variations": [
+                "How many rural women has Garuda Aerospace trained?",
+                "Tell me about the training programs for women by Garuda Aerospace.",
+                "What initiatives does Garuda Aerospace have for women's empowerment?"
+            ],
+            "responses": [
+                "Garuda Aerospace has trained over 500 rural women on drone technology and delivered 446 drones to women self-help groups across 20 states, promoting gender equality and economic empowerment.",
+                "Through the 'Namo Drone Didi Yojana', Garuda Aerospace is actively working to empower women in rural communities by providing training in drone technology."
+            ]
+        },
+        {
+            "intent": "Drone Scheme for Women SHGs",
+            "user_input_variations": [
+                "What is the new drone scheme for women SHGs?",
+                "How will the drone scheme benefit women in agriculture?",
+                "What funding has been allocated for the drone scheme?"
+            ],
+            "responses": [
+                "The government has approved an outlay of Rs 1,261 crore for a new drone scheme aimed at providing drones to 15,000 women's self-help groups, enhancing opportunities in the agriculture sector.",
+                "This scheme is expected to significantly boost the drone industry and create rental service opportunities for women self-help groups in agriculture."
+            ]
+        },
+        {
+            "intent": "Disaster Relief Efforts",
+            "user_input_variations": [
+                "How is Garuda Aerospace involved in disaster relief?",
+                "What role do Garuda drones play in emergency situations?",
+                "Tell me about Garuda Aerospace's support during floods."
+            ],
+            "responses": [
+                "Garuda Aerospace has deployed its logistics and delivery drones to assist the National Disaster Response Force (NDRF) in delivering food, water, and medicines during heavy rains and floods in northern India.",
+                "The drones are playing a crucial role in supporting rescue efforts and delivering essential supplies to affected areas."
+            ]
+        },
+        {
+            "intent": "Kisan Drone / Agri Drone",
+            "user_input_variations": [
+                "What is the Kisan Drone?",
+                "Tell me about the Agri Drone.",
+                "What are the features of the Kisan Drone?"
+            ],
+            "responses": [
+                "The Kisan Drone, also known as an Agri Drone, is an unmanned aerial vehicle specifically designed for agricultural applications. It is equipped with various sensors and cameras to collect data and perform tasks related to farming and crop management.",
+                "An Agri Drone is designed for agricultural use, featuring advanced technologies that enable it to assist in crop management and data collection."
+            ]
+        },
+        {
+            "intent": "Surveillance Drone",
+            "user_input_variations": [
+                "What is a Surveillance Drone?",
+                "Tell me about the features of the Surveillance Drone.",
+                "What are the uses of Surveillance Drones?"
+            ],
+            "responses": [
+                "A Surveillance Drone is designed for monitoring and reconnaissance, equipped with advanced technologies for real-time visual and data intelligence. It is used in security, border surveillance, and environmental monitoring.",
+                "Surveillance Drones feature high-resolution cameras, real-time video transmission, and intelligent tracking capabilities, making them suitable for various monitoring applications."
+            ]
+        },
+        {
+            "intent": "Mapping & Survey Drone",
+            "user_input_variations": [
+                "What is a Mapping & Survey Drone?",
+                "Tell me about the uses of Mapping & Survey Drones.",
+                "What features do Mapping & Survey Drones have?"
+            ],
+            "responses": [
+                "A Mapping & Survey Drone is specifically designed for conducting mapping and surveying tasks, equipped with advanced sensors for accurate geospatial data collection.",
+                "These drones are used for aerial mapping, surveying, and infrastructure inspection, featuring high-resolution imaging and autonomous flight capabilities."
+            ]
+        },
+        {
+            "intent": "Surya Solar Panel Cleaning Drone",
+            "user_input_variations": [
+                "What is the Surya Solar Panel Cleaning Drone?",
+                "Tell me about the features of the Solar Panel Cleaning Drone.",
+                "How does the Solar Panel Cleaning Drone work?"
+            ],
+            "responses": [
+                "The Surya Solar Panel Cleaning Drone is designed for cleaning solar panels efficiently. It features a water spraying mechanism and soft bristle brushes for effective cleaning.",
+                "This drone is used in solar power plants and residential buildings, equipped with intelligent sensors for precision navigation."
+            ]
+        },
+        {
+            "intent": "Vriksh Vahaan - Seed Dropping Drone",
+            "user_input_variations": [
+                "What is the Vriksh Vahaan Seed Dropping Drone?",
+                "Tell me about the features of the Seed Dropping Drone.",
+                "How does the Seed Dropping Drone work?"
+            ],
+            "responses": [
+                "The Vriksh Vahaan is a Seed Dropping Drone designed for sowing seeds in agricultural fields. It features a seed hopper and precision navigation for efficient seed distribution.",
+                "This drone is used in agriculture and reforestation, equipped with variable seed rate control and data collection capabilities."
+            ]
+        },
+        {
+            "intent": "Loudspeaker Drone",
+            "user_input_variations": [
+                "What is a Loudspeaker Drone?",
+                "Tell me about the uses of Loudspeaker Drones.",
+                "How are Loudspeaker Drones used in India?"
+            ],
+            "responses": [
+                "The Loudspeaker Drone is equipped with loudspeaker systems for community announcements, particularly used by law enforcement during the COVID-19 pandemic to remind people of social distancing.",
+                "These drones feature waterproof cameras and high-quality audio systems for effective communication."
+            ]
+        },
+        {
+            "intent": "UGV (Unmanned Ground Vehicle)",
+            "user_input_variations": [
+                "What is a UGV?",
+                "Tell me about the uses of Unmanned Ground Vehicles.",
+                "What features do UGVs have?"
+            ],
+            "responses": [
+                "UGVs serve multiple civilian roles, including urban search and rescue and agricultural spraying. They operate autonomously and can be teleoperated for complex tasks.",
+                "These vehicles feature autonomous navigation and versatile applications, making them suitable for various operational environments."
+            ]
+        },
+        {
+            "intent": "Boat",
+            "user_input_variations": [
+                "What is the water-cleaning boat project?",
+                "Tell me about the features of the cleaning boat.",
+                "How does the cleaning boat work?"
+            ],
+            "responses": [
+                "The water-cleaning boat is designed for remote navigation to clean ponds and coastal areas, equipped with a motor-driven propeller and mesh for debris collection.",
+                "This boat operates efficiently to gather pollutants and debris from water bodies."
+            ]
+        },
+        {
+            "intent": " Submarine",
+            "user_input_variations": [
+                "What is the submarine drone?",
+                "Tell me about the features of the submarine drone.",
+                "How is the submarine drone used?"
+            ],
+            "responses": [
+                "The submarine drone is designed for exploration and environmental monitoring, featuring a rotatable wireless camera for remote navigation.",
+                "This drone is utilized in marine research and environmental monitoring, equipped with advanced capabilities for underwater exploration."
+            ]
+        },
+        {
+            "intent": "Fixed Wing VTOL",
+            "user_input_variations": [
+                "What is a Fixed Wing VTOL drone?",
+                "Tell me about the uses of Fixed Wing VTOL drones.",
+                "What features do Fixed Wing VTOL drones have?"
+            ],
+            "responses": [
+                "Fixed Wing VTOL drones combine vertical takeoff and landing with horizontal flight capabilities, making them suitable for long-range operations.",
+                "These drones are used for aerial mapping, infrastructure inspection, and emergency response, featuring hybrid flight modes and efficient forward flight."
+            ]
+        },
+        {
+            "intent": "Industry 4.0 Drones",
+            "user_input_variations": [
+                "What are Industry 4.0 Drones?",
+                "Tell me about the features of Industry 4.0 Drones.",
+                "How are Industry 4.0 Drones used in manufacturing?"
+            ],
+            "responses": [
+                "Industry 4.0 Drones are integrated into smart manufacturing, featuring connectivity, sensor integration, and autonomous operation for data exchange.",
+                "These drones are used for inventory management, quality control, and supply chain optimization, leveraging AI and big data analytics."
+            ]
+        },
+        {
+            "intent": "Stringing Drone",
+            "user_input_variations": [
+                "What is a Stringing Drone?",
+                "Tell me about the uses of Stringing Drones.",
+                "What features do Stringing Drones have?"
+            ],
+            "responses": [
+                "Stringing Drones are designed for the installation and maintenance of power transmission lines, equipped with heavy payload capacity and autonomous flight.",
+                "These drones are used for power line installation and maintenance, featuring cable management systems and real-time monitoring capabilities."
+            ]
+        },
+        {
+            "intent": "Industrial Services",
+            "user_input_variations": [
+                "What industrial services does Garuda Aerospace offer?",
+                "Tell me about the industrial services provided by Garuda Aerospace.",
+                "What features are included in the industrial services?"
+            ],
+            "responses": [
+                "Garuda Aerospace offers a comprehensive suite of industrial services, including drone-based thermal imaging, ultrasonic thickness testing, and inventory management, tailored for Industry 4.0 upgrades.",
+                "The industrial services include features such as expedited approvals from DGCA and MOCA, and collaborations with IIT Kanpur and MIT."
+            ]
+        },
+        {
+            "intent": "Agriculture Services",
+            "user_input_variations": [
+                "What agricultural services does Garuda Aerospace provide?",
+                "Tell me about the benefits of agricultural drones.",
+                "What technology is used in agricultural services?"
+            ],
+            "responses": [
+                "Garuda Aerospace provides agricultural drones equipped with advanced technology for field soil analysis, crop scouting, and precision farming solutions, enhancing crop yields and informed decision-making.",
+                "The agricultural services include benefits like crop health assessment and irrigation management, utilizing precision farming solutions and digital imaging capabilities."
+            ]
+        },
+        {
+            "intent": "Disaster Management Services",
+            "user_input_variations": [
+                "How does Garuda Aerospace assist in disaster management?",
+                "What features do disaster management drones have?",
+                "Tell me about the applications of disaster management drones."
+            ],
+            "responses": [
+                "Garuda Aerospace's disaster management drones assist in emergency response operations with features like rapid deployment, aerial surveillance, and payload delivery to hard-to-reach areas.",
+                "These drones are used for damage assessment, search and rescue operations, and situational awareness during emergencies."
+            ]
+        },
+        {
+            "intent": "Anti-Drone System",
+            "user_input_variations": [
+                "What is the anti-drone system offered by Garuda Aerospace?",
+                "How does the anti-drone system work?",
+                "What detection methods are used in the anti-drone system?"
+            ],
+            "responses": [
+                "Garuda Aerospace's anti-drone systems are designed to detect, track, and mitigate unauthorized drones using methods like radar systems and radio frequency detection.",
+                "The system includes countermeasures such as RF jamming and GPS spoofing, ensuring compliance with local regulations."
+            ]
+        },
+        {
+            "intent": "Delivery Load Carrying Services",
+            "user_input_variations": [
+                "What are the advantages of load-carrying UAVs?",
+                "How does Garuda Aerospace use drones for delivery?",
+                "Tell me about the delivery load carrying services."
+            ],
+            "responses": [
+                "Garuda Aerospace deploys load-carrying UAVs for emergency supply and disaster relief, minimizing transportation time and reducing traffic congestion.",
+                "These drones enhance safety and lower greenhouse gas emissions during delivery operations."
+            ]
+        },
+        {
+            "intent": "Warehouse Management Services",
+            "user_input_variations": [
+                "How does Garuda Aerospace manage warehouse inventory?",
+                "What are the advantages of drone-based inventory management?",
+                "Tell me about the warehouse management services."
+            ],
+            "responses": [
+                "Garuda Aerospace offers drone-based inventory counts using advanced software, providing faster inventory management and 24/7 stock level monitoring.",
+                "The services reduce errors and ensure precision even in GPS-denied conditions."
+            ]
+        },
+        {
+            "intent": "Project Management and Structural Inspection",
+            "user_input_variations": [
+                "How does Garuda Aerospace use drones for project management?",
+                "What are the benefits of drone-based structural inspections?",
+                "Tell me about the project management services."
+            ],
+            "responses": [
+                "Garuda Aerospace uses drone footage for real-time project updates and structural inspections, providing visual updates to stakeholders and efficient team management.",
+                "These services are cost-effective and allow for accurate progress checks."
+            ]
+        },
+        {
+            "intent": "Highway Traffic Monitoring",
+            "user_input_variations": [
+                "How does Garuda Aerospace monitor highway traffic?",
+                "What are the benefits of using drones for traffic monitoring?",
+                "Tell me about the highway traffic monitoring services."
+            ],
+            "responses": [
+                "Garuda Aerospace utilizes drones for highway and traffic monitoring, providing real-time traffic data and efficient bridge inspections.",
+                "These services improve traffic management strategies."
+            ]
+        },
+        {
+            "intent": "Mapping Services",
+            "user_input_variations": [
+                "What mapping services does Garuda Aerospace offer?",
+                "How are drones used for mapping damage?",
+                "Tell me about the benefits of mapping services."
+            ],
+            "responses": [
+                "Garuda Aerospace provides drones for mapping damage and conducting topographical surveys, offering cost savings and faster response times.",
+                "These services enable real-time data transmission, enhancing the efficiency of mapping operations."
+            ]
+        },
+        {
+            "intent": "Internal Boiler Inspection",
+            "user_input_variations": [
+                "What are the benefits of internal boiler inspection services?",
+                "How does Garuda Aerospace conduct boiler inspections?",
+                "Tell me about the internal boiler inspection services."
+            ],
+            "responses": [
+                "Garuda Aerospace offers boiler inspection services to prevent failures and ensure safety, focusing on erosion monitoring and defect detection.",
+                "These services help in risk mitigation and maintaining operational efficiency."
+            ]
+        },
+        {
+            "intent": "Chimney Stack Inspection",
+            "user_input_variations": [
+                "What is the chimney stack inspection service?",
+                "How does Garuda Aerospace perform chimney inspections?",
+                "Tell me about the benefits of drone-based chimney inspections."
+            ],
+            "responses": [
+                "Garuda Aerospace provides drone-based chimney and stack inspection services using visual, thermal, and ultrasonic thickness inspection methods.",
+                "These services ensure zero risk for technicians, high data accuracy, and reduced maintenance downtime."
+            ]
+        },
+        {
+            "intent": "Solar Panel Inspection and Cleaning",
+            "user_input_variations": [
+                "What is the Surya Drone for solar panel cleaning?",
+                "How does Garuda Aerospace inspect solar panels?",
+                "Tell me about the benefits of solar panel inspection and cleaning services."
+            ],
+            "responses": [
+                "The Surya Drone is designed for solar panel cleaning using a waterless technique, reducing water usage and environmental impact.",
+                "These services are cost-effective and ensure low maintenance costs for solar installations."
+            ]
+        },
+        {
+            "intent": "Structural Damage Assessment",
+            "user_input_variations": [
+                "What are the advantages of structural damage assessment services?",
+                "How does Garuda Aerospace conduct damage assessments?",
+                "Tell me about the structural damage assessment services."
+            ],
+            "responses": [
+                "Garuda Aerospace offers affordable structural damage assessments that enhance safety and provide quick damage evaluations using high-resolution imaging.",
+                "These services are crucial for safety audits and risk management."
+            ]
+        },
+        {
+            "intent": "Thermography Drone Services",
+            "user_input_variations": [
+                "What is thermography drone service?",
+                "How does Garuda Aerospace use thermal imaging drones?",
+                "Tell me about the benefits of thermography drone services."
+            ],
+            "responses": [
+                "Garuda Aerospace provides thermal imaging drone services for real-time structural analysis, offering cost-effective solutions for low-light inspections.",
+                "These services enable quick identification of issues, enhancing maintenance strategies."
+            ]
+        },
+        {
+            "intent": "LiDAR Analysis",
+            "user_input_variations": [
+                "What is LiDAR analysis?",
+                "How does Garuda Aerospace use LiDAR drones?",
+                "Tell me about the applications of LiDAR analysis."
+            ],
+            "responses": [
+                "Garuda Aerospace utilizes LiDAR drones for creating detailed 3D models and data collection, applicable in forestry, urban planning, and construction.",
+                "These services provide precise data for informed decision-making."
+            ]
+        },
+        {
+            "intent": "Wind Turbine Inspection",
+            "user_input_variations": [
+                "What are the benefits of wind turbine inspection services?",
+                "How does Garuda Aerospace inspect wind turbines?",
+                "Tell me about the wind turbine inspection services."
+            ],
+            "responses": [
+                "Garuda Aerospace offers drone inspections for wind turbines, focusing on precise defect detection and providing up-close views for real-time data.",
+                "These services help reduce maintenance costs and enhance operational efficiency."
+            ]
+        },
+        {
+            "intent": "Mining Site Inspection",
+            "user_input_variations": [
+                "What are the benefits of mining site inspection services?",
+                "How does Garuda Aerospace conduct mining inspections?",
+                "Tell me about the mining site inspection services."
+            ],
+            "responses": [
+                "Garuda Aerospace provides drones for mining site inspections, enhancing safety and enabling precise planning for operations.",
+                "These services allow access to hard-to-reach areas, improving data collection."
+            ]
+        },
+        {
+            "intent": "Powerline Inspection and Stringing",
+            "user_input_variations": [
+                "What are the benefits of powerline inspection services?",
+                "How does Garuda Aerospace inspect powerlines?",
+                "Tell me about the powerline inspection and stringing services."
+            ],
+            "responses": [
+                "Garuda Aerospace offers drones for powerline inspection and stringing, reducing personnel risks and ensuring efficient task completion.",
+                "These services provide real-time data processing for better maintenance strategies."
+            ]
+        },
+        {
+            "intent": "Environmental Impact Assessment",
+            "user_input_variations": [
+                "What is environmental impact assessment?",
+                "How does Garuda Aerospace conduct environmental assessments?",
+                "Tell me about the advantages of using drones for environmental impact assessments."
+            ],
+            "responses": [
+                "Garuda Aerospace utilizes drones for environmental assessments related to climate change, water quality, and habitat analysis, employing various sensors for data collection.",
+                "These services offer cost-effective data collection, real-time data processing, and access to hard-to-reach areas, enhancing the overall assessment process."
+            ]
+        },
+        {
+            "intent": "Flow Sensor",
+            "user_input_variations": [
+                "What is the price of the Flow Sensor?",
+                "Tell me about the Flow Sensor.",
+                "What material is the Flow Sensor made of?"
+            ],
+            "responses": [
+                "The Flow Sensor is priced at \u00e2\u201a\u00b94,448.60 inc GST. It is made of plastic and is connected to the motor pump and tubes to measure the flow rate.",
+                "The Flow Sensor is a plastic device used to measure the flow rate when connected to a motor pump."
+            ]
+        },
+        {
+            "intent": "Hexagonal Tube Holder",
+            "user_input_variations": [
+                "What is the Hexagonal Tube Holder used for?",
+                "How much does the Hexagonal Tube Holder cost?",
+                "What material is the Hexagonal Tube Holder made of?"
+            ],
+            "responses": [
+                "The Hexagonal Tube Holder costs \u00e2\u201a\u00b9236.00 inc GST and is made of plastic. It is designed to hold tubes and is lightweight with a high strength-to-weight ratio.",
+                "This holder is made from shock-resistant plastic and is used to securely hold tubes."
+            ]
+        },
+        {
+            "intent": "12x8mm Water Tube",
+            "user_input_variations": [
+                "What is the price of the 12x8mm Water Tube?",
+                "Tell me about the 12x8mm Water Tube.",
+                "What material is the 12x8mm Water Tube made of?"
+            ],
+            "responses": [
+                "The 12x8mm Water Tube is priced at \u00e2\u201a\u00b9141.00 inc GST. It is made of polyethylene and is lightweight with a high strength-to-weight ratio.",
+                "This tube is thermally and electrically insulating, making it suitable for various applications."
+            ]
+        },
+        {
+            "intent": "3x8mm Allen Screw",
+            "user_input_variations": [
+                "What is the price of the 3x8mm Allen Screw?",
+                "What is the usage of the 3x8mm Allen Screw?",
+                "What material is the 3x8mm Allen Screw made of?"
+            ],
+            "responses": [
+                "The 3x8mm Allen Screw costs \u00e2\u201a\u00b99.44 inc GST and is made of stainless steel. It is used in applications with insufficient clearance for a fastener with an external hexagon head.",
+                "This screw is ideal for tight spaces where traditional screws cannot be used."
+            ]
+        },
+        {
+            "intent": "Pixhawk Cube Flight Controller",
+            "user_input_variations": [
+                "What is the price of the Pixhawk Cube Flight Controller?",
+                "Tell me about the Pixhawk Cube Flight Controller.",
+                "What are the specifications of the Pixhawk Cube Flight Controller?"
+            ],
+            "responses": [
+                "The Pixhawk Cube Flight Controller is priced at \u00e2\u201a\u00b941,476.50 inc GST. It features three redundant IMUs and two redundant MS5611 barometers.",
+                "This controller receives user commands and controls the motors, allowing the drone to stay airborne."
+            ]
+        },
+        {
+            "intent": "Power Distribution Board",
+            "user_input_variations": [
+                "What is the price of the Power Distribution Board?",
+                "What is the function of the Power Distribution Board?",
+                "Tell me about the Power Distribution Board."
+            ],
+            "responses": [
+                "The Power Distribution Board costs \u00e2\u201a\u00b910,738.00 inc GST. It transfers power from the battery to ESCs and motors, generating power supply for the autopilot and other peripherals.",
+                "This board also provides functionality for battery voltage and current measurements."
+            ]
+        },
+        {
+            "intent": "Motor CCW",
+            "user_input_variations": [
+                "What is the price of the Motor CCW?",
+                "Tell me about the Motor CCW.",
+                "What are the specifications of the Motor CCW?"
+            ],
+            "responses": [
+                "The Motor CCW is priced at \u00e2\u201a\u00b919,942.00 inc GST. It is made of aluminum alloy and has a kv rating of 180KV with a maximum power of 770W.",
+                "This motor is used to provide the power necessary to lift the drone."
+            ]
+        },
+        {
+            "intent": "Charger",
+            "user_input_variations": [
+                "What is the price of the Charger?",
+                "Tell me about the Charger.",
+                "What is the function of the Charger?"
+            ],
+            "responses": [
+                "The Charger costs \u00e2\u201a\u00b932,981.00 inc GST and is a dual-channel 6S LiPo charger for industrial application drones.",
+                "It provides balance charging for two packs of 6 cell batteries simultaneously."
+            ]
+        },
+        {
+            "intent": "6s Battery",
+            "user_input_vari ations": [
+                "What is the price of the 6s Battery?",
+                "Tell me about the 6s Battery.",
+                "What are the specifications of the 6s Battery?"
+            ],
+            "responses": [
+                "The 6s Battery is priced at \u00e2\u201a\u00b932,214.00 inc GST. It has a capacity of 16,000 mAh (6S) and a voltage of 44.4 V.",
+                "This lithium polymer battery features an XT 90 connector and has a charging time of 30 to 40 minutes."
+            ]
+        },
+        {
+            "intent": "10L Tank",
+            "user_input_variations": [
+                "What is the price of the 10L Tank?",
+                "Tell me about the 10L Tank.",
+                "What material is the 10L Tank made of?"
+            ],
+            "responses": [
+                "The 10L Tank costs \u00e2\u201a\u00b917,641.00 inc GST and is made of ABS plastic. It is designed to carry liquids such as pesticides.",
+                "This tank is lightweight and has a high strength-to-weight ratio, along with shock resistance and thermal insulation."
+            ]
+        },
+        {
+            "intent": "Single Nozzle",
+            "user_input_variations": [
+                "What is the price of the Single Nozzle?",
+                "Tell me about the Single Nozzle.",
+                "What is the usage of the Single Nozzle?"
+            ],
+            "responses": [
+                "The Single Nozzle is priced at \u00e2\u201a\u00b91,840.80 inc GST. It has a maximum spray speed of 1L/min and a spray width of up to 8 acres per hour.",
+                "This nozzle is used for efficient liquid spraying applications."
+            ]
+        },
+        {
+            "intent": "23 inch Propeller CW",
+            "user_input_variations": [
+                "What is the price of the 23 inch Propeller CW?",
+                "Tell me about the 23 inch Propeller CW.",
+                "What material is the 23 inch Propeller CW made of?"
+            ],
+            "responses": [
+                "The 23 inch Propeller CW costs \u00e2\u201a\u00b92,454.40 inc GST and is made of composite carbon fiber. It is designed to be attached to the motors to lift the drone.",
+                "This propeller is essential for providing the necessary lift during flight."
+            ]
+        },
+        {
+            "intent": "Arm Rod",
+            "user_input_variations": [
+                "What is the price of the Arm Rod?",
+                "Tell me about the Arm Rod.",
+                "What material is the Arm Rod made of?"
+            ],
+            "responses": [
+                "The Arm Rod is priced at \u00e2\u201a\u00b911,505.00 inc GST and is made of aluminum. It has a tensile strength of 210 MPa.",
+                "This rod is used to connect the motor arm to the center frame, providing structural support."
+            ]
+        },
+        {
+            "intent": "Remote Pilot Training Organization",
+            "user_input_variations": [
+                "What is the Remote Pilot Training Organization?",
+                "Tell me about the drone pilot training offered by Garuda Aerospace.",
+                "What courses are available for drone pilot training?"
+            ],
+            "responses": [
+                "Garuda Aerospace delivers advanced drone pilot training in accordance with Rule 39 of the Drone Rules 2021, with DGCA approval for Remote Pilot Training Organization (RPTO).",
+                "The training includes several courses, such as DGCA-CERTIFIED DRONE PILOT TRAINING (Course-A), Course-B, Course-C, and Course-D, each focusing on efficient and safe drone piloting."
+            ]
+        },
+        {
+            "intent": "DGCA-Certified Drone Pilot Training Course A",
+            "user_input_variations": [
+                "What is Course A in drone pilot training?",
+                "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-A).",
+                "How long is Course A for drone pilot training?"
+            ],
+            "responses": [
+                "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-A) is an 8-day comprehensive training program approved by DGCA, focusing on efficient, safe, and cost-effective drone piloting with hands-on experience.",
+                "This course is designed for small training and is led by skilled instructors."
+            ]
+        },
+        {
+            "intent": "DGCA-Certified Drone Pilot Training Course B",
+            "user_input_variations": [
+                "What is Course B in drone pilot training?",
+                "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-B).",
+                "How long is Course B for drone pilot training?"
+            ],
+            "responses": [
+                "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-B) is a 13-day training program (8 + 5 days) authorized by DGCA, focusing on efficient and safe drone piloting through hands-on experience.",
+                "This course is suitable for small and medium training and is guided by skilled instructors."
+            ]
+        },
+        {
+            "intent": "DGCA-Certified Drone Pilot Training Course C",
+            "user_input_variations": [
+                "What is Course C in drone pilot training?",
+                "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-C).",
+                "How long is Course C for drone pilot training?"
+            ],
+            "responses": [
+                "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-C) is an 8-day training program endorsed by DGCA, focusing on efficient and safe drone piloting with hands-on sessions.",
+                "This course is designed for medium training without small RPC (Direct)."
+            ]
+        },
+        {
+            "intent": "DGCA-Certified Drone Pilot Training Course D",
+            "user_input_variations": [
+                "What is Course D in drone pilot training?",
+                "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-D).",
+                "How long is Course D for drone pilot training?"
+            ],
+            "responses": [
+                "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-D) is a 5-day training program focusing on proficient and secure drone operation with practical training.",
+                "This course is designed for medium training with small RPC (Top-Up) and is guided by experienced instructors."
+            ]
+        },
+        {
+            "intent": "Center of Excellence",
+            "user_input_variations": [
+                "What is the Center of Excellence?",
+                "Tell me about the features of the Center of Excellence.",
+                "How does the Center of Excellence empower youth?"
+            ],
+            "responses": [
+                "The Center of Excellence (CoE) aims to empower youth and create a vibrant drone ecosystem by establishing industry-driven centers at Higher Education Institutions (HEIs).",
+                "Features include learning from qualified instructors, placement support, and live field experience on industrial and agricultural projects."
+            ]
+        },
+        {
+            "intent": "Drone Training",
+            "user_input_variations": [
+                "What is the drone training program offered by Garuda Aerospace?",
+                "Tell me about the instructors in the drone training program.",
+                "What facilities are available in the drone training program?"
+            ],
+            "responses": [
+                "Garuda Aerospace offers drone training with a focus on practical learning from highly qualified instructors. The labs are well-equipped with the latest simulation software and tools.",
+                "This training prepares students for real-world applications in the drone industry."
+            ]
+        },
+        {
+            "intent": "Setting Up Center of Excellence",
+            "user_input_variations": [
+                "How can institutions set up a Center of Excellence?",
+                "What support does Garuda Aerospace provide for setting up a Center of Excellence?",
+                "Tell me about the process of establishing a Center of Excellence."
+            ],
+            "responses": [
+                "Garuda Aerospace provides guidance and expertise for institutions interested in setting up a Center of Excellence (CoE), focusing on UAV research activities.",
+                "This initiative engages both students and faculty members in industry-driven problems, fostering a collaborative environment."
+            ]
+        }
+    ]
+}

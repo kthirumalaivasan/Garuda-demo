@@ -1,0 +1,7 @@
+# Model Metadata
+Model Name: iqtech
+Training Data File: ../ollama_training.json
+Training Epochs: 20
+Batch Size: 32
+Learning Rate: 0.001
+Optimizer: Adam

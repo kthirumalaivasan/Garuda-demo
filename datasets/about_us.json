@@ -1,0 +1,121 @@
+{
+    "intents": [
+      {
+        "intent": "Introduction to Garuda Aerospace",
+        "user_input_variations": [
+          "Tell me about Garuda Aerospace.",
+          "What is Garuda Aerospace?",
+          "Can you give me an overview of Garuda Aerospace?"
+        ],
+        "responses": [
+          "Garuda Aerospace is a pioneer in Precision Agri Tech and Industry 4.0, established in 2015. We started with just five members and have grown to over 200 employees, operating a fleet of more than 400 drones across 84 cities.",
+          "Founded in 2015, Garuda Aerospace specializes in transformative advancements in Precision Agri Tech and Industry 4.0. We now have over 200 employees and a fleet of 400+ drones.",
+          "Garuda Aerospace, established in 2015, has evolved from a small team of five to over 200 employees, with a fleet of 400+ drones and 500+ pilots serving 84 cities."
+        ]
+      },
+      {
+        "intent": "Offerings of Garuda Aerospace",
+        "user_input_variations": [
+          "What services does Garuda Aerospace offer?",
+          "Can you list the offerings of Garuda Aerospace?",
+          "Tell me about the drones and services provided by Garuda Aerospace."
+        ],
+        "responses": [
+          "We offer 30 different types of drones and 50 unique services, with a fleet of 400 ready-to-fly drones and 500 trained pilots.",
+          "Garuda Aerospace provides a range of 30 drones and 50 services, with over 400 drones ready for operation and 500 skilled pilots.",
+          "Our offerings include 30 drone models and 50 services, supported by a fleet of 400 operational drones and 500 certified pilots."
+        ]
+      },
+      {
+        "intent": "Clients and Partners",
+        "user_input_variations": [
+          "Who are Garuda Aerospace's clients and partners?",
+          "Can you list some of the clients and partners of Garuda Aerospace?",
+          "Tell me about the companies Garuda Aerospace collaborates with."
+        ],
+        "responses": [
+          "Garuda Aerospace collaborates with several prominent clients and partners, including TATA, Godrej, Adani, Reliance, Swiggy, Flipkart, and many more.",
+          "Our esteemed clients and partners include major companies like TATA, Godrej, Adani, Reliance, Swiggy, and Flipkart, among others.",
+          "We have partnered with various organizations such as TATA, Godrej, Adani, Reliance, Swiggy, and many others to enhance our impact."
+        ]
+      },
+      {
+        "intent": "Focus Areas",
+        "user_input_variations": [
+          "What are the focus areas of Garuda Aerospace?",
+          "Can you tell me about the main areas Garuda Aerospace focuses on?",
+          "What sectors does Garuda Aerospace specialize in?"
+        ],
+        "responses": [
+          "Garuda Aerospace focuses on Precision Agri Tech, Industry 4.0, Defense, and Aerospace.",
+          "Our main areas of focus include Precision Agri Tech, Industry 4.0, Defense, and Aerospace.",
+          "We specialize in several sectors, including Precision Agri Tech, Industry 4.0, Defense, and Aerospace."
+        ]
+      },
+      {
+        "intent": "Vision of Garuda Aerospace",
+        "user_input_variations": [
+          "What is the vision of Garuda Aerospace?",
+          "Can you share the vision statement of Garuda Aerospace?",
+          "What does Garuda Aerospace aim to achieve?"
+        ],
+        "responses": [
+          "Our vision is to make India the drone capital of the world by accelerating industries through cost-effective and strategic drone solutions, combatting climate change with personalized afforestation plans, and fostering business growth for all industries.",
+          "Garuda Aerospace envisions making India the drone capital of the world by providing strategic drone solutions and promoting sustainable practices.",
+          "We aim to establish India as the drone capital globally by leveraging cost-effective drone solutions and addressing climate change."
+        ]
+      },
+      {
+        "intent": "Mission of Garuda Aerospace",
+        "user_input_variations": [
+          "What is the mission of Garuda Aerospace?",
+          "Can you tell me about the mission statement of Garuda Aerospace?",
+          "What goals does Garuda Aerospace strive to achieve?"
+        ],
+        "responses": [
+          "Our mission is to design cost-effective, human-centric drone solutions that cater to emergencies, promote data-driven growth, and expand drone capabilities to help industries and India flourish.",
+          "Garuda Aerospace's mission is to create affordable and user-friendly drone solutions that support emergency responses and drive growth across various sectors.",
+          "We are committed to developing cost-effective drone solutions that enhance data-driven growth and support the flourishing of industries in India."
+        ]
+      },
+      {
+        "intent": "Leadership at Garuda Aerospace",
+        "user_input_variations": [
+          "Who leads Garuda Aerospace?",
+          "Can you tell me about the leadership team at Garuda Aerospace?",
+          "Who are the key leaders in Garuda Aerospace?"
+        ],
+        "responses": [
+          "Garuda Aerospace is led by Agnishwar Jayaprakash, the Founder & CEO, and Rithika Mohan, the Co-Founder & CIO, both of whom bring unique expertise and vision to the company.",
+          "The leadership team at Garuda Aerospace includes Agnishwar Jayaprakash, our Founder & CEO, and Rithika Mohan, our Co-Founder & CIO, who are dedicated to driving innovation and growth.",
+          "Our leadership comprises Agnishwar Jayaprakash, the Founder & CEO, and Rithika Mohan, the Co-Founder & CIO, both of whom are committed to advancing our mission and vision."
+        ]
+      },
+      {
+        "intent": "Government Support for Drones",
+        "user_input_variations": [
+          "What government support does Garuda Aerospace receive?",
+          "Can you explain the government initiatives for drones?",
+          "How does the government support drone startups like Garuda Aerospace?"
+        ],
+        "responses": [
+          "The government has liberalized drone rules in 2021 and launched initiatives like Drone Shakti to support startups in drone-based applications.",
+          "Garuda Aerospace benefits from government support through liberalized drone regulations and initiatives such as Drone Shakti, aimed at fostering innovation in the drone sector.",
+          "Government initiatives, including the liberalization of drone rules and the Drone Shakti program, provide significant support to startups like Garuda Aerospace."
+        ]
+      },
+      {
+        "intent": "Collaborations and Partnerships",
+        "user_input_variations": [
+          "What collaborations does Garuda Aerospace have?",
+          "Can you tell me about Garuda Aerospace's partnerships?",
+          "Who does Garuda Aerospace collaborate with?"
+        ],
+        "responses": [
+          "Garuda Aerospace collaborates with various organizations, including Chennai Super Kings, to showcase the benefits of our drones for farmers, forces, and citizens.",
+          "We have partnerships with several entities, including Chennai Super Kings, to demonstrate the advantages of Garuda Drones in various sectors.",
+          "Our collaborations include working with Chennai Super Kings, highlighting the impact of Garuda Drones on agriculture and community welfare."
+        ]
+      }
+    ]
+  }

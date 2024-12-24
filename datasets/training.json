@@ -1,0 +1,100 @@
+{
+    "intents": [
+      {
+        "intent": "Remote Pilot Training Organization",
+        "user_input_variations": [
+          "What is the Remote Pilot Training Organization?",
+          "Tell me about the drone pilot training offered by Garuda Aerospace.",
+          "What courses are available for drone pilot training?"
+        ],
+        "responses": [
+          "Garuda Aerospace delivers advanced drone pilot training in accordance with Rule 39 of the Drone Rules 2021, with DGCA approval for Remote Pilot Training Organization (RPTO).",
+          "The training includes several courses, such as DGCA-CERTIFIED DRONE PILOT TRAINING (Course-A), Course-B, Course-C, and Course-D, each focusing on efficient and safe drone piloting."
+        ]
+      },
+      {
+        "intent": "DGCA-Certified Drone Pilot Training Course A",
+        "user_input_variations": [
+          "What is Course A in drone pilot training?",
+          "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-A).",
+          "How long is Course A for drone pilot training?"
+        ],
+        "responses": [
+          "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-A) is an 8-day comprehensive training program approved by DGCA, focusing on efficient, safe, and cost-effective drone piloting with hands-on experience.",
+          "This course is designed for small training and is led by skilled instructors."
+        ]
+      },
+      {
+        "intent": "DGCA-Certified Drone Pilot Training Course B",
+        "user_input_variations": [
+          "What is Course B in drone pilot training?",
+          "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-B).",
+          "How long is Course B for drone pilot training?"
+        ],
+        "responses": [
+          "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-B) is a 13-day training program (8 + 5 days) authorized by DGCA, focusing on efficient and safe drone piloting through hands-on experience.",
+          "This course is suitable for small and medium training and is guided by skilled instructors."
+        ]
+      },
+      {
+        "intent": "DGCA-Certified Drone Pilot Training Course C",
+        "user_input_variations": [
+          "What is Course C in drone pilot training?",
+          "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-C).",
+          "How long is Course C for drone pilot training?"
+        ],
+        "responses": [
+          "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-C) is an 8-day training program endorsed by DGCA, focusing on efficient and safe drone piloting with hands-on sessions.",
+          "This course is designed for medium training without small RPC (Direct)."
+        ]
+      },
+      {
+        "intent": "DGCA-Certified Drone Pilot Training Course D",
+        "user_input_variations": [
+          "What is Course D in drone pilot training?",
+          "Tell me about the DGCA-CERTIFIED DRONE PILOT TRAINING (Course-D).",
+          "How long is Course D for drone pilot training?"
+        ],
+        "responses": [
+          "DGCA-CERTIFIED DRONE PILOT TRAINING (Course-D) is a 5-day training program focusing on proficient and secure drone operation with practical training.",
+          "This course is designed for medium training with small RPC (Top-Up) and is guided by experienced instructors."
+        ]
+      },
+      {
+        "intent": "Center of Excellence",
+        "user_input_variations": [
+          "What is the Center of Excellence?",
+          "Tell me about the features of the Center of Excellence.",
+          "How does the Center of Excellence empower youth?"
+        ],
+        "responses": [
+          "The Center of Excellence (CoE) aims to empower youth and create a vibrant drone ecosystem by establishing industry-driven centers at Higher Education Institutions (HEIs).",
+          "Features include learning from qualified instructors, placement support, and live field experience on industrial and agricultural projects."
+        ]
+      },
+      {
+        "intent": "Drone Training",
+        "user_input_variations": [
+          "What is the drone training program offered by Garuda Aerospace?",
+          "Tell me about the instructors in the drone training program.",
+          "What facilities are available in the drone training program?"
+        ],
+        "responses": [
+          "Garuda Aerospace offers drone training with a focus on practical learning from highly qualified instructors. The labs are well-equipped with the latest simulation software and tools.",
+          "This training prepares students for real-world applications in the drone industry."
+        ]
+      },
+      {
+        "intent": "Setting Up Center of Excellence",
+        "user_input_variations": [
+          "How can institutions set up a Center of Excellence?",
+          "What support does Garuda Aerospace provide for setting up a Center of Excellence?",
+          "Tell me about the process of establishing a Center of Excellence."
+        ],
+        "responses": [
+          "Garuda Aerospace provides guidance and expertise for institutions interested in setting up a Center of Excellence (CoE), focusing on UAV research activities.",
+          "This initiative engages both students and faculty members in industry-driven problems, fostering a collaborative environment."
+        ]
+      }
+    ]
+  }

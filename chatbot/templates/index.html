@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garuda Chatbot</title>
+    <style>
+        /* Styling for chatbox */
+        .chat-box {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+
+        .chat-box textarea {
+            width: 100%;
+            height: 300px;
+            margin-bottom: 10px;
+        }
+
+        .input-box {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .input-box input {
+            width: 80%;
+            padding: 10px;
+            margin-right: 10px;
+        }
+
+        .input-box button {
+            width: 15%;
+            padding: 10px;
+        }
+
+        .voice-btn {
+            font-size: 24px;
+        }
+
+        #voiceEnableBtn {
+            font-size: 24px;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-box">
+        <textarea id="chatDisplay" disabled></textarea>
+        <div class="input-box">
+            <input type="text" id="userInput" placeholder="Type your message here">
+            <button id="sendBtn">Send</button>
+            <button id="voiceBtn" class="voice-btn">🎤</button>
+            <button id="voiceEnableBtn">🔇</button>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        const chatDisplay = document.getElementById('chatDisplay');
+        const userInput = document.getElementById('userInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const voiceBtn = document.getElementById('voiceBtn');
+        const voiceEnableBtn = document.getElementById('voiceEnableBtn');
+
+        let isVoiceEnabled = false;  // Track the state of voice output
+        let recognition;  // Store recognition instance
+        let isVoiceActive = false; // Track if voice recognition is active
+
+        // Initialize speech recognition
+        function initRecognition() {
+            recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+            recognition.lang = 'en-US';
+            recognition.continuous = false;  // Do not continuously listen, only once per press
+            recognition.interimResults = false;  // Only final results
+            recognition.onstart = function() {
+                console.log("Voice recognition started.");
+                isVoiceActive = true;  // Set recognition active flag
+            };
+            recognition.onresult = function(event) {
+                const voiceInput = event.results[0][0].transcript;
+                appendMessage('You (Voice)', voiceInput);
+                sendChatRequest(voiceInput);
+            };
+            recognition.onerror = function(event) {
+                console.error("Error occurred in recognition: ", event.error);
+                isVoiceActive = false;  // Set recognition active flag to false if error occurs
+            };
+        }
+
+        // Append message to chat display
+        function appendMessage(sender, message) {
+            chatDisplay.value += `${sender}: ${message}\n`;
+            chatDisplay.scrollTop = chatDisplay.scrollHeight;
+        }
+
+        // Enable/Disable voice output
+        voiceEnableBtn.addEventListener('click', function() {
+            isVoiceEnabled = !isVoiceEnabled;
+            voiceEnableBtn.textContent = isVoiceEnabled ? "🔊" : "🔇";
+        });
+
+        // Send message on button click or enter key press
+        sendBtn.addEventListener('click', function() {
+            sendMessage();
+        });
+
+        userInput.addEventListener('keydown', function(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        // Function to send message to Flask server and handle response
+        function sendMessage() {
+            const message = userInput.value.trim();
+            if (!message) return;
+
+            appendMessage('You', message);
+
+            // Send the message to Flask server
+            sendChatRequest(message);
+
+            // If voice is enabled, also read out the typed sentence
+            if (isVoiceEnabled) {
+                readOutResponse(message);
+            }
+
+            userInput.value = '';
+        }
+
+        // Function to send the chat message to the Flask server
+        function sendChatRequest(message) {
+            $.ajax({
+                url: '/chat',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ message }),
+                success: function(response) {
+                    appendMessage('Bot', response.response);
+
+                    if (isVoiceEnabled) {
+                        readOutResponse(response.response);
+                    }
+                },
+                error: function() {
+                    appendMessage('Bot', 'Error processing your message.');
+                }
+            });
+        }
+
+        // Function to read the bot's response (Text-to-Speech)
+        function readOutResponse(response) {
+            const speech = new SpeechSynthesisUtterance(response);
+            window.speechSynthesis.speak(speech);
+        }
+
+        // Voice recognition button click handler
+        voiceBtn.addEventListener('click', function() {
+            if (isVoiceActive) {
+                recognition.stop();  // Stop the recognition if it's active
+                isVoiceActive = false;
+                console.log("Voice recognition stopped.");
+                voiceBtn.textContent = "🎤";  // Reset button text
+            } else {
+                if (!recognition) {
+                    initRecognition();
+                }
+                recognition.start();  // Start voice recognition
+                voiceBtn.textContent = "🛑";  // Change the button to indicate mic is on
+            }
+        });
+    </script>
+</body>
+</html>

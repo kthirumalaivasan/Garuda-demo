@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "Contact Information",
+      "user_input_variations": [
+        "What is the contact information for Garuda Aerospace?",
+        "Can you provide the address and contact details for Garuda Aerospace?",
+        "How can I contact Garuda Aerospace?"
+      ],
+      "responses": [
+        "You can contact Garuda Aerospace at the following address: 24/46, KB Dasan Rd, Seetammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu – 600018. You can also reach us via email at info@garudaaerospace.com or service@garudaaerospace.com, and by phone at +91-78248-33884 or +91-77888-68884.",
+        "Garuda Aerospace is located at 24/46, KB Dasan Rd, Seetammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu – 600018. You can email us at info@garudaaerospace.com or service@garudaaerospace.com, and call us at +91-78248-33884 or +91-77888-68884.",
+        "To contact Garuda Aerospace, you can visit us at 24/46, KB Dasan Rd, Seetammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu – 600018. For inquiries, email us at info@garudaaerospace.com or service@garudaaerospace.com, or call +91-78248-33884 or +91-77888-68884."
+      ]
+    },
+    {
+      "intent": "Help Options",
+      "user_input_variations": [
+        "I need help with something specific.",
+        "How can I get assistance from Garuda Aerospace?",
+        "What help options are available?"
+      ],
+      "responses": [
+        "If you need help with something specific, please choose a department and fill in your details. Our concerned team will contact you shortly. You can find the options on our contact page: https://www.garudaaerospace.com/contact/",
+        "For specific assistance, please select a department and provide your details. Our team will reach out to you shortly. Visit our contact page for more information: https://www.garudaaerospace.com/contact/",
+        "Need help with something specific? Choose a department and fill in your details, and our team will get back to you shortly. You can access the help options here: https://www.garudaaerospace.com/contact/"
+      ]
+    },
+    {
+      "intent": "Departments for Help",
+      "user_input_variations": [
+        "What departments can I choose for help?",
+        "Can you list the help departments available?",
+        "What options do I have for assistance?"
+      ],
+      "responses": [
+        "You can choose from the following departments for assistance: Drone Enquiry, Claim Your Subsidy, Loan for Agri Drone, Partner With Us, Dealership & Distributor, and Jobs / Hiring.",
+        "The available departments for help include: Drone Enquiry, Claim Your Subsidy, Loan for Agri Drone, Partner With Us, Dealership & Distributor, and Jobs / Hiring.",
+        "For assistance, you can select from these departments: Drone Enquiry, Claim Your Subsidy, Loan for Agri Drone, Partner With Us, Dealership & Distributor, and Jobs / Hiring."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+    "intents": [
+      {
+        "intent": "Brand Ambassador",
+        "user_input_variations": [
+          "Who is the brand ambassador for Garuda Aerospace?",
+          "Tell me about Garuda Aerospace's brand ambassador.",
+          "What does M.S. Dhoni say about Garuda Aerospace?"
+        ],
+        "responses": [
+          "M.S. Dhoni is the brand ambassador for Garuda Aerospace. He stated, 'I’m happy to be a part of Garuda Aerospace & look forward to witnessing their growth story with the unique drone solutions they have to offer.'",
+          "The brand ambassador for Garuda Aerospace is M.S. Dhoni, who expressed his excitement about being part of the company's journey."
+        ]
+      },
+      {
+        "intent": "Kisan Agri Drone",
+        "user_input_variations": [
+          "What is the Kisan Agri Drone?",
+          "Tell me about the Kisan Agri Drone offered by Garuda Aerospace.",
+          "What are the advantages of the Kisan Agri Drone?"
+        ],
+        "responses": [
+          "The Kisan Agri Drone is a Made In India solution designed to empower youth and farmers with affordable precision agriculture technology. It can cover 200 acres in just 30 minutes, provides timely and accurate data, and helps smallholder farmers act before economic damages occur.",
+          "Garuda Aerospace's Kisan Agri Drone empowers farmers with affordable precision agriculture technology, covering 200 acres in 30 minutes and providing crucial data to prevent economic losses."
+        ]
+      },
+      {
+        "intent": "Subsidy Information",
+        "user_input_variations": [
+          "What subsidy is available for the Kisan Agri Drone?",
+          "Can you explain the subsidy details for farmers using Garuda's drones?",
+          "Who provides the subsidy for the Kisan Agri Drone?"
+        ],
+        "responses": [
+          "The subsidy for the Kisan Agri Drone is provided by the Minister of Agriculture & Farmers Welfare, offering 40-50% off for different farmer groups across India.",
+          "Farmers can receive a 40-50% subsidy on the Kisan Agri Drone, supported by the Minister of Agriculture & Farmers Welfare."
+        ]
+      },
+      {
+        "intent": "Impact of Garuda Aerospace",
+        "user_input_variations": [
+          "What is the impact of Garuda Aerospace?",
+          "Can you provide statistics on Garuda Aerospace's impact?",
+          "How many projects has Garuda Aerospace completed?"
+        ],
+        "responses": [
+          "Garuda Aerospace has traveled 1.08 Cr kilometers, completed 350 projects, covered over 478 districts, and trained or created jobs for over 100,000 rural youth.",
+          "The impact of Garuda Aerospace includes 1.08 Cr kilometers traveled, 350 projects completed, and 6,398 drones distributed across 62 centers of excellence."
+        ]
+      },
+      {
+        "intent": "Vision of Garuda Aerospace",
+        "user_input_variations": [
+          "What is the vision of Garuda Aerospace?",
+          "Can you share the vision statement of Garuda Aerospace?",
+          "What initiatives does Garuda Aerospace have for its vision?"
+        ],
+        "responses": [
+          "Garuda Aerospace's vision is to catalyze the goal of making India 'The Drone Hub' through initiatives like the Kisan Drone Yatra, which was flagged off by Hon'ble P.M. Shri Narendra Modi.",
+          "The tagline for Garuda Aerospace's vision is 'Catalyzing the Vision of Making India 'The Drone Hub', with initiatives such as the Kisan Drone Yatra."
+        ]
+      },
+      {
+        "intent": "CEO Message",
+        "user_input_variations": [
+          "What does the CEO of Garuda Aerospace say?",
+          "Can you share a message from Agnishwar Jayaprakash?",
+          "What are the goals of Garuda Aerospace according to the CEO?"
+        ],
+        "responses": [
+          "Agnishwar Jayaprakash, the Founder & CEO of Garuda Aerospace, stated, 'Garuda Aerospace has set a target of manufacturing two lakh drones in the next two years for our farmers, which will support the Indian economy and enhance agricultural productivity.'",
+          "The CEO of Garuda Aerospace, Agnishwar Jayaprakash, emphasizes the goal of manufacturing two lakh drones in two years to support farmers and boost their income."
+        ]
+      },
+      {
+        "intent": "Women Empowerment Initiative",
+        "user_input_variations": [
+          "What is the women empowerment initiative by Garuda Aerospace?",
+          "Can you tell me about the NAMO DRONE DIDIs program?",
+          "How does Garuda Aerospace empower women in agriculture?"
+        ],
+        "responses": [
+          "The NAMO DRONE DIDIs program is a pioneering initiative aimed at women-led development in Indian agriculture, connecting 15,000 self-help groups and training women to become drone pilots for crop monitoring, fertiliser spraying, and seed sowing.",
+          "Garuda Aerospace's women empowerment initiative, NAMO DRONE DIDIs, trains women to use drones in agriculture, providing additional income opportunities and promoting gender equality in the sector."
+        ]
+      },
+      {
+        "intent": "Impact Book",
+        "user_input_variations": [
+          "What is the impact book of Garuda Aerospace?",
+          "Can you describe the 2023 impact book?",
+          "What initiatives are showcased in Garuda Aerospace's impact book?"
+        ],
+        "responses": [
+          "The 2023 impact book showcases transformative initiatives, inspiring collaborations, and impactful strides toward a sustainable future.",
+          "Garuda Aerospace's impact book for 2023 highlights various initiatives and collaborations aimed at promoting sustainability and innovation."
+        ]
+      },
+      {
+        "intent": "Innovations",
+        "user_input_variations": [
+          "What innovations does Garuda Aerospace focus on?",
+          "Can you list the applications of Garuda Aerospace's technology?",
+          "How is Garuda Aerospace building a tech-led nation?"
+        ],
+        "responses": [
+          "Garuda Aerospace focuses on innovations that build a secure, progressive, tech-led nation, with applications in agriculture, defense, surveillance & monitoring, and emergency services.",
+          "The innovations by Garuda Aerospace include applications in various sectors such as agriculture, defense, and emergency services, contributing to a tech-led nation."
+        ]
+      }
+    ]
+  }
