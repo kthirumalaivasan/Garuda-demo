@@ -1,5 +1,5 @@
 langchain==0.0.262
-ollama==0.1.2
+ollama
 speechrecognition==3.8.1
 pyttsx3==2.90
 json5==0.9.14
@@ -9,4 +9,4 @@ fuzzywuzzy==0.18.0
 python-Levenshtein
 Flask==2.2.3
 Flask-CORS
-googletrans==4.0.0-rc1
+googletrans
