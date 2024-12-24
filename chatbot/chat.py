@@ -9,8 +9,8 @@ import random
 MODEL_NAME = "iqtech"  # Your custom model
 TRAINING_DATA_FILE = "../datasets/ollama_training.json"  # Full path to the training file
 ADMIN_PASSWORD = "admin123"  # Admin password to update data (change to your own)
-ADMIN_REVIEW_FILE = "../datasets/admin_review_queries.json"  # File to store queries for admin review
-UNRELEVANT_FILE = "../datasets/unrelevant.json"  # File to store irrelevant queries
+ADMIN_REVIEW_FILE = "admin_review_queries.json"  # File to store queries for admin review
+UNRELEVANT_FILE = "unrelevant.json"  # File to store irrelevant queries
 
 # Initialize the spell checker
 spell = Speller()
