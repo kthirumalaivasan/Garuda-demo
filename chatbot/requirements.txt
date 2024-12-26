@@ -11,5 +11,6 @@ flask==2.1.2
 werkzeug==2.0.3
 Flask-CORS
 googletrans
-pymongo
-python-dotenv
+pymongo>=3.10.1
+autocorrect>=2.0.1
+python-dotenv>=0.19.2
