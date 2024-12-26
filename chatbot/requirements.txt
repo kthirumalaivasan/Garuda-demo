@@ -12,5 +12,4 @@ werkzeug==2.0.3
 Flask-CORS
 googletrans
 pymongo>=3.10.1
-autocorrect>=2.0.1
 python-dotenv>=0.19.2
