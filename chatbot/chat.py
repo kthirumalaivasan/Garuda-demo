@@ -4,6 +4,9 @@ from fuzzywuzzy import fuzz
 from autocorrect import Speller
 import subprocess
 import random
+from database.db import collection1
+from database.db import collection2
+
 
 # Configuration
 MODEL_NAME = "iqtech"  # Your custom model
@@ -100,9 +103,8 @@ def log_for_admin_review(query):
             "prompt": query,
             "completion": ""
         }
-        with open(ADMIN_REVIEW_FILE, "a") as f:
-            json.dump(review_data, f, indent=4)
-            f.write("\n")
+        collection1.insert_one(review_data)
+        print("Query logged successfully.")
     except Exception as e:
         print(f"Failed to log query for review: {e}")
 
@@ -113,9 +115,9 @@ def log_irrelevant_query(query):
             "prompt": query,
             "completion": ""
         }
-        with open(UNRELEVANT_FILE, "a") as f:
-            json.dump(review_data, f, indent=4)
-            f.write("\n")
+        # Insert the data into the MongoDB collection
+        collection2.insert_one(review_data)
+        print("Query logged successfully.")
     except Exception as e:
         print(f"Failed to log irrelevant query: {e}")
 
