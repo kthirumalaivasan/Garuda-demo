@@ -6,7 +6,7 @@ import subprocess
 import random
 from database.db import collection1
 from database.db import collection2
-
+from utils.logger import logger
 
 # Configuration
 MODEL_NAME = "iqtech"  # Your custom model
@@ -33,7 +33,7 @@ def save_training_data(training_data):
         with open(TRAINING_DATA_FILE, 'w') as f:
             json.dump(training_data, f, indent=4)
     except Exception as e:
-        print(f"Failed to save training data: {e}")
+        logger.error("Failed to save training data: {e}")
 
 # Correct spelling mistakes
 def correct_spelling(user_input):
@@ -104,9 +104,9 @@ def log_for_admin_review(query):
             "completion": ""
         }
         collection1.insert_one(review_data)
-        print("Query logged successfully.")
+        logger.info("Query logged successfully.")
     except Exception as e:
-        print(f"Failed to log query for review: {e}")
+        logger.error("Failed to log query for review: {e}")
 
 # Log irrelevant queries
 def log_irrelevant_query(query):
@@ -117,9 +117,9 @@ def log_irrelevant_query(query):
         }
         # Insert the data into the MongoDB collection
         collection2.insert_one(review_data)
-        print("Query logged successfully.")
+        logger.info("Query logged successfully.")
     except Exception as e:
-        print(f"Failed to log irrelevant query: {e}")
+        logger.error("Failed to log irrelevant query: {e}")
 
 # Append to the main training data file after admin review
 def append_to_main_dataset(prompt, completion):
@@ -131,7 +131,7 @@ def append_to_main_dataset(prompt, completion):
         })
         save_training_data(training_data)
     except Exception as e:
-        print(f"Failed to append to main dataset: {e}")
+        logger.error("Failed to append to main dataset: {e}")
 
 # Run custom model using subprocess
 def run_custom_model(query):
@@ -149,7 +149,7 @@ def run_custom_model(query):
     except subprocess.TimeoutExpired:
         return "I'm sorry, the response took too long. Please try rephrasing your question."
     except Exception as e:
-        return f"An error occurred: {str(e)}"
+        return logger.error("An error occurred: {e}")
 
 # Chat function
 def chat(user_input, is_admin=False):
@@ -190,10 +190,10 @@ def chat(user_input, is_admin=False):
             if completion:
                 # Append completion to the main dataset
                 append_to_main_dataset(user_input, completion)
-                print(f"Response updated successfully! Query: '{user_input}', Completion: '{completion}'")
+                logger.info("Response updated successfully! Query: '{user_input}', Completion: '{completion}'")
                 return completion
             else:
-                print("Completion not provided. Try again later.")
+                logger.info("Completion not provided. Try again later.")
                 return "Completion not provided. Try again later."
         else:
             # Log query to admin review file
