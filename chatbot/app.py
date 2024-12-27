@@ -1,8 +1,10 @@
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 from chat import chat  # Import the chat function from chat.py
+from utils.logger import logger
 
 # Initialize Flask app and enable CORS
+logger.info("Starting up Demo Chatbot")
 app = Flask(__name__)
 CORS(app)
 
@@ -19,10 +21,11 @@ def chat_route():
         return jsonify({"error": "No message provided"}), 400
 
     # Call the chat function to handle user input and return response
-    bot_response = chat(user_message)
+    bot_response = chat(user_message, false, )
     
     return jsonify({"response": bot_response})
 
 # Run the Flask app
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=8000)
+    logger.info("Demo Chatbot is successfully started and running")

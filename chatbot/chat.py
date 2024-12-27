@@ -41,7 +41,7 @@ def correct_spelling(user_input):
 
 # Find the best match
 def find_best_match(user_input, training_data):
-    user_input = correct_spelling(user_input.lower())  # Correct spelling first
+    # user_input = correct_spelling(user_input.lower())  # Correct spelling first
     best_match = None
     highest_similarity = 0.0
 
@@ -156,10 +156,10 @@ def chat(user_input, is_admin=False):
     training_data = load_training_data()
 
     # Correct the user input spelling
-    user_input_corrected = correct_spelling(user_input)
+    # user_input_corrected = correct_spelling(user_input)
 
     # Handling greetings
-    if is_greeting(user_input_corrected):
+    if is_greeting(user_input):
         greetings_responses = [
             "Hi there! 👋 I'm Garuda Bot, developed by IQ TechMax. How can I assist you today? 😊",
             "Hey! How's it going? 😎 I'm Garuda Bot, here to help you! 👍",
@@ -168,7 +168,7 @@ def chat(user_input, is_admin=False):
         return random.choice(greetings_responses)
     
     # Handle casual expressions like thank you, yes/no, haha, etc.
-    elif is_casual_expression(user_input_corrected):
+    elif is_casual_expression(user_input):
         casual_responses = [
             "You're welcome! 😄", "No worries! 👍", "Lol, I got you! 😆", "Yep, that's correct! ✅", 
             "Sure thing! 😃", "Great! 🙌", "Got it, thanks! 👏", "No problem! 😎", "Yup, no issue! 🤗",
@@ -177,31 +177,31 @@ def chat(user_input, is_admin=False):
         return random.choice(casual_responses)
     
     # Try to find the best match in the training data for relevant queries
-    response = find_best_match(user_input_corrected, training_data)
+    response = find_best_match(user_input, training_data)
     
     if response:
         # Return the best match response if found
         return response
     
     # If no match is found, check if the query is still relevant to the training context
-    if is_relevant_query(user_input_corrected):
+    if is_relevant_query(user_input):
         if is_admin:
-            completion = input(f"Admin: Please provide a completion for this query '{user_input_corrected}': ")
+            completion = input(f"Admin: Please provide a completion for this query '{user_input}': ")
             if completion:
                 # Append completion to the main dataset
-                append_to_main_dataset(user_input_corrected, completion)
-                print(f"Response updated successfully! Query: '{user_input_corrected}', Completion: '{completion}'")
+                append_to_main_dataset(user_input, completion)
+                print(f"Response updated successfully! Query: '{user_input}', Completion: '{completion}'")
                 return completion
             else:
                 print("Completion not provided. Try again later.")
                 return "Completion not provided. Try again later."
         else:
             # Log query to admin review file
-            log_for_admin_review(user_input_corrected)
+            log_for_admin_review(user_input)
             return "Sorry, I am currently under training. 😅 Let me pass this question to the admin for review. 📝"
     else:
         # Log irrelevant query
-        log_irrelevant_query(user_input_corrected)
+        log_irrelevant_query(user_input)
         # If query is not relevant, respond with a generic message
         return "Sorry, I can only respond to Garuda Aerospace-related queries. 🙇‍♂️"
 
