@@ -20,7 +20,7 @@ def chat_route():
         return jsonify({"error": "No message provided"}), 400
 
     # Call the chat function to handle user input and return response
-    bot_response = chat(user_message, false, )
+    bot_response = chat(user_message)
     
     return jsonify({"response": bot_response})
 
