@@ -5,7 +5,11 @@ import random
 from sentence_transformers import SentenceTransformer, util
 from database.db import collection1
 from database.db import collection2
+<<<<<<< HEAD
 import subprocess
+=======
+from utils.logger import logger
+>>>>>>> 16df92943b8d8a4204669740c7036ca32d7170c2
 
 # Configuration
 MODEL_NAME = "iqtech"  # Your custom model
@@ -32,10 +36,20 @@ def save_training_data(training_data):
         with open(TRAINING_DATA_FILE, 'w') as f:
             json.dump(training_data, f, indent=4)
     except Exception as e:
-        print(f"Failed to save training data: {e}")
+        logger.error("Failed to save training data: {e}")
 
+<<<<<<< HEAD
 # Find the best match using fuzzy matching
 def find_best_match_fuzzy(user_input, training_data):
+=======
+# Correct spelling mistakes
+def correct_spelling(user_input):
+    return spell(user_input)
+
+# Find the best match
+def find_best_match(user_input, training_data):
+    # user_input = correct_spelling(user_input.lower())  # Correct spelling first
+>>>>>>> 16df92943b8d8a4204669740c7036ca32d7170c2
     best_match = None
     highest_similarity = 0.0
 
@@ -109,9 +123,9 @@ def log_for_admin_review(query):
             "completion": ""
         }
         collection1.insert_one(review_data)
-        print("Query logged successfully.")
+        logger.info("Query logged successfully.")
     except Exception as e:
-        print(f"Failed to log query for review: {e}")
+        logger.error("Failed to log query for review: {e}")
 
 # Log irrelevant queries
 def log_irrelevant_query(query):
@@ -121,9 +135,9 @@ def log_irrelevant_query(query):
             "completion": ""
         }
         collection2.insert_one(review_data)
-        print("Query logged successfully.")
+        logger.info("Query logged successfully.")
     except Exception as e:
-        print(f"Failed to log irrelevant query: {e}")
+        logger.error("Failed to log irrelevant query: {e}")
 
 # Append to the main training data file after admin review
 def append_to_main_dataset(prompt, completion):
@@ -135,7 +149,7 @@ def append_to_main_dataset(prompt, completion):
         })
         save_training_data(training_data)
     except Exception as e:
-        print(f"Failed to append to main dataset: {e}")
+        logger.error("Failed to append to main dataset: {e}")
 
 # Run custom model using subprocess
 def run_custom_model(query):
@@ -153,12 +167,18 @@ def run_custom_model(query):
     except subprocess.TimeoutExpired:
         return "I'm sorry, the response took too long. Please try rephrasing your question."
     except Exception as e:
-        return f"An error occurred: {str(e)}"
+        return logger.error("An error occurred: {e}")
 
 # Chat function
 def chat(user_input, is_admin=False):
     training_data = load_training_data()
 
+<<<<<<< HEAD
+=======
+    # Correct the user input spelling
+    # user_input_corrected = correct_spelling(user_input)
+
+>>>>>>> 16df92943b8d8a4204669740c7036ca32d7170c2
     # Handling greetings
     if is_greeting(user_input):
         greetings_responses = [
@@ -168,12 +188,27 @@ def chat(user_input, is_admin=False):
         ]
         return random.choice(greetings_responses)
     
+<<<<<<< HEAD
     # Try to find the best match using fuzzy matching
     response = find_best_match_fuzzy(user_input, training_data)
+=======
+    # Handle casual expressions like thank you, yes/no, haha, etc.
+    elif is_casual_expression(user_input):
+        casual_responses = [
+            "You're welcome! 😄", "No worries! 👍", "Lol, I got you! 😆", "Yep, that's correct! ✅", 
+            "Sure thing! 😃", "Great! 🙌", "Got it, thanks! 👏", "No problem! 😎", "Yup, no issue! 🤗",
+            "Haha! 😂", "Hehe! 😏", "Hahaha, you're funny! 😂", "Heehee! 😆"
+        ]
+        return random.choice(casual_responses)
+    
+    # Try to find the best match in the training data for relevant queries
+    response = find_best_match(user_input, training_data)
+>>>>>>> 16df92943b8d8a4204669740c7036ca32d7170c2
     
     if response:
         return response
     
+<<<<<<< HEAD
     # If no match found, try semantic similarity
     response = find_best_match_semantic(user_input, training_data)
     
@@ -181,10 +216,14 @@ def chat(user_input, is_admin=False):
         return response
     
     # If no match found, check if the query is relevant and handle it for admin review
+=======
+    # If no match is found, check if the query is still relevant to the training context
+>>>>>>> 16df92943b8d8a4204669740c7036ca32d7170c2
     if is_relevant_query(user_input):
         if is_admin:
             completion = input(f"Admin: Please provide a completion for this query '{user_input}': ")
             if completion:
+<<<<<<< HEAD
                 append_to_main_dataset(user_input, completion)
                 return completion
             else:
@@ -195,3 +234,22 @@ def chat(user_input, is_admin=False):
     else:
         log_irrelevant_query(user_input)
         return "Sorry, I can only respond to Garuda Aerospace-related queries."
+=======
+                # Append completion to the main dataset
+                append_to_main_dataset(user_input, completion)
+                logger.info("Response updated successfully! Query: '{user_input}', Completion: '{completion}'")
+                return completion
+            else:
+                logger.info("Completion not provided. Try again later.")
+                return "Completion not provided. Try again later."
+        else:
+            # Log query to admin review file
+            log_for_admin_review(user_input)
+            return "Sorry, I am currently under training. 😅 Let me pass this question to the admin for review. 📝"
+    else:
+        # Log irrelevant query
+        log_irrelevant_query(user_input)
+        # If query is not relevant, respond with a generic message
+        return "Sorry, I can only respond to Garuda Aerospace-related queries. 🙇‍♂️"
+
+>>>>>>> 16df92943b8d8a4204669740c7036ca32d7170c2

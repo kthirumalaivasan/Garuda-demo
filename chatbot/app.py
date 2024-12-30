@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 from chat import chat  # Import the chat function from chat.py
+from utils.logger import logger
 
 # Initialize Flask app and enable CORS
 app = Flask(__name__)
@@ -23,6 +24,7 @@ def chat_route():
     
     return jsonify({"response": bot_response})
 
+logger.info("Garuda Demo bot started successfully")
 # Run the Flask app
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=8000)
