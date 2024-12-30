@@ -10,5 +10,5 @@ sentence-transformers
 speechrecognition==3.8.1
 pyttsx3==2.90
 pymongo>=3.10.1
-numpy==1.21.6 
+numpy>=1.21,<2.0
 scikit-learn==1.0.2
