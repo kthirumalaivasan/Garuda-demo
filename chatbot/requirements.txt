@@ -13,3 +13,6 @@ Flask-CORS
 googletrans
 pymongo>=3.10.1
 python-dotenv>=0.19.2
+sentence-transformers
+scikit-learn==1.2.0
+numpy==1.23.5
