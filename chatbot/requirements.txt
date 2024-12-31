@@ -14,3 +14,4 @@ scikit-learn==1.2.0
 numpy==1.23.5
 werkzeug>=2.0.0
 pymongo
+python-dotenv
