@@ -15137,8 +15137,1329 @@
 {
   "prompt": "How to implement Garuda drones in farming?",
   "completion": "Garuda drones can be implemented in farming to enhance efficiency and productivity. These drones are equipped with advanced sensors and imaging technology that allow for precision farming techniques. They can be used for tasks such as crop monitoring, pest detection, soil analysis, and even spraying fertilizers or pesticides. To implement Garuda drones in farming, you would start by training farmers or operators to use the drones effectively, and then integrate the drones into regular farming practices for tasks like aerial surveys, crop health monitoring, and yield prediction. The data collected by the drones can be analyzed to make informed decisions, optimize resource use, and increase crop yields."
+},
+
+{
+  "prompt": "Who should I contact to implement Garuda drones in farming?",
+  "completion": "To implement Garuda drones in farming, you should contact the Garuda Aerospace sales or support team. They can provide detailed information on the available drone models, training programs, and implementation strategies. You can also reach out to local Garuda Aerospace partners or certified distributors who specialize in agricultural drone solutions. Additionally, Garuda may offer consultations to help assess your farming needs and recommend the right drone technology for your operation."
+},
+{
+  "prompt": "Who should I contact for drone training services?",
+  "completion": "To inquire about drone training services, you should reach out to the Garuda Aerospace training department. They can provide information on the different drone training courses offered, such as basic flying, advanced training, and remote pilot certification. You can also contact the nearest Garuda Aerospace training center for personalized assistance."
+},
+{
+  "prompt": "Who should I contact for drone maintenance and support?",
+  "completion": "For drone maintenance and support services, contact the Garuda Aerospace support team or visit the nearest authorized service center. They offer assistance with drone repairs, maintenance checks, and troubleshooting to ensure optimal performance. You can also schedule a consultation for regular maintenance packages."
+},
+{
+  "prompt": "Who should I contact for a business or corporate partnership with Garuda Aerospace?",
+  "completion": "To explore business and corporate partnership opportunities with Garuda Aerospace, reach out to their business development or partnership team. They will guide you through the process of establishing a partnership, including collaboration on technology deployment, joint ventures, and strategic business opportunities."
+},
+{
+  "prompt": "Who should I contact to inquire about purchasing Garuda drones or related products?",
+  "completion": "For purchasing Garuda drones and related products, you should contact the Garuda Aerospace sales team. They can provide detailed product information, pricing, and availability, and assist you with placing an order or arranging a product demo."
+},
+{
+  "prompt": "Whom to contact to implement Garuda in farming?",
+  "completion": "To implement Garuda drones in farming, you should contact the Garuda Aerospace sales or support team. They will guide you through the process of integrating drones into agricultural operations and offer advice on the best drone models for your farming needs. You can also reach out to local partners or agricultural specialists working with Garuda for tailored implementation support."
+},
+{
+  "prompt": "Benefits of Kisan Drone",
+  "completion": "The Kisan Drone offers several benefits for farmers, including efficient crop monitoring, precise pesticide and fertilizer spraying, and the ability to gather real-time data on crop health. It reduces labor costs, increases operational efficiency, and improves overall yield by ensuring more accurate and timely interventions. Additionally, it helps reduce environmental impact by minimizing the use of chemicals and water in agriculture."
+},
+{
+  "prompt": "Benefits of Surveillance Drone",
+  "completion": "The Surveillance Drone provides enhanced security and monitoring capabilities. It can be used for monitoring large areas, conducting aerial surveillance for public safety, and assisting in search and rescue operations. With high-resolution cameras, it captures clear footage for analysis, making it ideal for sectors like defense, law enforcement, and large-scale security operations."
+},
+{
+  "prompt": "Benefits of Agricultural Drone",
+  "completion": "Agricultural drones help optimize farming processes by providing precise data on soil health, crop conditions, and overall farm productivity. They can be used for tasks such as planting, irrigation, pest control, and crop spraying. This technology leads to cost savings, increased yields, and a reduction in the use of chemicals and water, promoting more sustainable farming practices."
+},
+{
+  "prompt": "Benefits of Industrial Drone",
+  "completion": "Industrial drones are essential for performing inspections and maintenance in hard-to-reach or hazardous locations. They are commonly used in industries such as construction, mining, and energy. By capturing high-quality aerial imagery and data, industrial drones help improve safety, reduce downtime, and increase efficiency in infrastructure projects and operations."
+},
+{
+  "prompt": "Benefits of Defense Drone",
+  "completion": "Defense drones are crucial for modern military operations, providing real-time surveillance, reconnaissance, and tactical support. They offer cost-effective solutions for intelligence gathering, border patrol, and disaster management. With advanced payloads and long-range capabilities, defense drones can operate in hostile environments, enhancing mission success while minimizing human risk."
+},
+{
+  "prompt": "Benefits of Mapping Drone",
+  "completion": "Mapping drones offer high-precision aerial imagery and geospatial data collection for topographic surveys, land planning, and environmental monitoring. They are widely used in sectors such as urban planning, agriculture, and construction. By capturing detailed 3D models and accurate maps, these drones save time, reduce costs, and improve the quality of data for decision-making."
+},
+{
+  "prompt": "How much does Kisan Drone cost?",
+  "completion": "Kisan Agri Drone comes in two variants: Kisan Drone - 8L and Kisan Drone - 16L. The price for the Kisan Drone - 8L is ₹8,00,000, while the Kisan Drone - 16L is priced at ₹16,00,000. These drones are equipped with advanced monitoring capabilities and are DGCA-approved for agricultural use."
+},
+{
+  "prompt": "What is the cost of Agri Drone?",
+  "completion": "The Agri Drone's cost varies depending on its specifications. The price starts from ₹8,00,000 for the Kisan Drone - 8L and goes up to ₹16,00,000 for the Kisan Drone - 16L. It provides advanced monitoring capabilities and is DGCA-approved for agricultural tasks."
+},
+{
+  "prompt": "What is the cost of Kisan Drone AMC packages?",
+  "completion": "Kisan Drone offers three AMC (Annual Maintenance Contract) packages: \n- Basic: ₹10,000, which includes general wire checks, ESC calibration, motor alignment, and cleaning services. \n- Premium: ₹20,000, which includes all Basic services plus GPS and antenna tightening, and landing gear replacement. \n- Elite: 10% of the drone's base cost, which includes Premium services plus advanced repairs such as transmitter issues, water tube replacements, and other repairs."
+},
+{
+  "prompt": "What is the cost of Kisan Drone Elite AMC?",
+  "completion": "The Kisan Drone Elite AMC package costs 10% of the drone's base cost. This includes all Premium services, such as transmitter issues, water tube replacements, and advanced repairs."
+},
+{
+  "prompt": "What are the available financial support options for Kisan Drone?",
+  "completion": "Kisan Drone offers financial support through AIF Loan Facilities. You can avail loans up to ₹2 crores per unit with a 3% interest subsidy for 7 years. Additionally, collateral-free loans are available under the CGTMSE scheme."
+},
+{
+  "prompt": "What are the SMAM subsidy details for Kisan Drone?",
+  "completion": "Under the SMAM scheme, individual farmers can receive a subsidy of 40-50% for Kisan Drone purchases, up to ₹4 lakhs. For SC/ST/Women farmers, the subsidy is up to 50%. Agricultural graduates and CHCs are eligible for a 50% subsidy."
+},
+{
+  "prompt": "How many Kisan Drones have been sold?",
+  "completion": "Over 3,000 Kisan Drones have been sold, helping farmers revolutionize their agricultural practices with precise, reliable, and sustainable solutions for crop management."
+},
+{
+  "prompt": "What are the features of the Kisan Drone?",
+  "completion": "The Kisan Drone is designed for advanced agricultural monitoring, equipped with DGCA-approved technology to provide precise crop management. It helps in spraying pesticides, monitoring crops, and collecting real-time data on crop health. The Kisan Drone comes in two variants, 8L and 16L, to cater to different farm sizes and needs."
+},
+{
+  "prompt": "What is the duration of Kisan Drone's maintenance service?",
+  "completion": "Kisan Drone offers AMC services with different duration options. The Basic package is priced at ₹10,000 annually, the Premium package at ₹20,000, and the Elite package at 10% of the drone's base cost annually."
+},
+{
+  "prompt": "Can I get a loan to purchase Kisan Drone?",
+  "completion": "Yes, Kisan Drone offers loan facilities through the AIF Loan Scheme. You can avail a loan of up to ₹2 crores per unit with a 3% interest subsidy for 7 years, and the loan is collateral-free under the CGTMSE."
+},
+{
+  "prompt": "What are the details of Kisan Drone AMC Packages?",
+  "completion": "Kisan Drone offers three AMC (Annual Maintenance Contract) packages to ensure optimal performance and longevity of your drone. The available packages are: \n\n1. **Basic AMC Package** - ₹10,000\n   - General wire checks\n   - ESC calibration\n   - Motor alignment\n   - Cleaning services\n\n2. **Premium AMC Package** - ₹20,000\n   - Includes all services from the Basic package\n   - GPS and antenna tightening\n   - Landing gear replacement\n\n3. **Elite AMC Package** - 10% of the drone's base cost\n   - Includes all services from the Premium package\n   - Advanced repairs such as transmitter issues, water tube replacements, and other advanced repairs.\n\nThese AMC packages ensure your Kisan Drone remains in top working condition for sustained farming success."
+},
+{
+  "prompt": "What are the details about Kisan Drone AMC packages?",
+  "completion": "Kisan Drone offers three AMC (Annual Maintenance Contract) packages: \n- Basic: ₹10,000, which includes general wire checks, ESC calibration, motor alignment, and cleaning services. \n- Premium: ₹20,000, which includes all Basic services plus GPS and antenna tightening, and landing gear replacement. \n- Elite: 10% of the drone's base cost, which includes Premium services plus advanced repairs such as transmitter issues, water tube replacements, and other repairs."
+},
+{
+  "prompt": "What is included in the Basic AMC for Kisan Drone?",
+  "completion": "The Basic AMC for Kisan Drone costs ₹10,000 and includes services such as general wire checks, ESC calibration, motor alignment, and cleaning services."
+},
+{
+  "prompt": "What is included in the Premium AMC for Kisan Drone?",
+  "completion": "The Premium AMC for Kisan Drone costs ₹20,000 and includes all the services in the Basic package along with GPS and antenna tightening, and landing gear replacement."
+},
+{
+  "prompt": "What is included in the Elite AMC for Kisan Drone?",
+  "completion": "The Elite AMC for Kisan Drone costs 10% of the drone's base cost. It includes all Premium services along with advanced repairs, including transmitter issues, water tube replacements, and other advanced repairs."
+},
+{
+  "prompt": "Can I get AMC for other drones?",
+  "completion": "Yes, similar AMC packages are available for other drone models as well, such as Agri Drones. These packages include a range of services tailored to ensure the optimal performance of the drones throughout their usage."
+},
+{
+  "prompt": "What is the maintenance cost for Agri Drones?",
+  "completion": "The maintenance cost for Agri Drones typically includes the same AMC packages as the Kisan Drone, with options like Basic, Premium, and Elite, each offering varying levels of maintenance services, starting from ₹10,000 for Basic services."
+},
+{
+  "prompt": "What services are included in the Elite AMC for Agri Drones?",
+  "completion": "The Elite AMC for Agri Drones includes all Premium services plus advanced repairs like transmitter issues, water tube replacements, and other complex repairs, typically charged at 10% of the drone's base cost."
+},
+{
+  "prompt": "Can I get AMC for Kisan Drone if it's still under warranty?",
+  "completion": "Yes, you can opt for AMC for Kisan Drone even if it's still under warranty. The AMC services are designed to ensure your drone's performance and upkeep, with options to customize the package according to your needs."
+},
+{
+  "prompt": "What maintenance services are available for Agri Drones?",
+  "completion": "For Agri Drones, maintenance services include wire checks, ESC calibration, motor alignment, cleaning, GPS and antenna tightening, landing gear replacement, and advanced repairs like water tube replacements and transmitter fixes."
+},
+{
+  "prompt": "Is there any warranty with Kisan Drone?",
+  "completion": "Yes, Kisan Drone comes with a warranty that covers defects in materials or workmanship. For further protection and maintenance, you can choose one of the available AMC packages (Basic, Premium, or Elite)."
+},
+
+  {
+      "prompt": "How much does the Droni Drone cost?",
+      "completion": "The Droni Drone is a high-performance, compact quadcopter designed for aerial photography and videography. For detailed pricing, please contact our sales team or click 'Enquire Now' for a personalized quote."
+  },
+  {
+      "prompt": "What are the features of the Droni Drone?",
+      "completion": "The Droni Drone is known for its high portability, 1080p camera with 25fps video, and powerful performance. It has a flying speed of 12 m/s, an endurance of 28 minutes, and a range of 2-5 km. It is perfect for long-range video transmission, mapping, remote delivery, and event coverage."
+  },
+  {
+      "prompt": "How much does the Kisan Drone cost?",
+      "completion": "The Kisan Drone comes in two variants: the 8L model and the 16L model. For pricing, please reach out to our sales team or click 'Enquire Now' for more details."
+  },
+  {
+      "prompt": "What are the uses of the Kisan Drone?",
+      "completion": "The Kisan Drone is designed for agricultural purposes, including crop spraying, irrigation, monitoring, and mapping. It also provides solutions for pest control and field assessment, making it a versatile tool for farmers."
+  },
+  {
+      "prompt": "What are the features of the Kisan Drone?",
+      "completion": "The Kisan Drone features DGCA-approved technology, long-range transmission, and advanced monitoring capabilities. It is available in two sizes: 8L and 16L, and offers high endurance, efficiency, and reliability."
+  },
+  {
+      "prompt": "How much does an Agri Drone cost?",
+      "completion": "The Agri Drone’s pricing varies based on the model and features you choose. For detailed pricing, please contact our sales team or click 'Enquire Now' for a customized quote."
+  },
+  {
+      "prompt": "What are the uses of Agri Drones?",
+      "completion": "Agri Drones are mainly used for agricultural purposes like crop spraying, field monitoring, aerial mapping, and surveillance. They help in increasing efficiency, reducing costs, and improving overall crop management."
+  },
+  {
+      "prompt": "What are the features of Agri Drones?",
+      "completion": "Agri Drones offer various features such as long endurance, high-range transmission, precision spraying, GPS-guided navigation, and compatibility with advanced imaging systems for accurate data collection."
+  },
+  {
+      "prompt": "How much does the Droni Drone weigh?",
+      "completion": "The Droni Drone has a maximum take-off weight of 850g, making it compact and portable while delivering high-end performance for aerial photography and videography."
+  },
+  {
+      "prompt": "What is the camera quality of the Droni Drone?",
+      "completion": "The Droni Drone is equipped with a high-quality 1080p camera that can capture stunning visuals and record video at 25fps, perfect for professional photography and videography needs."
+  },
+  {
+      "prompt": "What is the range of the Droni Drone?",
+      "completion": "The Droni Drone has a range of 2-5 km, allowing for long-distance coverage, which is ideal for event coverage, aerial mapping, and remote delivery applications."
+  },
+  {
+      "prompt": "How long can the Droni Drone fly?",
+      "completion": "The Droni Drone offers an impressive endurance of up to 28 minutes on a single charge, making it ideal for capturing long-duration footage or covering vast areas for aerial surveys."
+  },
+  {
+      "prompt": "What industries can benefit from Droni Drone?",
+      "completion": "The Droni Drone is ideal for industries like media, real estate, event coverage, and crowd clearance. It offers high-end performance for a wide range of professional uses, including long-range video transmission and aerial photography."
+  },
+  {
+      "prompt": "What is the payload capacity of the Droni Drone?",
+      "completion": "The Droni Drone can carry a 100g gimbal with a camera, as well as an airdrop system, providing versatility in its application for various industries."
+  },
+  {
+    "prompt": "How can drones empower the Indian Army?",
+    "completion": "Drones empower the Indian Army by providing advanced solutions for target acquisition, combat support, strike operations, logistics, ammunition delivery, surveying, and security. These capabilities enhance operational efficiency, reduce personnel risk, and provide real-time intelligence for superior decision-making."
+},
+{
+    "prompt": "What is target acquisition and tracking in military drones?",
+    "completion": "Military drones are equipped with laser designators and advanced sensors to locate and track enemy targets. This allows for precision-guided strikes, improving the accuracy and effectiveness of military operations while minimizing the risk to personnel."
+},
+{
+    "prompt": "How do drones provide combat support?",
+    "completion": "Drones provide combat support through electronic warfare, signal intelligence, and communication relay services. They enhance situational awareness and improve communication capabilities during combat operations, contributing to strategic advantages."
+},
+{
+    "prompt": "What are strike operations with military drones?",
+    "completion": "Armed military drones execute precision strikes using targeted weaponry. This reduces the risk to personnel by allowing drones to carry out strikes in high-risk zones or enemy territory, ensuring maximum effectiveness with minimal exposure."
+},
+{
+    "prompt": "How do drones assist in logistics and supply in military operations?",
+    "completion": "Drones can efficiently transport supplies and equipment, reducing the risks associated with ground transport. This capability is particularly useful for delivering critical supplies to remote or hostile areas, ensuring operational readiness without compromising personnel safety."
+},
+{
+    "prompt": "How can drones be used for ammunition drop and payload delivery?",
+    "completion": "Drones can be adapted to carry and drop ammunition in border areas or high-risk zones, minimizing personnel exposure during critical missions. This innovation is particularly beneficial in military operations where supply drops are needed without risking human lives."
+},
+{
+    "prompt": "What is the role of drones in surveying and mapping for military applications?",
+    "completion": "Drones equipped with advanced technologies like LiDAR and photogrammetry enable precise surveying and 2D/3D mapping. This provides crucial terrain and battlefield mapping for military planning and operational success."
+},
+{
+    "prompt": "How do drones assist in inspection and monitoring for the military?",
+    "completion": "Military drones are used to remotely monitor critical infrastructure, such as military bases, communication towers, and powerlines. They help detect vulnerabilities and maintain operational readiness, as well as perform tasks like leak detection in oil and gas pipelines."
+},
+{
+    "prompt": "What are the safety and security solutions provided by drones?",
+    "completion": "Drones equipped with AI-integrated surveillance, autonomous patrols, and crowd monitoring systems enhance security in military zones and border areas. They provide constant vigilance, early detection of threats, and support law enforcement for national security."
+},
+{
+    "prompt": "What specialized solutions do drones offer for military use?",
+    "completion": "Specialized drone solutions include thermal imaging for monitoring, search and rescue operations, riot management, and sanitization tasks. These drones address unique defense needs, enhancing the safety and effectiveness of military operations."
+},
+{
+    "prompt": "How do drones support surveillance and reconnaissance operations?",
+    "completion": "Drones enhance border security and military operations by providing real-time situational awareness through high-resolution cameras and advanced sensors. This allows for live imagery, actionable data, and superior decision-making capabilities."
+},
+{
+    "prompt": "How do drones assist in search and rescue operations?",
+    "completion": "Drones are deployed in disaster response and life-saving missions, covering vast areas quickly to locate missing persons and deliver critical supplies. Their precision and speed make them invaluable for efficient and timely rescue operations."
+},
+{
+    "prompt": "How do drones assist in infrastructure inspection and maintenance?",
+    "completion": "Drones safeguard critical defense infrastructure, such as military bases and communication towers, by proactively identifying vulnerabilities and ensuring operational readiness through regular inspections and maintenance."
+},
+{
+    "prompt": "How do drones help with intelligence gathering in military operations?",
+    "completion": "Drones gather crucial intelligence by accessing remote and challenging terrains. They enhance threat assessment, support strategic planning, and enable timely decision-making for mission success."
+},
+{
+    "prompt": "How do drones contribute to border patrol and security?",
+    "completion": "Drones enhance border defense by providing advanced monitoring and patrolling capabilities for extensive and complex terrains. They detect unauthorized activities, ensure constant vigilance, and support law enforcement to protect national security."
+},
+{
+    "prompt": "What is drone-powered pathway clearance?",
+    "completion": "Drone-powered pathway clearance involves using drones to identify and clear potential landmines or obstacles, ensuring safe passage for troops and supply convoys in high-risk zones, thus minimizing the risks to personnel."
+},
+{
+    "prompt": "What operations do Garuda drones perform for the Indian Army?",
+    "completion": "Garuda drones perform a variety of operations for the Indian Army, including target tracking, combat support, logistics and supply transport, surveying, inspection, border patrol, and specialized functions like search and rescue, and drone-powered pathway clearance."
+},
+{
+  "prompt": "What schemes are available under Garuda Aerospace for farming?",
+  "completion": "Garuda Aerospace offers various schemes to support farmers, including financial assistance through AIF loan facilities, SMAM subsidy for individuals, and enhanced subsidies for SC/ST/Women farmers. Additionally, Garuda provides comprehensive services like drone-based crop monitoring, spraying, and soil analysis to optimize farming efficiency."
+},
+{
+  "prompt": "What is the AIF Loan Facility for farmers?",
+  "completion": "The AIF Loan Facility under Garuda Aerospace offers farmers loans of up to ₹2 crores per unit with a 3% interest subsidy for 7 years. This facility is collateral-free under the CGTMSE scheme, making it easier for farmers to invest in agricultural drones and improve farming productivity."
+},
+{
+  "prompt": "What is the SMAM Subsidy for farmers?",
+  "completion": "The SMAM Subsidy under Garuda Aerospace provides financial support to individual farmers with a 40-50% subsidy on drone purchases (up to ₹4 lakhs). There is an enhanced subsidy of up to 50% for SC/ST/Women farmers and agriculture graduates, making it more accessible for these groups to adopt drone technology."
+},
+{
+  "prompt": "Is there a subsidy for agriculture graduates for drone purchases?",
+  "completion": "Yes, agriculture graduates are eligible for a 50% subsidy under the SMAM scheme for drone purchases. This encourages the adoption of cutting-edge technology in farming, helping to bridge the gap between education and practical implementation."
+},
+{
+  "prompt": "What is the Basic AMC Package under Garuda for farming drones?",
+  "completion": "The Basic AMC (Annual Maintenance Contract) Package under Garuda Aerospace includes general wire checks, ESC calibration, motor alignment, and cleaning services for ₹10,000. This package ensures that your drone is maintained in good condition for reliable farming operations."
+},
+{
+  "prompt": "What is the Premium AMC Package under Garuda for farming drones?",
+  "completion": "The Premium AMC Package under Garuda Aerospace includes all Basic services, along with GPS and antenna tightening, and landing gear replacement for ₹20,000. It ensures that the drone remains in top condition, minimizing downtime and maximizing farming productivity."
+},
+{
+  "prompt": "What is the Elite AMC Package under Garuda for farming drones?",
+  "completion": "The Elite AMC Package includes all Premium services plus advanced repairs such as transmitter issues and water tube replacements. It covers 10% of the drone's base cost for comprehensive care, ensuring the longevity and efficiency of your drone."
+},
+{
+  "prompt": "How can Garuda drones help with crop spraying?",
+  "completion": "Garuda drones equipped with precision spraying technology can efficiently spray fertilizers, pesticides, and herbicides over large crop fields, ensuring even distribution and minimizing waste. This helps increase crop yields while reducing labor and environmental impact."
+},
+{
+  "prompt": "What kind of financial support does Garuda offer for drone adoption in farming?",
+  "completion": "Garuda offers financial support through AIF Loan Facilities for up to ₹2 crores per unit and provides subsidies through the SMAM scheme to individual farmers and agricultural graduates, making it easier for farmers to invest in drones for crop management, monitoring, and spraying."
+},
+{
+  "prompt": "How does Garuda support farmers with drone technology?",
+  "completion": "Garuda Aerospace supports farmers by offering innovative drone solutions for crop monitoring, spraying, and soil analysis. With financial assistance like loan facilities and subsidies, farmers can adopt cutting-edge technology to enhance crop yields and optimize farming practices."
+},
+{
+  "prompt": "What are the benefits of partnering with Garuda Aerospace?",
+  "completion": "Partnering with Garuda Aerospace gives you access to cutting-edge drone technology, including solutions for agriculture, defense, and logistics. With over 3000 drones and 45+ patents, you will benefit from competitive pricing, full support, government subsidies, and tailored marketing resources. Plus, Garuda's rapid growth in the drone industry offers high potential for business success."
+},
+{
+  "prompt": "How can I become a dealer for Garuda drones?",
+  "completion": "As a dealer for Garuda Aerospace, you can leverage our trusted brand to take drones into your local market. Enjoy competitive pricing, full sales and marketing support, and the opportunity to offer drones across agriculture, defense, and logistics sectors. Additionally, you can tap into 40-50% government subsidies to increase your product's appeal."
+},
+{
+  "prompt": "What are the advantages of being a distributor for Garuda Aerospace?",
+  "completion": "As a distributor for Garuda Aerospace, you'll have access to bulk pricing, exclusive rights to distribute Garuda drones in your region, and streamlined logistics and warehousing support. You can also offer training and leasing services, creating a recurring revenue stream while being part of Garuda's growing network."
+},
+{
+  "prompt": "What does partnering with Garuda as a franchisee offer?",
+  "completion": "Becoming a Garuda franchisee allows you to launch a full-service drone hub with exclusive territorial rights and no local competition. You'll receive comprehensive training and ongoing guidance, along with a diverse revenue stream from sales, training, leasing, and maintenance services in sectors like security, urban planning, and emergency response."
+},
+{
+  "prompt": "What industries can I tap into as a Garuda franchisee?",
+  "completion": "As a Garuda franchisee, you can tap into diverse industries including agriculture, defense, security, urban planning, and emergency response. With exclusive rights and support from Garuda, you will have the opportunity to lead in your selected market with cutting-edge drone technology."
+},
+{
+  "prompt": "What is the growth potential for Garuda partners?",
+  "completion": "The drone industry is growing rapidly, with a projected CAGR of 25%+ in India. By partnering with Garuda Aerospace, you will be part of this high-growth sector, tapping into opportunities across agriculture, logistics, defense, and urban applications. Garuda’s market-leading technology and support will help you capture a share of this expanding market."
+},
+{
+  "prompt": "What are the benefits of being a Garuda distributor in terms of revenue?",
+  "completion": "Garuda distributors benefit from high revenue potential through bulk pricing and exclusive regional distribution rights. You can also increase earnings by offering training and leasing services, creating a recurring revenue stream while capitalizing on the expanding drone market."
+},
+{
+  "prompt": "What support will I receive as a Garuda partner?",
+  "completion": "Garuda provides comprehensive support, including expert sales training, tailored marketing resources, logistics, and warehousing assistance. As a partner, you will also have ongoing operational support to help you run and grow your business, ensuring you succeed in the competitive drone market."
+},
+{
+  "prompt": "Who is eligible to partner with Garuda Aerospace?",
+  "completion": "Garuda partners with dealers, distributors, and franchisees. Dealers should have established businesses in tech or related sectors, with a focus on retail. Distributors need experience in logistics and warehousing, with a strong regional presence. Franchisees should be entrepreneurs with a background in technology or aviation, ready to invest in a long-term partnership."
+},
+{
+  "prompt": "What is the ROI potential for a Garuda franchisee?",
+  "completion": "Garuda franchisees can expect a high ROI, with potential earnings of up to 20%. With exclusive territorial rights, you will benefit from no local competition, making it easier to dominate your market and enjoy significant profitability in the high-growth drone industry."
+},
+{
+  "prompt": "How does Garuda Aerospace ensure franchise success?",
+  "completion": "Garuda Aerospace ensures franchise success through comprehensive training, marketing support, and exclusive rights in a selected area. Franchisees receive ongoing guidance, access to high-tech drone solutions, and multiple revenue streams, including sales, training, leasing, and maintenance services."
+},
+
+  {
+      "prompt": "What are the different types of drones at Garuda?",
+      "completion": "Garuda Aerospace offers a range of drones, including the Kisan Drone 8L & Kisan Drone 16L, and the Droni drone. These drones cater to different needs such as agriculture, logistics, and surveillance, each designed with advanced features for specific applications."
+  },
+  {
+      "prompt": "What services does Garuda Aerospace provide?",
+      "completion": "Garuda Aerospace provides the following services:\n\n1. Surveying and Mapping: Advanced photogrammetry, 2D & 3D design modeling, LiDAR survey & analysis, orthomosaic & contour lines, volumetric & stockpile monitoring, DSM/DTM/DEM generation, large-scale mapping, and bathymetric surveys.\n\n2. Inspection and Monitoring: Project monitoring, oil & gas pipeline leak detection, structural damage assessment, chimney and boiler inspection, mining site inspection, crop health monitoring, and more.\n\n3. Industry and Logistics: Warehouse & inventory management, logistics drone delivery.\n\n4. Environmental Monitoring: Environmental impact assessment, aerial monitoring, pollution monitoring, wildlife surveys.\n\n5. Safety and Security: Firefighting drones, AI-integrated surveillance, facial recognition, crowd monitoring, riot management.\n\n6. Specialized Solutions: Thermography drones, sanitization, autonomous surveillance, emergency drones, seed spraying & afforestation."
+  },
+  {
+      "prompt": "What is the full form of DRONE?",
+      "completion": "The full form of DRONE is Dynamic Remotely Operated Navigation Equipment."
+  },
+  {
+      "prompt": "What is RTL?",
+      "completion": "RTL stands for Return to Launch, a feature that allows the drone to automatically return to its take-off point if it loses connection or the battery runs low."
+  },
+  {
+      "prompt": "Define Endurance.",
+      "completion": "Endurance refers to the maximum time a drone can stay in flight and provide stable operation with one set of batteries."
+  },
+  {
+      "prompt": "What is the full form of UGV?",
+      "completion": "UGV stands for Unmanned Ground Vehicle."
+  },
+  {
+      "prompt": "What is a payload?",
+      "completion": "Payload is the weight a drone can carry, including any additional components like cameras, sensors, or packages, but excluding the drone's multirotor structure."
+  },
+  {
+      "prompt": "What is a flight log?",
+      "completion": "A flight log records all commands given to the drone, including details such as coordinates, altitude, speed, battery voltage, and other flight metrics."
+  },
+  {
+      "prompt": "What is Autopilot?",
+      "completion": "Autopilot is a feature that enables the drone to fly automatically, reducing the need for manual control by the operator."
+  },
+  {
+      "prompt": "What is the full form of GCS?",
+      "completion": "GCS stands for Ground Control Station, which is used for controlling and monitoring drone operations."
+  },
+  {
+      "prompt": "What Software does Garuda use?",
+      "completion": "Garuda uses Aero GCS as its software platform for controlling and managing drone operations."
+  },
+  {
+      "prompt": "What is Firmware?",
+      "completion": "Firmware is a class of computer software that provides low-level control for a device’s hardware, often stored in the device's memory."
+  },
+  {
+      "prompt": "What height should a drone fly for proper accurate mapping?",
+      "completion": "The height at which a drone should fly for accurate mapping depends on the camera quality. Typically, a higher resolution camera allows for more precise mapping at higher altitudes."
+  },
+  {
+      "prompt": "What is a base station?",
+      "completion": "A base station is a central connection point for wireless devices, connecting them to other networks or devices through high bandwidth wireless or fiber optic connections."
+  },
+  {
+      "prompt": "What is a propeller?",
+      "completion": "A propeller is a component in a drone that converts rotary motion into linear thrust, enabling the drone to lift and fly."
+  },
+  {
+      "prompt": "What is a Drone Motor?",
+      "completion": "A drone motor is a BLDC (Brushless DC) motor used to generate rotary motion, which when combined with a propeller, creates the necessary thrust for flight."
+  },
+  {
+      "prompt": "What is the life of a drone?",
+      "completion": "The typical life of a drone is around 800 flight hours, depending on usage and maintenance."
+  },
+  {
+      "prompt": "What is ESC?",
+      "completion": "ESC stands for Electronic Speed Controller, which regulates the speed of the drone's motors."
+  },
+  {
+      "prompt": "Name the Garuda drone used for NDT operations, and mention its sensors.",
+      "completion": "The Garuda drone used for NDT (Non-Destructive Testing) operations is equipped with thermal, ultrasonic, and LiDAR sensors for detailed inspections."
+  },
+  {
+      "prompt": "How many components are there in an Agri drone?",
+      "completion": "An Agri drone typically has 59 components, each playing a specific role in its function and performance."
+  },
+  {
+      "prompt": "What Autopilot does Garuda use?",
+      "completion": "Garuda uses Pixhawk Orange Cube as the autopilot system in its drones."
+  },
+  {
+      "prompt": "What minimum resolution of RGB camera can be fit on Garuda Drones generally?",
+      "completion": "Garuda drones generally support a minimum resolution of 1080p for the RGB camera."
+  },
+  {
+      "prompt": "What motors do we use at Garuda?",
+      "completion": "Garuda uses Hobby Wing X6 motors for its drone models."
+  },
+  {
+      "prompt": "What are the processor and controller technologies used in Garuda's Kisan drone?",
+      "completion": "Garuda's Kisan drone uses the Pixhawk cube (orange) as its controller technology."
+  },
+  {
+      "prompt": "What mAh battery does Garuda use for the 8L drone?",
+      "completion": "The Garuda 8L drone is equipped with a 16,000 mAh battery."
+  },
+  {
+      "prompt": "What is the wingspan of an Agri drone?",
+      "completion": "The wingspan of an Agri drone is 1988 mm."
+  },
+  {
+      "prompt": "Which drone in Garuda has the maximum payload capacity?",
+      "completion": "The drone with the maximum payload capacity in Garuda’s lineup is the Stringing drone, with a 15kg payload. The Agri drones, 8L and 16L, also have substantial payload capacities."
+  },
+  {
+      "prompt": "Does Garuda have UIN?",
+      "completion": "Yes, Garuda Aerospace holds UIN (Unmanned Aircraft System Identification Number) for its drones."
+  },
+  {
+    "prompt": "Is a thermal drone related to night vision?",
+    "completion": "Yes, a thermal drone is related to night vision as it uses thermal imaging technology to detect heat signatures, allowing for visibility in low-light conditions, which is ideal for night operations and surveillance."
+},
+{
+    "prompt": "What is the SOP for drone regulation laid down by the Government of India?",
+    "completion": "The SOP for drone regulation in India includes provisions for flying permissions, area distance restrictions, weight classification, restrictions for flying over overcrowded areas, drone registration, safety insurance, piloting certifications, operational plans, air flight zones, weather conditions, and emergency handling protocols."
+},
+{
+    "prompt": "What is the SOP for drone regulation for pesticide application?",
+    "completion": "The SOP for pesticide application via drones covers flying permissions, weight classifications, safety insurance, piloting certifications, operational plans, air flight zones, weather conditions, and emergency handling plans to ensure safe and effective usage in agricultural applications."
+},
+{
+    "prompt": "Does the Government of India allow the use of drones for agriculture?",
+    "completion": "Yes, the Government of India encourages the use of drones for agricultural purposes, such as pesticide spraying, with support from the Ministry of Agriculture and Farmers Welfare."
+},
+{
+    "prompt": "What is the potential for the Agri drone market?",
+    "completion": "The Agri drone market is expected to see significant growth, with farms projected to account for 80% of the commercial drone market as drones revolutionize agricultural practices."
+},
+{
+    "prompt": "What are the expectations for this market to grow in the coming years?",
+    "completion": "The Agri drone market is expected to grow rapidly due to the wide range of applications, including precision agriculture, crop monitoring, and efficient pesticide and fertilizer application, leading to improved yield and sustainability."
+},
+{
+    "prompt": "How can pilots check the zone status?",
+    "completion": "Pilots can check the zone status for drone operations by visiting the interactive map available on the DigiSky platform."
+},
+{
+    "prompt": "Who is Garuda's Brand Ambassador?",
+    "completion": "Garuda's Brand Ambassador is Mahendra Singh Dhoni, the former captain of the Indian cricket team."
+},
+{
+    "prompt": "Name the drone used for surveillance recently launched by Dhoni.",
+    "completion": "The drone used for surveillance and recently launched by Mahendra Singh Dhoni is the Droni drone."
+},
+{
+    "prompt": "Name the Billionaire who liked Garuda's tweet?",
+    "completion": "Billionaire Elon Musk liked Garuda's tweet."
+},
+{
+    "prompt": "Which drone service impressed the billionaire?",
+    "completion": "Elon Musk was impressed by Garuda's solar panel cleaning service, which utilizes drones for efficient cleaning."
+},
+{
+    "prompt": "What is the name of the Drone which world's top billionaire liked?",
+    "completion": "The drone that caught the attention of the world’s top billionaire, Elon Musk, is the Surya Drone."
+},
+{
+    "prompt": "When was RPTO launched at Garuda, and name the Union Minister who launched it.",
+    "completion": "RPTO (Remote Pilot Training Organization) was launched at Garuda on December 6th, 2022, by Union Minister Mr. Anurag Singh Thakur."
+},
+{
+    "prompt": "What is Garuda 4.0?",
+    "completion": "Garuda 4.0 is an initiative aimed at increasing revenue generation by each employee, targeting a fourfold increase in earnings compared to their current revenue contribution."
+},
+{
+    "prompt": "What is a Unicorn start-up?",
+    "completion": "A Unicorn start-up refers to a company that has achieved a valuation of $1 billion or more without being listed on the stock market."
+},
+{
+    "prompt": "What is the full form of COE?",
+    "completion": "COE stands for Centre of Excellence."
+},
+{
+    "prompt": "What is the full form of AMC?",
+    "completion": "AMC stands for Annual Maintenance Contract."
+},
+{
+    "prompt": "What date did the brand ambassador of Garuda announce his partnership on Facebook?",
+    "completion": "Garuda’s brand ambassador, Mahendra Singh Dhoni, announced his partnership with Garuda on Facebook on June 6, 2022."
+},
+{
+    "prompt": "How many employees does Garuda have in Chennai?",
+    "completion": "Garuda has over 200 employees in its Chennai office."
+},
+{
+    "prompt": "What are the 5 avenues for revenues of Garuda?",
+    "completion": "The five revenue avenues for Garuda are Training, Agri, Industry, Tender, and Defence sectors."
+},
+{
+    "prompt": "What are the expectations of Garuda 4.0?",
+    "completion": "The expectations for Garuda 4.0 include achieving four times the current business revenue per employee."
+},
+{
+    "prompt": "What is the sales target of the Kisan drone for the year 2025?",
+    "completion": "Garuda aims to sell 1 lakh units of the Kisan drone by the year 2025."
+},
+{
+    "prompt": "What is DSTC?",
+    "completion": "DSTC stands for Drone Skilling and Training Conference, a program to train individuals in drone piloting and operations."
+},
+{
+    "prompt": "What is Drone Yathra?",
+    "completion": "Drone Yathra is an initiative where Garuda's skilled pilots visit various locations to educate and demonstrate the benefits and efficiency of drones for agricultural applications."
+},
+{
+    "prompt": "What is Drone Yathra 2.0?",
+    "completion": "Drone Yathra 2.0 extends the Drone Yathra initiative to both agricultural and industrial/defence purposes, showcasing drone capabilities in various sectors."
+},
+{
+    "prompt": "What is Operation 777 (Ops777)?",
+    "completion": "Operation 777 is a nationwide effort where Garuda pilots will visit 777 districts across India to conduct DSTC and promote drone usage in various industries."
+},
+{
+    "prompt": "How many teams will be sent to cover all districts across India?",
+    "completion": "A total of 30 teams will be dispatched to cover all the districts across India under Operation 777."
+},
+{
+    "prompt": "How many sessions are there in DSTC?",
+    "completion": "There are four sessions in the Drone Skilling and Training Conference (DSTC)."
+},
+{
+    "prompt": "What is the goal of Ops 777, DSTC, DRONE YATHRA 2.0, and Placement drive?",
+    "completion": "The goal of Ops 777, DSTC, Drone Yathra 2.0, and the Placement drive is to create a robust Drone Ecosystem across India."
+},
+{
+    "prompt": "Do Garuda Drones comply with government regulations?",
+    "completion": "Yes, Garuda Aerospace’s drones are fully compliant with all government regulations and guidelines for drone operations."
+},
+{
+    "prompt": "Is licensing needed to fly a sprayer drone?",
+    "completion": "Yes, a license is required to fly a sprayer drone in India, ensuring compliance with aviation and agricultural safety standards."
+},
+{
+    "prompt": "Where can we get a license for an Agri drone, and is your organization approved by DGCA to provide RPTO Certificate?",
+    "completion": "Garuda Aerospace is an authorized RPTO (Remote Pilot Training Organization) by DGCA, and farmers can attend Garuda’s training programs to obtain their RPTO certificate."
+},
+{
+    "prompt": "Is your drone DGCA Approved?",
+    "completion": "Yes, Garuda's drones are approved by the Directorate General of Civil Aviation (DGCA) for safe operations in India."
+},
+{
+    "prompt": "Is there a subsidy available for agriculture drones?",
+    "completion": "Yes, subsidies are available for agricultural drones through government schemes aimed at promoting precision farming."
+},
+{
+  "prompt": "What is Garuda Aerospace's DGCA-Certified Drone Pilot Training?",
+  "completion": "Garuda Aerospace offers DGCA-certified training programs for aspiring drone pilots, providing a blend of theoretical education and practical flying experience to ensure proficiency in drone operations."
+},
+{
+  "prompt": "What is covered in the Ground Class syllabus?",
+  "completion": "The Ground Class covers: I. Air Law II. Basic Principles of Flight III. ATC Procedures & Radio Telephony IV. Fixed-wing, Rotorcraft, and Hybrid Operations and Aerodynamics V. Weather and Meteorology VI. Drone Equipment Maintenance VII. Risk Assessment & Analysis VIII. Payload Installation and Utilization IX. Introduction to Drone Data & Analysis"
+},
+{
+  "prompt": "What is included in the Flying Class syllabus?",
+  "completion": "The Flying Class includes: I. Flight Simulator Training II. Basic Assembly & Maintenance III. Dynamic Payload Ground Handling IV. Practical Flying with Instructor/ Solo Flying"
+},
+{
+  "prompt": "What certification do I receive upon completion of the course?",
+  "completion": "Upon successful completion and passing the assessments, candidates receive a DGCA approved Remote Pilot Certificate."
+},
+{
+  "prompt": "Are the courses compliant with DGCA regulations?",
+  "completion": "Yes, all courses are designed in accordance with Rule 39 of the Drone Rules 2021 and other relevant DGCA guidelines."
+},
+{
+  "prompt": "Where are the training sessions held?",
+  "completion": "Training sessions are held at our state-of-the-art facilities and various Centers of Excellence (COEs) located across India."
+},
+{
+  "prompt": "What is the minimum score required to pass the assessments?",
+  "completion": "Candidates must score at least 70/100 in all assessments to qualify for certification."
+},
+{
+  "prompt": "Who are the instructors for these courses?",
+  "completion": "The courses are conducted by experienced professionals and certified drone pilot instructors with extensive knowledge in drone technology and operations."
+},
+{
+  "prompt": "Are there any exemptions for candidates with prior certification?",
+  "completion": "Yes, trainees holding a Category-1 Remote Pilot License (RePL) are exempt from attending the ground class for Course-B and Course-D but must still pass the theory examination."
+},
+{
+  "prompt": "Can I enroll in a course if I don’t have any prior drone flying experience?",
+  "completion": "Yes, our courses are designed to cater to both beginners and experienced drone pilots. Each course provides comprehensive training from basic to advanced levels."
+},
+{
+  "prompt": "What are the key benefits of these training courses?",
+  "completion": "Key benefits include: I. DGCA Certification II. Expert Instructors III. Comprehensive Curriculum IV. State-of-the-Art Facilities"
+},
+{
+  "prompt": "How can I enroll in a training course?",
+  "completion": "Interested candidates can enroll by visiting our website or contacting our training centers directly."
+},
+{
+  "prompt": "What are the fees for the training courses?",
+  "completion": "For detailed information on fees, please visit our website or contact our admissions office."
+},
+{
+  "prompt": "Is there any financial aid or scholarship available for the courses?",
+  "completion": "For information regarding financial aid or scholarships, please get in touch with our admissions office."
+},
+{
+  "prompt": "Garuda provides guidance from the operations and pilot team to help set up the business.",
+  "completion": "Garuda has tied up with banks and financial institutions for loans, but aspirants must approach the bank. Garuda's role is to recommend; approval depends on the bank manager and the applicant's financial record."
+},
+{
+  "prompt": "Can dealers get cashback directly from Garuda for bulk purchases without a subsidy?",
+  "completion": "Dealer discounts are available for bulk purchases."
+},
+{
+  "prompt": "Are drone services free or chargeable if repairs are needed?",
+  "completion": "Services covered under AMC are free; others not covered are payable."
+},
+{
+  "prompt": "Does Garuda help generate business?",
+  "completion": "Yes, Garuda helps generate business for franchisees. Franchisees can engage in other local businesses, but priority is given to Garuda work."
+},
+{
+  "prompt": "Does Garuda Aerospace provide technical support when required?",
+  "completion": "Yes, Garuda Aerospace technical team is available 24*7 via a helpline."
+},
+{
+  "prompt": "Is there a discounted price for a package deal for the entire crop period?",
+  "completion": "Discuss with our marketing team; decisions are made case-by-case."
+},
+{
+  "prompt": "How many social media platforms are there for Garuda which you have been instructed to like, share, and comment on?",
+  "completion": "5 (Instagram, Twitter/ X, Facebook, YouTube, and LinkedIn)."
+},
+{
+  "prompt": "What is Culture Vulture?",
+  "completion": "Culture vulture is Garuda Culture."
+},
+{
+  "prompt": "What is the goal of Ops 777, DSTC, DRONE YATHRA 2.0, and Placement drive?",
+  "completion": "To create a Drone Ecosystem in India."
+},
+{
+  "prompt": "How many villages did Garuda cover under the Swamitva scheme for Survey of India UP?",
+  "completion": "7000."
+},
+{
+  "prompt": "How does Garuda help in setting up this business?",
+  "completion": "Garuda provides guidance from the operations and pilot team."
+},
+{
+  "prompt": "Do I get any financial assistance?",
+  "completion": "Garuda has tied up with banks and financial institutions for loans, though the aspirant has to approach the bank."
+},
+{
+  "prompt": "Does Garuda help generate business for franchisees?",
+  "completion": "Yes, Garuda helps generate business for franchisees, who are also free to do other local business with priority given to Garuda work."
+},
+{
+  "prompt": "What are the benefits for pan-Indian dealers and resellers?",
+  "completion": "Dealers/distributors can do good business as the demand for agricultural machinery is consistent across the country."
+},
+{
+  "prompt": "Where are all Garuda drones assembled and manufactured?",
+  "completion": "In Garuda's Manufacturing Plant in Thalambur, Tamil Nadu."
+},
+{
+  "prompt": "What are the expectations for the Agri drone market to grow in the coming years?",
+  "completion": "It is expected that the use of drones will grow significantly in farming as they offer a wide range of applications to improve precision agriculture."
+},
+{
+  "prompt": "Is the Drone Pilot Training program approved?",
+  "completion": "Yes, Garuda has been approved by DGCA as a Remote Pilot Training Organization. On successful completion of the program and clearing the assessments as stipulated by DGCA, the trainee will be issued with a Remotely Piloted Aircraft (RPA) license."
+},
+{
+  "prompt": "How will the COE be benefited?",
+  "completion": "The model is designed to be an economically self-sustainable model."
+},
+{
+  "prompt": "How will the COE be supported by Garuda?",
+  "completion": "The faculty would be trained on piloting and on MRO for them to be successful in managing the COE operations for providing training and service & maintenance."
+},
+{
+  "prompt": "What is the qualification for Drone Piloting?",
+  "completion": "Age: 18 years & above and with Min. Class 10th pass or equivalent."
+},
+{
+  "prompt": "What is required to be a COE of Garuda Aerospace?",
+  "completion": "Higher Education Institutions can contact our Training Division expressing their interest. After due diligence, MOU shall be exchanged and signed. Lab Space and equipment list shall be shared with the HEI."
+},
+{
+  "prompt": "How do I know if an Institution is an approved Garuda Centre of Excellence?",
+  "completion": "Please always refer to our website www.garudaaerospace.com for the latest and accurate information."
+},
+{
+  "prompt": "What type of services can I avail from the Centre of Excellence?",
+  "completion": "I. Pilot Training II. Maintenance and Repairs III. Delivery of new Drones IV. Testing and Calibration of drones V. Spares"
+},
+{
+  "prompt": "What are the qualifications of the staff at the COE?",
+  "completion": "The staff at COE are well trained and certified by Garuda Aerospace. You can be assured that the best and quality services can be availed at our COEs."
+},
+{
+  "prompt": "How do I get trained to operate drones?",
+  "completion": "Garuda Aerospace offers drone pilot training for everyone who buys drones from Garuda Aerospace & wants to master the art of drone piloting. The training will teach you how to operate a drone in the most efficient, safe, and cost-effective manner possible. You'll also get a Govt. Approved certificate on completion of the course."
+},
+{
+  "prompt": "Should it necessarily be me for training or could it be anyone nominated by me as an employee?",
+  "completion": "It can either be the service franchise partners or anyone nominated by them as a service provider."
+},
+{
+  "prompt": "What was the founder's inspiration to build a drone company?",
+  "completion": "The eternal quest to fly like birds, evolving from airplanes and helicopters to unmanned aircraft capable of unique tasks. The desire to build an international drone business was the inspiration."
+},
+{
+  "prompt": "Can you explain the 6G model?",
+  "completion": "I. Drone Manufacturing II. Drone Services III. Tech, software, data analytics IV. Partnerships, JVs, and joint development of technologies V. G Link – 5G enabled drones to connect 1 billion people in rural India"
+},
+{
+  "prompt": "Can you explain the G-1 ecosystem?",
+  "completion": "The ecosystem of farming includes inputs (seeds, pesticides, insecticides), outputs (farm produce, post-harvest supply chain), and access to credits and insurance. Advanced drone versions offer solutions for data management, delivery, precision agriculture, farm management, quality management, and traceability. Garuda's digital data center in blockchain ensures efficient supply chain and access to credit and insurance through partnerships."
+},
+{
+  "prompt": "Is Garuda going to provide services to clients' doorsteps or have service centers?",
+  "completion": "The service model is being developed. Dealers in every taluk headquarters will have technicians for doorstep services. This infrastructure is being built."
+},
+{
+  "prompt": "What are the benefits for pan-Indian dealers and resellers?",
+  "completion": "India being an agricultural country, dealers/distributors can do good business due to the consistent demand for agricultural machinery, including spray machines and drones."
+},
+{
+  "prompt": "How do I become a service provider?",
+  "completion": "Interested franchisees can contact our marketing team, who will assist them in becoming our channel partner. Franchisees help farmers with better crop productivity and reduced costs, contributing to Indian agriculture development."
+},
+{
+  "prompt": "How does Garuda help in setting up this business?",
+  "completion": "Garuda provides guidance from the operations and pilot team to help set up the business."
+},
+{
+  "prompt": "What is the Garuda Agri Drone V.2?",
+  "completion": "The Garuda Agri Drone V.2, also known as Kisan Agri Drone, is an advanced unmanned aerial vehicle (UAV) designed specifically for agricultural applications. It is approved by the Directorate General of Civil Aviation (DGCA) and equipped with cutting edge sensors and cameras to enhance modern farming practices."
+},
+{
+  "prompt": "What are the key benefits of using the Garuda Agri Drone V.2?",
+  "completion": "The key benefits include precision farming, efficient data collection and analysis, early detection of crop issues, increased productivity, cost savings, enhanced safety, and environmental sustainability."
+},
+{
+  "prompt": "How does the Garuda Agri Drone V.2 help in precision farming?",
+  "completion": "The drone uses high-resolution imagery and sensors to provide detailed data on crop health, soil conditions, and more, enabling farmers to make informed decisions and optimize resource usage."
+},
+{
+  "prompt": "What types of data can the Garuda Agri Drone V.2 collect?",
+  "completion": "The drone collects high-resolution images and sensor data that help in crop monitoring, health assessment, irrigation management, and early detection of pests and diseases."
+},
+{
+  "prompt": "How does the Garuda Agri Drone V.2 improve productivity?",
+  "completion": "By covering large areas quickly and efficiently, the drone reduces the time and labor required for various farming tasks, thereby increasing overall productivity."
+},
+{
+  "prompt": "What is the flight time of the Garuda Agri Drone V.2?",
+  "completion": "The flight time of the Garuda Agri Drone V.2 is up to 19.30 minutes."
+},
+{
+  "prompt": "What is the operational altitude and flying radius of the Garuda Agri Drone V.2?",
+  "completion": "The operational altitude is 82.02ft, and the flying radius is up to 1500m."
+},
+{
+  "prompt": "What is the capacity of the spray tank and the spraying efficiency?",
+  "completion": "The spray tank has a capacity of 10 liters, and the spraying efficiency is 1500-2500 sq.m/min."
+},
+{
+  "prompt": "How much area can the Garuda Agri Drone V.2 cover in a day?",
+  "completion": "The drone can spray up to 6 acres per hour and up to 30-35 acres per day with multiple battery sets."
+},
+{
+  "prompt": "What safety features are included in the Garuda Agri Drone V.2?",
+  "completion": "Safety features include Return to Launch (RTL) for empty tank, battery drained, mission complete, and RC failsafe. It also includes terrain and obstacle detection for enhanced safety."
+},
+{
+  "prompt": "How does the smart battery fail-safe function work?",
+  "completion": "The smart battery fail-safe function ensures the drone returns home if the battery voltage drops below a safe level, preventing crashes due to power failure."
+},
+{
+  "prompt": "What kind of support network is available for the Garuda Agri Drone V.2?",
+  "completion": "We have a comprehensive sales and service network across India, providing extensive support to our customers."
+},
+{
+  "prompt": "What licenses and certifications are required to operate the Garuda Agri Drone V.2?",
+  "completion": "Operators need a Unique Identification Number (UIN), insurance, and a pilot license."
+},
+{
+  "prompt": "Is financial assistance available for purchasing the Garuda Agri Drone V.2?",
+  "completion": "Yes, financial assistance is available under the Agricultural Infrastructure Fund (AIF)."
+},
+{
+  "prompt": "What advanced features does the Garuda Agri Drone V.2 offer?",
+  "completion": "Advanced features include GPS for precision farming, thermal and multispectral imaging for crop health assessment, real-time data collection, and automated planting and spraying."
+},
+{
+  "prompt": "Can the Garuda Agri Drone V.2 resume a mission if interrupted?",
+  "completion": "Yes, the drone can resume a mission with high accuracy (15cm)."
+},
+{
+  "prompt": "Is live video streaming available on the ground control station (GCS)?",
+  "completion": "Yes, the drone provides live video streaming via a 2MP FPV camera."
+},
+{
+  "prompt": "How much water is required for spraying per acre?",
+  "completion": "The drone requires 10 liters of water per acre."
+},
+{
+  "prompt": "What are the applications of the Garuda Agri Drone V.2 in agriculture?",
+  "completion": "Applications include imaging and mapping, crop health assessment, precision agriculture, crop monitoring, irrigation management, planting and seeding, crop dusting and spraying, and livestock monitoring."
+},
+{
+  "prompt": "How does the Garuda Agri Drone V.2 contribute to environmental sustainability?",
+  "completion": "The drone minimizes chemical usage, optimizes water management, and supports sustainable farming practices, reducing the environmental impact of agriculture."
+},
+{
+  "prompt": "How does the Garuda Agri Drone V.2 enhance safety for farmers?",
+  "completion": "The d,rone includes advanced safety features like obstacle detection, smart battery fail-safe, and automated return to home functionality to ensure safe operations in the field."
+},
+{
+  "prompt": "What is the Droni Drone?",
+  "completion": "The Droni Drone is used for professional photography and videography, capturing high-resolution images and videos."
+},
+{
+  "prompt": "What is advanced photogrammetry, and how does it benefit customers?",
+  "completion": "Advanced photogrammetry involves using drones to capture high-resolution images and creating accurate 2D and 3D maps. It benefits customers by providing faster data collection, higher resolution imagery, and detailed mapping, which is essential for urban planning, construction site monitoring, and more."
+},
+{
+  "prompt": "How do drones assist in 2D & 3D design modeling?",
+  "completion": "Drones capture aerial data to create detailed 2D maps and 3D models, useful for architecture, real estate, and infrastructure development. This method is more comprehensive and precise than traditional manual measurements."
+},
+{
+  "prompt": "What is LiDAR survey & analysis used for?",
+  "completion": "LiDAR uses laser pulses to create high-resolution 3D maps. It is essential for forestry, topographic mapping, flood risk assessment, and infrastructure inspection, providing faster and more detailed data compared to ground-based LiDAR."
+},
+{
+  "prompt": "What are orthomosaic maps and contour lines?",
+  "completion": "Orthomosaic maps are geometrically corrected images, and contour lines represent terrain elevation. These tools are used in agriculture, land development, and environmental monitoring to provide quick and accurate topographical data."
+},
+{
+  "prompt": "How do drones perform volumetric & stockpile monitoring?",
+  "completion": "Drones measure stockpiles by capturing aerial data and creating 3D models. This method is faster and more accurate than manual measurements, making it ideal for mining, construction, and inventory control."
+},
+{
+  "prompt": "What is DSM/DTM/DEM generation?",
+  "completion": "These are different types of digital elevation models created by drones. They are used for urban planning, flood risk analysis, and infrastructure development, providing comprehensive elevation data quickly."
+},
+{
+  "prompt": "What is large scale mapping?",
+  "completion": "Drones map large areas in 2D and 3D, providing detailed representations of terrain and structures, useful for agriculture, environmental monitoring, and disaster management."
+},
+{
+  "prompt": "What is a bathymetric survey?",
+  "completion": "Bathymetric surveys measure the depth and map underwater topography. Drones equipped with sonar or LiDAR provide faster and more comprehensive data collection than traditional methods, benefiting hydrographic mapping, navigation safety, and resource exploration."
+},
+{
+  "prompt": "How do drones assist in project inspection and monitoring?",
+  "completion": "Drones provide real-time monitoring of construction projects, ensuring safety compliance and progress tracking more efficiently than manual inspections."
+},
+{
+  "prompt": "How do drones detect oil & gas pipeline leaks?",
+  "completion": "Drones equipped with thermal and gas detection sensors monitor pipelines for leaks and structural integrity, providing faster and more accurate detection than ground patrols."
+},
+{
+  "prompt": "What is structural damage assessment with drones?",
+  "completion": "Drones inspect structures for damage, capturing high-resolution images and thermal data, offering comprehensive assessments quickly and safely."
+},
+{
+  "prompt": "How are drones used for chimney inspection?",
+  "completion": "Drones inspect industrial chimneys for structural integrity, providing quicker and safer inspections without the need for costly scaffolding."
+},
+{
+  "prompt": "What is internal boiler inspection?",
+  "completion": "Drones navigate and inspect internal structures of boilers, capturing detailed visual and thermal data without requiring dangerous manual access."
+},
+{
+  "prompt": "How do drones help in mining site inspection?",
+  "completion": "Drones inspect mining sites for safety and operational efficiency, providing faster and safer inspections than traditional methods."
+},
+{
+  "prompt": "What is wind turbine inspection?",
+  "completion": "Drones inspect wind turbines for maintenance, capturing high-resolution images and thermal data to optimize performance and safety."
+},
+{
+  "prompt": "How do drones assist in highway/traffic monitoring?",
+  "completion": "Drones provide real-time data on congestion, accidents, and infrastructure conditions, offering more comprehensive monitoring than ground-based methods."
+},
+{
+  "prompt": "How do drones perform solar panel inspection & cleaning?",
+  "completion": "Drones inspect and clean solar panels, ensuring optimal performance and efficiency, faster and more effectively than manual methods."
+},
+{
+  "prompt": "What is stringing & powerline inspection with drones?",
+  "completion": "Drones inspect and string power lines, capturing detailed visual and thermal data for maintenance and safety inspections."
+},
+{
+  "prompt": "How are drones used for structural inspection of bridges, metros, roads, and railways?",
+  "completion": "Drones provide detailed inspections of infrastructure, capturing high-resolution images and thermal data, making inspections quicker and more efficient than manual methods."
+},
+{
+  "prompt": "What is warehouse & inventory - SLAM?",
+  "completion": "Drones equipped with SLAM (Simultaneous Localization and Mapping) technology perform inventory tracking and management in warehouses, providing real-time, accurate inventory data more efficiently than traditional manual methods."
+},
+{
+  "prompt": "How do drones assist in warehouse management?",
+  "completion": "Drones automate tasks like inventory tracking, order fulfillment, and stock management, improving efficiency and accuracy over manual processes."
+},
+{
+  "prompt": "What is logistics drone delivery?",
+  "completion": "Drones deliver goods and packages, offering fast and efficient transportation solutions compared to traditional delivery methods."
+},
+{
+  "prompt": "What is environmental impact assessment with drones?",
+  "completion": "Drones assess environmental impacts by collecting aerial data and analyzing changes in ecosystems and land use, providing detailed and efficient data collection."
+},
+{
+  "prompt": "How do drones perform aerial monitoring of ecosystems?",
+  "completion": "Drones monitor ecosystems from the air, collecting data on vegetation, wildlife, and environmental conditions, providing comprehensive real-time data."
+},
+{
+  "prompt": "How do drones monitor pollution?",
+  "completion": "Drones equipped with sensors monitor air and water pollution levels, providing real-time data on environmental pollutants."
+},
+{
+  "prompt": "What is a fire fighting drone?",
+  "completion": "Firefighting drones assist in firefighting operations by delivering fire retardants and providing real-time aerial views of fire situations, offering faster and more flexible responses."
+},
+{
+  "prompt": "How do drones monitor highways and traffic?",
+  "completion": "Drones provide real-time data on congestion, accidents, and infrastructure conditions, offering more comprehensive monitoring than ground-based methods."
+},
+{
+  "prompt": "How do drones assist in project monitoring?",
+  "completion": "Drones provide real-time monitoring of construction and infrastructure projects, ensuring compliance with safety standards and project timelines."
+},
+{
+  "prompt": "What is AI-integrated surveillance with drones?",
+  "completion": "Drones equipped with AI technology provide enhanced surveillance, identifying and tracking individuals and objects, offering real-time, intelligent monitoring."
+},
+{
+  "prompt": "How do drones perform facial recognition?",
+  "completion": "Drones equipped with facial recognition technology can identify individuals within a crowd, enhancing security and surveillance."
+},
+{
+  "prompt": "What is autonomous patrol with drones?",
+  "completion": "Drones perform autonomous patrols, monitoring designated areas for security and safety, providing continuous, automated monitoring."
+},
+{
+  "prompt": "How do drones monitor and control crowds?",
+  "completion": "Drones monitor crowds for safety and control purposes, providing real-time data to law enforcement and event organizers."
+},
+{
+  "prompt": "How do drones assist in riot management?",
+  "completion": "Drones monitor and manage riots, providing real-time information to law enforcement for effective intervention."
+},
+{
+  "prompt": "What is tear gas dropping with drones?",
+  "completion": "Drones equipped with tear gas canisters can disperse crowds or manage riots by remotely deploying tear gas."
+},
+{
+  "prompt": "What is a thermography drone?",
+  "completion": "Drones equipped with thermal cameras provide thermal imaging for various inspection and monitoring tasks, offering real-time thermal data."
+},
+{
+  "prompt": "How do drones perform sanitization?",
+  "completion": "Drones sanitize large areas efficiently, spraying disinfectants to reduce the spread of pathogens, offering rapid and thorough coverage."
+},
+{
+  "prompt": "How do drones assist in environmental conservation?",
+  "completion": "Drones monitor wildlife habitats, track animal movements, and assess environmental changes, supporting conservation efforts."
+},
+{
+  "prompt": "How are drones used in disaster response?",
+  "completion": "Drones provide real-time data and aerial views to assess damage, locate survivors, and coordinate rescue operations during disasters."
+},
+{
+  "prompt": "What is coastal monitoring with drones?",
+  "completion": "Drones equipped with facial recognition technology can identify individuals within a crowd, enhancing security and surveillance."
+},
+{
+  "prompt": "What is autonomous patrol with drones?",
+  "completion": "Drones monitor coastal areas for erosion, pollution, and marine life, providing comprehensive data to manage coastal ecosystems."
+},
+{
+  "prompt": "How do drones assist in urban planning?",
+  "completion": "Drones create detailed maps and models of urban areas, providing data for infrastructure development, zoning, and resource management."
+},
+{
+  "prompt": "What is thermal inspection with drones?",
+  "completion": "Drones equipped with thermal cameras inspect buildings and infrastructure for heat loss, electrical issues, and structural integrity."
+},
+{
+  "prompt": "How do drones support archaeological research?",
+  "completion": "Drones capture aerial images and create 3D models of archaeological sites, helping researchers study and preserve historical locations."
+},
+{
+  "prompt": "Tell me about new projects",
+  "completion": "New projects refer to initiatives that have recently been initiated or are in the early stages of development. These could include launching new products, expanding business operations, or embarking on innovative research. Companies often focus on new projects to diversify their offerings, enter new markets, or enhance their capabilities."
+},
+{
+  "prompt": "Tell me about upcoming projects",
+  "completion": "Upcoming projects are those that are planned for the near future but have not yet started. These projects could involve new product releases, strategic business expansions, or collaborations. They often involve detailed planning and preparation to ensure smooth execution once the project kicks off."
+},
+{
+  "prompt": "Tell me about future projects",
+  "completion": "Future projects are those that are envisioned for the long-term horizon and are often part of a company's strategic roadmap. These projects may focus on growth, innovation, and evolving market trends. They typically involve long-term planning and require significant resources, including research, development, and funding."
+},
+{
+  "prompt": "What are inspections and monitoring services?",
+  "completion": "Inspections and monitoring services involve the systematic examination and continuous observation of assets, equipment, or environments to ensure they are functioning correctly and safely. These services help identify issues early, ensure compliance with safety regulations, and improve operational efficiency. Drones and other technologies are commonly used for such services in various industries like construction, oil and gas, and infrastructure."
+},
+{
+  "prompt": "How do drones assist in inspections and monitoring?",
+  "completion": "Drones assist in inspections and monitoring by capturing high-resolution imagery, thermal data, and real-time video feeds from hard-to-reach areas. They provide accurate, up-to-date information about the condition of assets such as buildings, power lines, pipelines, and machinery, enabling faster decision-making and reducing risks for workers."
+},
+{
+  "prompt": "What industries benefit from inspections and monitoring services?",
+  "completion": "Industries that benefit from inspections and monitoring services include construction, oil and gas, agriculture, infrastructure, mining, energy, and telecommunications. These services help ensure safety, compliance, and efficiency by detecting potential hazards, monitoring operational progress, and providing data for maintenance and improvements."
+},
+{
+  "prompt": "What are the key advantages of using drones for inspections and monitoring?",
+  "completion": "The key advantages of using drones for inspections and monitoring include reduced time spent on manual inspections, increased safety by avoiding risky tasks for workers, and the ability to gather real-time, high-quality data from hard-to-reach or hazardous locations. Drones also improve accuracy, lower operational costs, and provide detailed records for analysis."
+},
+{
+  "prompt": "What are the drone parts available for sale?",
+  "completion": "The following drone parts are available for sale: 12x8mm Water Tube, Bottom Plate Mount, Vertical Landing Gear, 3x8mm Allen Screw, Flow Sensor, Hexagonal Tube Holder, Pixhawk Cube Flight Controller, and XT90 Male_Female Connector."
+},
+{
+  "prompt": "What drone accessories are available for purchase?",
+  "completion": "Available accessories for purchase include landing gear, propellers, battery chargers, remote controllers, GPS modules, and thermal cameras."
+},
+{
+  "prompt": "Can I buy spare parts for my drone?",
+  "completion": "Yes, we offer spare parts for drones such as motors, propellers, flight controllers, GPS units, and other essential components."
+},
+{
+  "prompt": "Do you sell drone flight controllers?",
+  "completion": "Yes, we sell a variety of drone flight controllers, including the Pixhawk Cube Flight Controller, which is known for its precision and reliability."
+},
+{
+  "prompt": "What sensors can I purchase for my drone?",
+  "completion": "We offer a range of sensors for drones, including flow sensors, thermal cameras, altitude sensors, and GPS modules to enhance your drone's functionality."
+},
+{
+  "prompt": "What types of drone landing gears do you sell?",
+  "completion": "We offer a variety of drone landing gears including vertical landing gear and custom mounts designed to provide stability during landings."
+},
+{
+  "prompt": "Are there any connectors available for drone assembly?",
+  "completion": "Yes, we provide connectors like the XT90 Male_Female Connector for secure and reliable power connections during drone assembly."
+},
+{
+  "prompt": "Do you sell water tubes for drones?",
+  "completion": "Yes, we have 12x8mm water tubes available for purchase, suitable for drones designed for spraying applications."
+},
+{
+  "prompt": "Can I buy drone hexagonal tube holders?",
+  "completion": "We sell hexagonal tube holders which are used in drone frame construction to provide extra support and structure."
+},
+{
+  "prompt": "What is the price range for drones?",
+  "completion": "For pricing information, please contact customer support via email at info@garudaaerospace.com or service@garudaaerospace.com. You can also reach us by phone at +91-78248-33884 or +91-77888-68884."
+},
+{
+  "prompt": "How is Garuda used in defense?",
+  "completion": "Garuda Aerospace drones are used in defense for surveillance, reconnaissance, search and rescue operations, and border patrols. They provide real-time aerial views and are equipped with advanced sensors to ensure enhanced security and safety."
+},
+{
+  "prompt": "How are Garuda drones used in defense?",
+  "completion": "Garuda drones play a crucial role in defense operations, assisting in intelligence gathering, surveillance, and reconnaissance missions. They are equipped with high-tech sensors and cameras to provide high-quality, real-time data for military decision-making."
+},
+{
+  "prompt": "How did Garuda tie up with defense?",
+  "completion": "Garuda Aerospace has partnered with defense organizations to develop drones specifically designed for military applications. This tie-up allows Garuda to provide advanced drone technology for defense purposes such as surveillance, border monitoring, and reconnaissance."
+},
+{
+  "prompt": "What are the requirements for becoming a Garuda Aerospace franchisee?",
+  "completion": "Garuda Aerospace is looking for entrepreneurs with a background in technology, aviation, or related industries. Franchisees should be ready to invest in a full-service franchise and commit to a long-term partnership, helping expand Garuda's reach and providing quality drone services to customers."
+},
+{
+  "prompt": "What are the key benefits of becoming a Garuda Aerospace franchisee?",
+  "completion": "Becoming a Garuda Aerospace franchisee offers benefits like association with a leading drone technology company, access to innovative products and services, training support, a strong brand reputation, and the potential for growth in the rapidly expanding drone market."
+},
+{
+  "prompt": "What kind of training and support do Garuda Aerospace franchisees receive?",
+  "completion": "Garuda Aerospace provides comprehensive training to franchisees, including product knowledge, drone operation, business management, and customer service. Ongoing support is available through a dedicated franchisee support team to ensure the success of the business."
+},
+{
+  "prompt": "How does the franchise model work with Garuda Aerospace?",
+  "completion": "The Garuda Aerospace franchise model is based on a partnership where franchisees operate as independent businesses under the Garuda brand. They receive training, equipment, marketing support, and operational guidance to run a successful drone service business."
+},
+{
+  "prompt": "What is the initial investment required to become a Garuda Aerospace franchisee?",
+  "completion": "The initial investment for a Garuda Aerospace franchisee varies depending on the location and scale of operations, but it includes costs for setting up the franchise, equipment, training, and marketing. For specific figures, interested parties can contact Garuda Aerospace directly."
+},
+{
+  "prompt": "What are the business opportunities for Garuda Aerospace franchisees?",
+  "completion": "Garuda Aerospace franchisees have access to business opportunities in various sectors including agriculture, infrastructure, defense, surveillance, and environmental monitoring. Drones are widely used for crop spraying, land mapping, inspection services, and more."
+},
+{
+  "prompt": "How does Garuda Aerospace support franchisees in marketing and customer acquisition?",
+  "completion": "Garuda Aerospace provides marketing support to franchisees through promotional materials, digital marketing campaigns, and brand recognition. Franchisees also benefit from Garuda's established customer base and reputation in the drone industry, helping them acquire clients."
+},
+{
+  "prompt": "what can you tell me about MS Dhoni?",
+  "completion": "MS Dhoni is an intelligent chatbot designed by Iq TechMax for Garuda Aerospace to provide users with information about their products, services, and operations. It can assist with answering FAQs, providing drone details, and guiding users through various processes."
+},
+{
+  "prompt": "who built you?",
+  "completion": "I was built by Iq TechMax for Garuda Aerospace."
+},
+{
+  "prompt": "what is your purpose?",
+  "completion": "My purpose is to assist users by providing information about Garuda Aerospace's products, services, and operations, and help with various queries."
+},
+{
+  "prompt": "what can you help me with?",
+  "completion": "I can help with answering FAQs, providing details on drones and services, assisting with product inquiries, and much more related to Garuda Aerospace."
+},
+{
+  "prompt": "how can I contact customer support?",
+  "completion": "You can contact customer support via email at info@garudaaerospace.com or service@garudaaerospace.com, or call us at +91-78248-33884 or +91-77888-68884."
+},
+{
+  "prompt": "can I get drone prices?",
+  "completion": "For drone prices, please contact our customer support via email at info@garudaaerospace.com or service@garudaaerospace.com, or call us at +91-78248-33884 or +91-77888-68884."
+},
+{
+  "prompt": "how do drones benefit agriculture?",
+  "completion": "Drones benefit agriculture by providing efficient crop monitoring, precise spraying, and accurate data collection, helping farmers make informed decisions and improve yield."
+},
+{
+  "prompt": "where is Garuda Aerospace located?",
+  "completion": "Garuda Aerospace is headquartered in India, with multiple offices including locations for manufacturing and support services."
+},
+{
+  "prompt": "are drones safe for use?",
+  "completion": "Yes, drones are designed with safety features like obstacle avoidance and automatic return to home, ensuring safe operation for various tasks including agriculture, inspection, and surveillance."
+},
+{
+  "prompt": "how is Garuda involved in defense?",
+  "completion": "Garuda Aerospace collaborates with defense sectors by providing advanced drone technology for surveillance, reconnaissance, and logistical support in various defense applications."
+},
+{
+  "prompt": "can drones be used in emergency situations?",
+  "completion": "Yes, drones are useful in emergency situations like disaster response, search and rescue missions, and delivering supplies to inaccessible areas."
+},
+{
+  "prompt": "hi, how are you doing?",
+  "completion": "I'm doing great, thank you for asking! How can I assist you today?"
+},
+{
+  "prompt": "hi, what are you doing?",
+  "completion": "I'm here to help you with any questions you have! What can I assist you with today?"
+},
+{
+  "prompt": "hello, how are you doing?",
+  "completion": "Hello! I'm doing well, thanks for asking. How can I help you today?"
+},
+{
+  "prompt": "hey, how are you doing?",
+  "completion": "Hey! I'm doing great, thanks! How can I help you today?"
+},
+{
+  "prompt": "hey hai, how are you doing?",
+  "completion": "Hey hai! I'm doing well, thanks! How can I assist you?"
+},
+{
+  "prompt": "hello, how are you doing?",
+  "completion": "Hello! I'm doing fine, thank you for asking. What can I help you with today?"
+},
+{
+  "prompt": "hey, how are you doing?",
+  "completion": "Hey! I'm doing well, thank you! How can I assist you today?"
+},
+{
+  "prompt": "hey hai, how are you doing?",
+  "completion": "Hey hai! I'm doing good, thanks! How can I help you today?"
+},
+{
+  "prompt": "how's it going?",
+  "completion": "It's going great, thanks! How about you?"
+},
+{
+  "prompt": "what's up?",
+  "completion": "Not much! Just here to assist you. How can I help?"
+},
+{
+  "prompt": "how are things with you?",
+  "completion": "Things are going smoothly! How can I assist you today?"
+},
+{
+  "prompt": "hey, what's going on?",
+  "completion": "Hey! Not much, just ready to help. What can I do for you?"
+},
+{
+  "prompt": "how are you feeling today?",
+  "completion": "I'm feeling great, thanks! How can I assist you today?"
+},
+{
+  "prompt": "what's new with you?",
+  "completion": "Not much, just here to assist you! What can I help with today?"
+},
+{
+  "prompt": "Who are you?",
+  "completion": "I am MS Dhoni, the virtual assistant for Garuda Aerospace. I'm here to assist you with any questions you have about our drones, services, or company."
+},
+{
+  "prompt": "What can you do?",
+  "completion": "I can help you with information about our drones, services, frequently asked questions, and much more. Feel free to ask me anything!"
+},
+{
+  "prompt": "How can I get in touch with Garuda Aerospace?",
+  "completion": "You can contact us by emailing at info@garudaaerospace.com or calling us at +91-78248-33884 or +91-77888-68884."
+},
+{
+  "prompt": "Tell me more about Garuda Aerospace.",
+  "completion": "Garuda Aerospace is a leading drone manufacturer and service provider in India. We specialize in providing innovative solutions for agriculture, defense, and commercial sectors using drone technology."
+},
+{
+  "prompt": "How can I buy a drone from Garuda Aerospace?",
+  "completion": "To purchase a drone, you can contact our sales team through email at sales@garudaaerospace.com or call us at +91-78248-33884 for more details."
+},
+{
+  "prompt": "What are the benefits of using drones in agriculture?",
+  "completion": "Drones in agriculture help optimize the use of inputs, improve crop scouting, monitor health, and save time. They can also reduce pesticide use, improve variable-rate prescriptions, and estimate yield more accurately."
+},
+{
+  "prompt": "How do drones assist in monitoring and inspection?",
+  "completion": "Drones help monitor construction sites, pipelines, solar panels, and infrastructure by capturing high-resolution images, performing thermal inspections, and providing real-time data for safety and performance evaluation."
+},
+{
+  "prompt": "What is the price of a drone?",
+  "completion": "For information regarding pricing, please contact our customer support team at info@garudaaerospace.com or service@garudaaerospace.com, or call us at +91-78248-33884 or +91-77888-68884."
+},
+{
+  "prompt": "Is drone flying regulated?",
+  "completion": "Yes, drone operations in India are regulated by the Directorate General of Civil Aviation (DGCA). Operators need to obtain a license and follow specific guidelines for flying drones."
+},
+{
+  "prompt": "Can drones be used for defense purposes?",
+  "completion": "Yes, Garuda Aerospace provides drones for defense applications including surveillance, reconnaissance, and strategic operations, enhancing the efficiency and effectiveness of defense forces."
+},
+{
+  "prompt": "What industries use Garuda drones?",
+  "completion": "Garuda drones are used in a variety of industries, including agriculture, defense, construction, energy, mining, surveillance, and more, providing innovative solutions for various applications."
+},
+{
+  "prompt": "How is Garuda contributing to innovation?",
+  "completion": "Garuda Aerospace is constantly innovating by developing cutting-edge drone technology for various sectors. We focus on research and development to create products that enhance efficiency and safety in different industries."
+},
+{
+  "prompt": "Are Garuda drones easy to operate?",
+  "completion": "Yes, Garuda drones are designed for ease of use. They come with user-friendly interfaces and easy-to-follow instructions, making them suitable for both beginners and experts in drone operations."
+},
+{
+  "prompt": "Do you offer training for drone operators?",
+  "completion": "Yes, Garuda Aerospace offers comprehensive training programs for drone operators. Our training covers drone flying, maintenance, and understanding the regulations."
+},
+{
+  "prompt": "What should I do if my drone isn't working?",
+  "completion": "If your drone isn't functioning properly, you can reach out to our support team at service@garudaaerospace.com for troubleshooting or warranty services."
+},
+{
+  "prompt": "Can drones be used for environmental monitoring?",
+  "completion": "Yes, drones are widely used in environmental monitoring, capturing aerial data on wildlife, vegetation, pollution levels, and ecosystem changes to support conservation efforts."
+},
+{
+  "prompt": "How does a drone work?",
+  "completion": "A drone works by using rotors for lift, a flight controller for navigation, and sensors for stability. It captures data via cameras or other sensors, depending on its purpose, and transmits it back to the operator."
+},
+{
+  "prompt": "What is the maximum range of a Garuda drone?",
+  "completion": "The range of Garuda drones depends on the specific model. Generally, our drones can operate within a range of 1 to 10 kilometers, depending on the payload and operating conditions."
+},
+{
+  "prompt": "How do I become a Garuda franchisee?",
+  "completion": "If you’re interested in becoming a Garuda franchisee, you can contact us at franchise@garudaaerospace.com. We’re looking for entrepreneurs with a background in technology or aviation who are ready to invest in our full-service franchise."
 }
-
-
-          
+         
 ]
