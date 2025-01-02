@@ -167,9 +167,9 @@ def chat(user_input, is_admin=False):
     # Handling greetings
     if is_greeting(user_input):
         greetings_responses = [
-            "Hi there! I'm Garuda Bot, developed by IQ TechMax. How can I assist you today?",
-            "Hey! How's it going? I'm Garuda Bot, here to help you!",
-            "Hello! Welcome to Garuda Aerospace! How may I help you?"
+            "Hi, I am Mahendra Singh Dhoni, the brand ambassaddor of Garuda Aerospace. How can I assist you today?",
+            "Hey! How's it going? Mahendra Singh Dhoni, the brand ambassaddor of Garuda Aerospace, here to help you!",
+            "Hello! Welcome to Garuda Aerospace, I am Mahendra Singh Dhoni! How may I help you?"
         ]
         return random.choice(greetings_responses)
     
