@@ -16,11 +16,14 @@
 # pymongo
 # python-dotenv
 
+Flask
 fuzzywuzzy
 sentence-transformers
 pymongo
 loguru
-numpy  # Often required by sentence-transformers
-scipy  # Often required by sentence-transformers
-torch  # Required for sentence-transformers
-transformers  # Required for advanced sentence-transformers models
+numpy
+speechrecognition==3.8.1
+python-dotenv
+Flask-CORS
+pyttsx3==2.90
+json5==0.9.14
