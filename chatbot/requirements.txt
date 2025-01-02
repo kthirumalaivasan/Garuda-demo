@@ -1,17 +1,26 @@
-langchain
-ollama
-speechrecognition==3.8.1
-pyttsx3==2.90
-json5==0.9.14
-streamlit==1.24.0
-autocorrect==2.6.1
-fuzzywuzzy==0.18.0
-python-Levenshtein
-flask==2.2.5
-Flask-CORS
+# langchain
+# ollama
+# speechrecognition==3.8.1
+# pyttsx3==2.90
+# json5==0.9.14
+# streamlit==1.24.0
+# autocorrect==2.6.1
+# fuzzywuzzy==0.18.0
+# python-Levenshtein
+# flask==2.2.5
+# Flask-CORS
+# sentence-transformers
+# scikit-learn==1.2.0
+# numpy==1.23.5
+# werkzeug>=2.0.0
+# pymongo
+# python-dotenv
+
+fuzzywuzzy
 sentence-transformers
-scikit-learn==1.2.0
-numpy==1.23.5
-werkzeug>=2.0.0
 pymongo
-python-dotenv
+loguru
+numpy  # Often required by sentence-transformers
+scipy  # Often required by sentence-transformers
+torch  # Required for sentence-transformers
+transformers  # Required for advanced sentence-transformers models
